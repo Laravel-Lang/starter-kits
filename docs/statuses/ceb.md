@@ -113,20 +113,20 @@ Email
 </td></tr>
 <tr><td width="50%">
 
-Email Address
+Email address
 
 </td><td width="50%">
 
-Email Address
+Email address
 
 </td></tr>
 <tr><td width="50%">
 
-Email address
+Email Address
 
 </td><td width="50%">
 
-Email address
+Email Address
 
 </td></tr>
 <tr><td width="50%">
