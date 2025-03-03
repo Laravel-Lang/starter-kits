@@ -13,7 +13,7 @@ class Vue extends Plugin
     public function files(): array
     {
         return [
-            'vue.json' => '{locale}.json',
+            'vue/main/vue.json' => '{locale}.json',
         ];
     }
 }
