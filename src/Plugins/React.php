@@ -10,6 +10,8 @@ class React extends Plugin
 {
     protected ?string $vendor = 'laravel/react-starter-kit';
 
+    protected bool $with_project_name = true;
+
     public function files(): array
     {
         return [

@@ -9,6 +9,8 @@ use LaravelLang\Publisher\Plugins\Plugin;
 class Livewire extends Plugin
 {
     protected ?string $vendor = 'laravel/livewire-starter-kit';
+    
+    protected bool $with_project_name = true;
 
     public function files(): array
     {

@@ -10,6 +10,8 @@ class Vue extends Plugin
 {
     protected ?string $vendor = 'laravel/vue-starter-kit';
 
+    protected bool $with_project_name = true;
+
     public function files(): array
     {
         return [
