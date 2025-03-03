@@ -27,11 +27,7 @@ Instead, you may of course manually update your `require-dev` block and run `com
 
 ## Using
 
-To install files from this repository into your project, you need to install
-the [laravel-lang/publisher](https://laravel-lang.com/packages-publisher.html)
-version `^14.0` and above.
-
-Run the `php artisan lang:update` console command.
+Just run the `php artisan lang:update` console command.
 
 Yes, that's all 😊
 
