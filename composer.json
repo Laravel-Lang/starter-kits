@@ -1,6 +1,6 @@
 {
-    "name": "your/namespace",
-    "description": "Extended translations for Laravel Projects",
+    "name": "laravel-lang/starter-kits",
+    "description": "Translations for Laravel Starter Kits",
     "license": "MIT",
     "type": "library",
     "keywords": [
@@ -8,7 +8,9 @@
         "languages",
         "lang",
         "translations",
-        "messages"
+        "starter-kit",
+        "starter-kits",
+        "i18n"
     ],
     "authors": [
         {
@@ -21,20 +23,20 @@
         }
     ],
     "require": {
-        "php": "^8.1",
+        "php": "^8.2",
         "ext-json": "*",
         "laravel-lang/publisher": "^16.0"
     },
     "require-dev": {
         "laravel-lang/status-generator": "^2.3.1",
-        "phpunit/phpunit": "^10.0 || ^11.0 || ^12.0",
+        "phpunit/phpunit": "^12.0",
         "symfony/var-dumper": "^6.3 || ^7.0"
     },
     "minimum-stability": "stable",
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "YourNamespace\\Translations\\": "src/"
+            "LaravelLang\\StarterKits\\": "src/"
         }
     },
     "autoload-dev": {
@@ -54,7 +56,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "YourNamespace\\Translations\\ServiceProvider"
+                "LaravelLang\\StarterKits\\ServiceProvider"
             ]
         }
     }

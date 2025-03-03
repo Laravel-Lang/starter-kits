@@ -1,9 +1,6 @@
 name: Feature Proposal
 description: Propose a new feature
 
-labels:
-    - '💪 feature request'
-
 body:
     -   type: markdown
         attributes:
@@ -29,11 +26,11 @@ body:
         attributes:
             label: Environment
             description: |
-                Tip: Use the `composer info your/namespace` command to get information for Laravel Lang.
+                Tip: Use the `composer info laravel-lang/starter-kits` command to get information for Laravel Lang.
                 Tip: Use the `composer info laravel/framework` command to get information for Laravel Framework.
                 Tip: Use the `php -v` command to get information for PHP.
             value: |
-                - Extended Lang Translations Template Version:
+                - Laravel-Lang: Starter Kits Version:
                 - Laravel Version:
                 - PHP Version:
         validations:
@@ -42,4 +39,4 @@ body:
     -   type: markdown
         attributes:
             value: |
-                ❤️ Laravel Lang? Please consider supporting our collective: https://opencollective.com/laravel-lang
+                ❤️ Laravel Lang? Please consider supporting our collective: https://boosty.to/laravel-lang

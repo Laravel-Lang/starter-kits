@@ -1,0 +1,54 @@
+name: Download Projects
+
+on:
+    schedule:
+        -   cron: 34 0 * * *
+    workflow_dispatch:
+
+permissions: write-all
+
+jobs:
+    livewire:
+        uses: Laravel-Lang/.github/.github/workflows/download.yml@main
+        strategy:
+            fail-fast: true
+            matrix:
+                version: [ "main" ]
+        with:
+            project: Laravel Livewire Starter Kit ${{ matrix.version }}
+            paths: source/livewire/${{ matrix.version }}/*
+            commands: |
+                vendor/bin/lang download \
+                    --url=https://github.com/laravel/livewire-starter-kit/archive/refs/heads/${{ matrix.version }}.zip \
+                    --project=livewire \
+                    --ver=${{ matrix.version }}
+       
+    react:
+        uses: Laravel-Lang/.github/.github/workflows/download.yml@main
+        strategy:
+            fail-fast: true
+            matrix:
+                version: [ "main" ]
+        with:
+            project: Laravel React Starter Kit ${{ matrix.version }}
+            paths: source/react/${{ matrix.version }}/*
+            commands: |
+                vendor/bin/lang download \
+                    --url=https://github.com/laravel/react-starter-kit/archive/refs/heads/${{ matrix.version }}.zip \
+                    --project=react \
+                    --ver=${{ matrix.version }}
+    
+    vue:
+        uses: Laravel-Lang/.github/.github/workflows/download.yml@main
+        strategy:
+            fail-fast: true
+            matrix:
+                version: [ "main" ]
+        with:
+            project: Laravel Vue Starter Kit ${{ matrix.version }}
+            paths: source/vue/${{ matrix.version }}/*
+            commands: |
+                vendor/bin/lang download \
+                    --url=https://github.com/laravel/vue-starter-kit/archive/refs/heads/${{ matrix.version }}.zip \
+                    --project=vue \
+                    --ver=${{ matrix.version }}
