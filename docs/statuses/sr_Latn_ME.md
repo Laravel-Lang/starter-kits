@@ -4,12 +4,12 @@ editLink: false
 
 # sr_Latn_ME
 
-##### All missed: 31
+##### All missed: 35
 
 
 ### json
 
-##### Missing: 31
+##### Missing: 35
 
 <table width="100%">
 <tr><th width="50%">
@@ -194,11 +194,29 @@ New password
 </td></tr>
 <tr><td width="50%">
 
+Once your account is deleted, all of its resources and data will also be permanently deleted. Please confirm you would like to permanently delete your account.
+
+</td><td width="50%">
+
+Once your account is deleted, all of its resources and data will also be permanently deleted. Please confirm you would like to permanently delete your account.
+
+</td></tr>
+<tr><td width="50%">
+
 Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
 
 </td><td width="50%">
 
 Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
+
+</td></tr>
+<tr><td width="50%">
+
+Platform
+
+</td><td width="50%">
+
+Platform
 
 </td></tr>
 <tr><td width="50%">
@@ -235,6 +253,15 @@ Reset password
 </td><td width="50%">
 
 Reset password
+
+</td></tr>
+<tr><td width="50%">
+
+Search
+
+</td><td width="50%">
+
+Search
 
 </td></tr>
 <tr><td width="50%">
@@ -280,6 +307,15 @@ Update the appearance settings for your account
 </td><td width="50%">
 
 Update the appearance settings for your account
+
+</td></tr>
+<tr><td width="50%">
+
+Update your account's appearance settings
+
+</td><td width="50%">
+
+Update your account's appearance settings
 
 </td></tr>
 <tr><td width="50%">
