@@ -95,20 +95,20 @@ Confirm
 </td></tr>
 <tr><td width="50%">
 
-Confirm password
+Confirm Password
 
 </td><td width="50%">
 
-Confirm password
+Confirm Password
 
 </td></tr>
 <tr><td width="50%">
 
-Confirm Password
+Confirm password
 
 </td><td width="50%">
 
-Confirm Password
+Confirm password
 
 </td></tr>
 <tr><td width="50%">
@@ -185,20 +185,20 @@ Email
 </td></tr>
 <tr><td width="50%">
 
-Email Address
+Email address
 
 </td><td width="50%">
 
-Email Address
+Email address
 
 </td></tr>
 <tr><td width="50%">
 
-Email address
+Email Address
 
 </td><td width="50%">
 
-Email address
+Email Address
 
 </td></tr>
 <tr><td width="50%">
@@ -248,20 +248,20 @@ Log in
 </td></tr>
 <tr><td width="50%">
 
-Log Out
+Log out
 
 </td><td width="50%">
 
-Log Out
+Log out
 
 </td></tr>
 <tr><td width="50%">
 
-Log out
+Log Out
 
 </td><td width="50%">
 
-Log out
+Log Out
 
 </td></tr>
 <tr><td width="50%">
