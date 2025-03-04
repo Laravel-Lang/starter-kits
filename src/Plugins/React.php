@@ -15,7 +15,8 @@ class React extends Plugin
     public function files(): array
     {
         return [
-            'react/main/react.json' => '{locale}.json',
+            'react/main/react.json'    => '{locale}.json',
+            'react/preview/react.json' => '{locale}.json',
         ];
     }
 }
