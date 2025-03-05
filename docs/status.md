@@ -4,7 +4,7 @@ editLink: false
 
 # Completion Status
 
-> Translation of localizations is completed by **82.01%** (5.3K / 6.4K).
+> Translation of localizations is completed by **83.3%** (5.4K / 6.4K).
 
 <table width="100%">
 <tr><td width="12%">
@@ -273,7 +273,7 @@ editLink: false
 </td></tr>
 <tr><td width="12%">
 
-[mi&nbsp;❗](statuses/mi.md)
+[mi&nbsp;✔](statuses/mi.md)
 
 </td><td width="12%">
 
@@ -281,19 +281,19 @@ editLink: false
 
 </td><td width="12%">
 
-[ml&nbsp;❗](statuses/ml.md)
+[ml&nbsp;✔](statuses/ml.md)
 
 </td><td width="12%">
 
-[mn&nbsp;❗](statuses/mn.md)
+[mn&nbsp;✔](statuses/mn.md)
 
 </td><td width="12%">
 
-[mni_Mtei&nbsp;❗](statuses/mni_Mtei.md)
+[mni_Mtei&nbsp;✔](statuses/mni_Mtei.md)
 
 </td><td width="12%">
 
-[mr&nbsp;❗](statuses/mr.md)
+[mr&nbsp;✔](statuses/mr.md)
 
 </td><td width="12%">
 
@@ -306,7 +306,7 @@ editLink: false
 </td></tr>
 <tr><td width="12%">
 
-[my&nbsp;❗](statuses/my.md)
+[my&nbsp;✔](statuses/my.md)
 
 </td><td width="12%">
 
@@ -330,16 +330,16 @@ editLink: false
 
 </td><td width="12%">
 
-[om&nbsp;❗](statuses/om.md)
+[om&nbsp;✔](statuses/om.md)
 
 </td><td width="12%">
 
-[or&nbsp;❗](statuses/or.md)
+[or&nbsp;✔](statuses/or.md)
 
 </td></tr>
 <tr><td width="12%">
 
-[pa&nbsp;❗](statuses/pa.md)
+[pa&nbsp;✔](statuses/pa.md)
 
 </td><td width="12%">
 
@@ -347,7 +347,7 @@ editLink: false
 
 </td><td width="12%">
 
-[ps&nbsp;❗](statuses/ps.md)
+[ps&nbsp;✔](statuses/ps.md)
 
 </td><td width="12%">
 
@@ -359,7 +359,7 @@ editLink: false
 
 </td><td width="12%">
 
-[qu&nbsp;❗](statuses/qu.md)
+[qu&nbsp;✔](statuses/qu.md)
 
 </td><td width="12%">
 
@@ -372,11 +372,11 @@ editLink: false
 </td></tr>
 <tr><td width="12%">
 
-[rw&nbsp;❗](statuses/rw.md)
+[rw&nbsp;✔](statuses/rw.md)
 
 </td><td width="12%">
 
-[sa&nbsp;❗](statuses/sa.md)
+[sa&nbsp;✔](statuses/sa.md)
 
 </td><td width="12%">
 
@@ -384,15 +384,15 @@ editLink: false
 
 </td><td width="12%">
 
-[sd&nbsp;❗](statuses/sd.md)
+[sd&nbsp;✔](statuses/sd.md)
 
 </td><td width="12%">
 
-[si&nbsp;❗](statuses/si.md)
+[si&nbsp;✔](statuses/si.md)
 
 </td><td width="12%">
 
-[sk&nbsp;❗](statuses/sk.md)
+[sk&nbsp;✔](statuses/sk.md)
 
 </td><td width="12%">
 
