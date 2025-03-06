@@ -13,7 +13,7 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "main" ]
+                version: [ "main", "workos", "preview", "components" ]
         with:
             project: Laravel Livewire Starter Kit ${{ matrix.version }}
             paths: source/livewire/${{ matrix.version }}/*
@@ -28,7 +28,7 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "main" ]
+                version: [ "main", "workos", "preview" ]
         with:
             project: Laravel React Starter Kit ${{ matrix.version }}
             paths: source/react/${{ matrix.version }}/*
@@ -43,7 +43,7 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "main" ]
+                version: [ "main", "workos", "preview" ]
         with:
             project: Laravel Vue Starter Kit ${{ matrix.version }}
             paths: source/vue/${{ matrix.version }}/*

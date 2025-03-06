@@ -15,7 +15,10 @@ class Livewire extends Plugin
     public function files(): array
     {
         return [
-            'livewire/main/livewire.json' => '{locale}.json',
+            'livewire/main/livewire.json'       => '{locale}.json',
+            'livewire/components/livewire.json' => '{locale}.json',
+            'livewire/preview/livewire.json'    => '{locale}.json',
+            'livewire/workos/livewire.json'     => '{locale}.json',
         ];
     }
 }
