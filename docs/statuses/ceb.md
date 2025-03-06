@@ -4,12 +4,12 @@ editLink: false
 
 # ceb
 
-##### All missed: 16
+##### All missed: 17
 
 
 ### json
 
-##### Missing: 16
+##### Missing: 17
 
 <table width="100%">
 <tr><th width="50%">
@@ -109,6 +109,15 @@ Forgot password
 </td><td width="50%">
 
 Forgot password
+
+</td></tr>
+<tr><td width="50%">
+
+Full name
+
+</td><td width="50%">
+
+Full name
 
 </td></tr>
 <tr><td width="50%">
