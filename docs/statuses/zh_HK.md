@@ -4,12 +4,12 @@ editLink: false
 
 # zh_HK
 
-##### All missed: 39
+##### All missed: 40
 
 
 ### json
 
-##### Missing: 39
+##### Missing: 40
 
 <table width="100%">
 <tr><th width="50%">
@@ -181,6 +181,15 @@ Forgot password
 </td><td width="50%">
 
 Forgot password
+
+</td></tr>
+<tr><td width="50%">
+
+Full name
+
+</td><td width="50%">
+
+Full name
 
 </td></tr>
 <tr><td width="50%">

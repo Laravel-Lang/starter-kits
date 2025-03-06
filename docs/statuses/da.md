@@ -4,12 +4,12 @@ editLink: false
 
 # da
 
-##### All missed: 41
+##### All missed: 42
 
 
 ### json
 
-##### Missing: 41
+##### Missing: 42
 
 <table width="100%">
 <tr><th width="50%">
@@ -190,6 +190,15 @@ Forgot password
 </td><td width="50%">
 
 Forgot password
+
+</td></tr>
+<tr><td width="50%">
+
+Full name
+
+</td><td width="50%">
+
+Full name
 
 </td></tr>
 <tr><td width="50%">
