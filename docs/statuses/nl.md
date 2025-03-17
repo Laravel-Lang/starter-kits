@@ -4,51 +4,7 @@ editLink: false
 
 # nl
 
-##### All missed: 3
+##### All missed: 0
 
-
-### json
-
-##### Missing: 3
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-Platform
-
-</td><td width="50%">
-
-Platform
-
-</td></tr>
-<tr><td width="50%">
-
-Sign up
-
-</td><td width="50%">
-
-Sign up
-
-</td></tr>
-<tr><td width="50%">
-
-status
-
-</td><td width="50%">
-
-status
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
+All lines are translated 😊
 
