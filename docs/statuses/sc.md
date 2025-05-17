@@ -104,20 +104,20 @@ Confirm
 </td></tr>
 <tr><td width="50%">
 
-Confirm password
+Confirm Password
 
 </td><td width="50%">
 
-Confirm password
+Confirm Password
 
 </td></tr>
 <tr><td width="50%">
 
-Confirm Password
+Confirm password
 
 </td><td width="50%">
 
-Confirm Password
+Confirm password
 
 </td></tr>
 <tr><td width="50%">
