@@ -212,20 +212,20 @@ Email
 </td></tr>
 <tr><td width="50%">
 
-Email Address
+Email address
 
 </td><td width="50%">
 
-Email Address
+Email address
 
 </td></tr>
 <tr><td width="50%">
 
-Email address
+Email Address
 
 </td><td width="50%">
 
-Email address
+Email Address
 
 </td></tr>
 <tr><td width="50%">
@@ -311,20 +311,20 @@ Light
 </td></tr>
 <tr><td width="50%">
 
-log in
+Log in
 
 </td><td width="50%">
 
-log in
+Log in
 
 </td></tr>
 <tr><td width="50%">
 
-Log in
+log in
 
 </td><td width="50%">
 
-Log in
+log in
 
 </td></tr>
 <tr><td width="50%">
@@ -338,20 +338,20 @@ Log in to your account
 </td></tr>
 <tr><td width="50%">
 
-Log out
+Log Out
 
 </td><td width="50%">
 
-Log out
+Log Out
 
 </td></tr>
 <tr><td width="50%">
 
-Log Out
+Log out
 
 </td><td width="50%">
 
-Log Out
+Log out
 
 </td></tr>
 <tr><td width="50%">
