@@ -4,12 +4,12 @@ editLink: false
 
 # sr_Latn_ME
 
-##### All missed: 49
+##### All missed: 81
 
 
 ### json
 
-##### Missing: 49
+##### Missing: 81
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,6 +23,15 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+2FA Recovery Codes
+
+</td><td width="50%">
+
+2FA Recovery Codes
+
+</td></tr>
+<tr><td width="50%">
+
 A new verification link has been sent to your email address.
 
 </td><td width="50%">
@@ -68,6 +77,24 @@ Are you sure you want to delete your account?
 </td></tr>
 <tr><td width="50%">
 
+Authentication Code
+
+</td><td width="50%">
+
+Authentication Code
+
+</td></tr>
+<tr><td width="50%">
+
+Back
+
+</td><td width="50%">
+
+Back
+
+</td></tr>
+<tr><td width="50%">
+
 Click here to re-send the verification email.
 
 </td><td width="50%">
@@ -77,11 +104,29 @@ Click here to re-send the verification email.
 </td></tr>
 <tr><td width="50%">
 
+Close
+
+</td><td width="50%">
+
+Close
+
+</td></tr>
+<tr><td width="50%">
+
 Confirm password
 
 </td><td width="50%">
 
 Confirm password
+
+</td></tr>
+<tr><td width="50%">
+
+Continue
+
+</td><td width="50%">
+
+Continue
 
 </td></tr>
 <tr><td width="50%">
@@ -140,6 +185,24 @@ Delete your account and all of its resources
 </td></tr>
 <tr><td width="50%">
 
+Disable 2FA
+
+</td><td width="50%">
+
+Disable 2FA
+
+</td></tr>
+<tr><td width="50%">
+
+Disabled
+
+</td><td width="50%">
+
+Disabled
+
+</td></tr>
+<tr><td width="50%">
+
 Documentation
 
 </td><td width="50%">
@@ -154,6 +217,15 @@ Don't have an account?
 </td><td width="50%">
 
 Don't have an account?
+
+</td></tr>
+<tr><td width="50%">
+
+Each recovery code can be used once to access your account and will be removed after use. If you need more, click Regenerate Codes above.
+
+</td><td width="50%">
+
+Each recovery code can be used once to access your account and will be removed after use. If you need more, click Regenerate Codes above.
 
 </td></tr>
 <tr><td width="50%">
@@ -176,11 +248,56 @@ Email password reset link
 </td></tr>
 <tr><td width="50%">
 
+Enable 2FA
+
+</td><td width="50%">
+
+Enable 2FA
+
+</td></tr>
+<tr><td width="50%">
+
+Enable Two-Factor Authentication
+
+</td><td width="50%">
+
+Enable Two-Factor Authentication
+
+</td></tr>
+<tr><td width="50%">
+
+Enabled
+
+</td><td width="50%">
+
+Enabled
+
+</td></tr>
+<tr><td width="50%">
+
 Ensure your account is using a long, random password to stay secure
 
 </td><td width="50%">
 
 Ensure your account is using a long, random password to stay secure
+
+</td></tr>
+<tr><td width="50%">
+
+Enter the 6-digit code from your authenticator app.
+
+</td><td width="50%">
+
+Enter the 6-digit code from your authenticator app.
+
+</td></tr>
+<tr><td width="50%">
+
+Enter the authentication code provided by your authenticator application.
+
+</td><td width="50%">
+
+Enter the authentication code provided by your authenticator application.
 
 </td></tr>
 <tr><td width="50%">
@@ -230,6 +347,15 @@ Full name
 </td></tr>
 <tr><td width="50%">
 
+Hide Recovery Codes
+
+</td><td width="50%">
+
+Hide Recovery Codes
+
+</td></tr>
+<tr><td width="50%">
+
 Light
 
 </td><td width="50%">
@@ -266,11 +392,38 @@ Log out
 </td></tr>
 <tr><td width="50%">
 
+login using a recovery code
+
+</td><td width="50%">
+
+login using a recovery code
+
+</td></tr>
+<tr><td width="50%">
+
+login using an authentication code
+
+</td><td width="50%">
+
+login using an authentication code
+
+</td></tr>
+<tr><td width="50%">
+
 Manage your profile and account settings
 
 </td><td width="50%">
 
 Manage your profile and account settings
+
+</td></tr>
+<tr><td width="50%">
+
+Manage your two-factor authentication settings
+
+</td><td width="50%">
+
+Manage your two-factor authentication settings
 
 </td></tr>
 <tr><td width="50%">
@@ -302,6 +455,24 @@ Once your account is deleted, all of its resources and data will be permanently 
 </td></tr>
 <tr><td width="50%">
 
+or you can
+
+</td><td width="50%">
+
+or you can
+
+</td></tr>
+<tr><td width="50%">
+
+or, enter the code manually
+
+</td><td width="50%">
+
+or, enter the code manually
+
+</td></tr>
+<tr><td width="50%">
+
 Or, return to
 
 </td><td width="50%">
@@ -320,6 +491,15 @@ Platform
 </td></tr>
 <tr><td width="50%">
 
+Please confirm access to your account by entering one of your emergency recovery codes.
+
+</td><td width="50%">
+
+Please confirm access to your account by entering one of your emergency recovery codes.
+
+</td></tr>
+<tr><td width="50%">
+
 Please enter your new password below
 
 </td><td width="50%">
@@ -334,6 +514,33 @@ Please verify your email address by clicking on the link we just emailed to you.
 </td><td width="50%">
 
 Please verify your email address by clicking on the link we just emailed to you.
+
+</td></tr>
+<tr><td width="50%">
+
+Recovery Code
+
+</td><td width="50%">
+
+Recovery Code
+
+</td></tr>
+<tr><td width="50%">
+
+Recovery codes let you regain access if you lose your 2FA device. Store them in a secure password manager.
+
+</td><td width="50%">
+
+Recovery codes let you regain access if you lose your 2FA device. Store them in a secure password manager.
+
+</td></tr>
+<tr><td width="50%">
+
+Regenerate Codes
+
+</td><td width="50%">
+
+Regenerate Codes
 
 </td></tr>
 <tr><td width="50%">
@@ -419,6 +626,51 @@ This is a secure area of the application. Please confirm your password before co
 </td></tr>
 <tr><td width="50%">
 
+To finish enabling two-factor authentication, scan the QR code or enter the setup key in your authenticator app.
+
+</td><td width="50%">
+
+To finish enabling two-factor authentication, scan the QR code or enter the setup key in your authenticator app.
+
+</td></tr>
+<tr><td width="50%">
+
+Two Factor Authentication
+
+</td><td width="50%">
+
+Two Factor Authentication
+
+</td></tr>
+<tr><td width="50%">
+
+Two-Factor Auth
+
+</td><td width="50%">
+
+Two-Factor Auth
+
+</td></tr>
+<tr><td width="50%">
+
+Two-Factor Authentication Enabled
+
+</td><td width="50%">
+
+Two-Factor Authentication Enabled
+
+</td></tr>
+<tr><td width="50%">
+
+Two-factor authentication is now enabled. Scan the QR code or enter the setup key in your authenticator app.
+
+</td><td width="50%">
+
+Two-factor authentication is now enabled. Scan the QR code or enter the setup key in your authenticator app.
+
+</td></tr>
+<tr><td width="50%">
+
 Update password
 
 </td><td width="50%">
@@ -451,6 +703,42 @@ Update your name and email address
 </td><td width="50%">
 
 Update your name and email address
+
+</td></tr>
+<tr><td width="50%">
+
+Verify Authentication Code
+
+</td><td width="50%">
+
+Verify Authentication Code
+
+</td></tr>
+<tr><td width="50%">
+
+View Recovery Codes
+
+</td><td width="50%">
+
+View Recovery Codes
+
+</td></tr>
+<tr><td width="50%">
+
+When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.
+
+</td><td width="50%">
+
+When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.
+
+</td></tr>
+<tr><td width="50%">
+
+With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.
+
+</td><td width="50%">
+
+With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.
 
 </td></tr>
 <tr><td width="50%">
