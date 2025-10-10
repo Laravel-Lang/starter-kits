@@ -67,7 +67,7 @@
     "Please enter your new password below": "الرجاء إدخال كلمة المرور الجديدة أدناه",
     "Please verify your email address by clicking on the link we just emailed to you.": "يرجى التحقق من عنوان بريدك الإلكتروني من خلال النقر على الرابط الذي أرسلناه إليك بالبريد الإلكتروني.",
     "Profile": "الملف الشخصي",
-    "Recovery Code": "Recovery Code",
+    "Recovery Code": "رمز الاسترداد",
     "Recovery codes let you regain access if you lose your 2FA device. Store them in a secure password manager.": "تتيح لك رموز الاسترداد استعادة الوصول في حال فقدان جهاز المصادقة الثنائية. خزّنها في مدير كلمات مرور آمن.",
     "Regenerate Codes": "إعادة إنشاء الرموز",
     "Remember me": "تذكرني",
