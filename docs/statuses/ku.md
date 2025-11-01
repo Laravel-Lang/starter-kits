@@ -4,12 +4,12 @@ editLink: false
 
 # ku
 
-##### All missed: 3
+##### All missed: 2
 
 
 ### json
 
-##### Missing: 3
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -37,15 +37,6 @@ Email
 </td><td width="50%">
 
 Email
-
-</td></tr>
-<tr><td width="50%">
-
-Repository
-
-</td><td width="50%">
-
-Repository
 
 </td></tr>
 </table>
