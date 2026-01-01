@@ -4,12 +4,12 @@ editLink: false
 
 # tl
 
-##### All missed: 6
+##### All missed: 4
 
 
 ### json
 
-##### Missing: 6
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,15 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Authentication Code
-
-</td><td width="50%">
-
-Authentication Code
-
-</td></tr>
-<tr><td width="50%">
-
 Dashboard
 
 </td><td width="50%">
@@ -55,15 +46,6 @@ Password
 </td><td width="50%">
 
 Password
-
-</td></tr>
-<tr><td width="50%">
-
-Platform
-
-</td><td width="50%">
-
-Platform
 
 </td></tr>
 <tr><td width="50%">
