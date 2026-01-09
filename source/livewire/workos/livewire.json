@@ -1,5 +1,6 @@
 {
     "Appearance": "Appearance",
+    "Appearance Settings": "Appearance Settings",
     "Are you sure you want to delete your account?": "Are you sure you want to delete your account?",
     "Cancel": "Cancel",
     "Dark": "Dark",
@@ -15,6 +16,7 @@
     "Once your account is deleted, all of its resources and data will also be permanently deleted. Please confirm you would like to permanently delete your account.": "Once your account is deleted, all of its resources and data will also be permanently deleted. Please confirm you would like to permanently delete your account.",
     "Platform": "Platform",
     "Profile": "Profile",
+    "Profile Settings": "Profile Settings",
     "Repository": "Repository",
     "Save": "Save",
     "Saved.": "Saved.",
