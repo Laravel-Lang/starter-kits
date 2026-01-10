@@ -4,12 +4,12 @@ editLink: false
 
 # ja
 
-##### All missed: 72
+##### All missed: 77
 
 
 ### json
 
-##### Missing: 72
+##### Missing: 77
 
 <table width="100%">
 <tr><th width="50%">
@@ -59,6 +59,15 @@ Appearance
 </td></tr>
 <tr><td width="50%">
 
+Appearance Settings
+
+</td><td width="50%">
+
+Appearance Settings
+
+</td></tr>
+<tr><td width="50%">
+
 Authentication Code
 
 </td><td width="50%">
@@ -419,6 +428,15 @@ Or, return to
 </td></tr>
 <tr><td width="50%">
 
+Password Settings
+
+</td><td width="50%">
+
+Password Settings
+
+</td></tr>
+<tr><td width="50%">
+
 Platform
 
 </td><td width="50%">
@@ -455,11 +473,29 @@ Please verify your email address by clicking on the link we just emailed to you.
 </td></tr>
 <tr><td width="50%">
 
+Profile Settings
+
+</td><td width="50%">
+
+Profile Settings
+
+</td></tr>
+<tr><td width="50%">
+
 Recovery Code
 
 </td><td width="50%">
 
 Recovery Code
+
+</td></tr>
+<tr><td width="50%">
+
+Recovery codes
+
+</td><td width="50%">
+
+Recovery codes
 
 </td></tr>
 <tr><td width="50%">
@@ -595,6 +631,15 @@ Two-factor authentication is now enabled. Scan the QR code or enter the setup ke
 </td><td width="50%">
 
 Two-factor authentication is now enabled. Scan the QR code or enter the setup key in your authenticator app.
+
+</td></tr>
+<tr><td width="50%">
+
+Two-Factor Authentication Settings
+
+</td><td width="50%">
+
+Two-Factor Authentication Settings
 
 </td></tr>
 <tr><td width="50%">
