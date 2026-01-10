@@ -4,12 +4,12 @@ editLink: false
 
 # af
 
-##### All missed: 1
+##### All missed: 6
 
 
 ### json
 
-##### Missing: 1
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,11 +23,56 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+Appearance Settings
+
+</td><td width="50%">
+
+Appearance Settings
+
+</td></tr>
+<tr><td width="50%">
+
+Password Settings
+
+</td><td width="50%">
+
+Password Settings
+
+</td></tr>
+<tr><td width="50%">
+
+Profile Settings
+
+</td><td width="50%">
+
+Profile Settings
+
+</td></tr>
+<tr><td width="50%">
+
+Recovery codes
+
+</td><td width="50%">
+
+Recovery codes
+
+</td></tr>
+<tr><td width="50%">
+
 status
 
 </td><td width="50%">
 
 status
+
+</td></tr>
+<tr><td width="50%">
+
+Two-Factor Authentication Settings
+
+</td><td width="50%">
+
+Two-Factor Authentication Settings
 
 </td></tr>
 </table>
