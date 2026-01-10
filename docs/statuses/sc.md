@@ -4,12 +4,12 @@ editLink: false
 
 # sc
 
-##### All missed: 97
+##### All missed: 102
 
 
 ### json
 
-##### Missing: 97
+##### Missing: 102
 
 <table width="100%">
 <tr><th width="50%">
@@ -77,6 +77,15 @@ Appearance
 </td></tr>
 <tr><td width="50%">
 
+Appearance Settings
+
+</td><td width="50%">
+
+Appearance Settings
+
+</td></tr>
+<tr><td width="50%">
+
 Are you sure you want to delete your account?
 
 </td><td width="50%">
@@ -590,6 +599,15 @@ Password
 </td></tr>
 <tr><td width="50%">
 
+Password Settings
+
+</td><td width="50%">
+
+Password Settings
+
+</td></tr>
+<tr><td width="50%">
+
 Platform
 
 </td><td width="50%">
@@ -635,11 +653,29 @@ Profile
 </td></tr>
 <tr><td width="50%">
 
+Profile Settings
+
+</td><td width="50%">
+
+Profile Settings
+
+</td></tr>
+<tr><td width="50%">
+
 Recovery Code
 
 </td><td width="50%">
 
 Recovery Code
+
+</td></tr>
+<tr><td width="50%">
+
+Recovery codes
+
+</td><td width="50%">
+
+Recovery codes
 
 </td></tr>
 <tr><td width="50%">
@@ -811,6 +847,15 @@ Two-factor authentication is now enabled. Scan the QR code or enter the setup ke
 </td><td width="50%">
 
 Two-factor authentication is now enabled. Scan the QR code or enter the setup key in your authenticator app.
+
+</td></tr>
+<tr><td width="50%">
+
+Two-Factor Authentication Settings
+
+</td><td width="50%">
+
+Two-Factor Authentication Settings
 
 </td></tr>
 <tr><td width="50%">
