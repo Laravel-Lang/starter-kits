@@ -4,12 +4,12 @@ editLink: false
 
 # uk
 
-##### All missed: 77
+##### All missed: 76
 
 
 ### json
 
-##### Missing: 77
+##### Missing: 76
 
 <table width="100%">
 <tr><th width="50%">
@@ -658,15 +658,6 @@ Update the appearance settings for your account
 </td><td width="50%">
 
 Update the appearance settings for your account
-
-</td></tr>
-<tr><td width="50%">
-
-Update your account's appearance settings
-
-</td><td width="50%">
-
-Update your account's appearance settings
 
 </td></tr>
 <tr><td width="50%">

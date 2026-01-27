@@ -4,12 +4,12 @@ editLink: false
 
 # sr_Latn_ME
 
-##### All missed: 86
+##### All missed: 85
 
 
 ### json
 
-##### Missing: 86
+##### Missing: 85
 
 <table width="100%">
 <tr><th width="50%">
@@ -730,15 +730,6 @@ Update the appearance settings for your account
 </td><td width="50%">
 
 Update the appearance settings for your account
-
-</td></tr>
-<tr><td width="50%">
-
-Update your account's appearance settings
-
-</td><td width="50%">
-
-Update your account's appearance settings
 
 </td></tr>
 <tr><td width="50%">

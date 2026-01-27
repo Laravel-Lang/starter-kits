@@ -4,12 +4,12 @@ editLink: false
 
 # bs
 
-##### All missed: 79
+##### All missed: 78
 
 
 ### json
 
-##### Missing: 79
+##### Missing: 78
 
 <table width="100%">
 <tr><th width="50%">
@@ -676,15 +676,6 @@ Update the appearance settings for your account
 </td><td width="50%">
 
 Update the appearance settings for your account
-
-</td></tr>
-<tr><td width="50%">
-
-Update your account's appearance settings
-
-</td><td width="50%">
-
-Update your account's appearance settings
 
 </td></tr>
 <tr><td width="50%">

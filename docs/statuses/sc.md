@@ -4,12 +4,12 @@ editLink: false
 
 # sc
 
-##### All missed: 102
+##### All missed: 101
 
 
 ### json
 
-##### Missing: 102
+##### Missing: 101
 
 <table width="100%">
 <tr><th width="50%">
@@ -874,15 +874,6 @@ Update the appearance settings for your account
 </td><td width="50%">
 
 Update the appearance settings for your account
-
-</td></tr>
-<tr><td width="50%">
-
-Update your account's appearance settings
-
-</td><td width="50%">
-
-Update your account's appearance settings
 
 </td></tr>
 <tr><td width="50%">
