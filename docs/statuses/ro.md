@@ -4,12 +4,12 @@ editLink: false
 
 # ro
 
-##### All missed: 41
+##### All missed: 40
 
 
 ### json
 
-##### Missing: 41
+##### Missing: 40
 
 <table width="100%">
 <tr><th width="50%">
@@ -343,15 +343,6 @@ Two-Factor Authentication Settings
 </td><td width="50%">
 
 Two-Factor Authentication Settings
-
-</td></tr>
-<tr><td width="50%">
-
-Update your account's appearance settings
-
-</td><td width="50%">
-
-Update your account's appearance settings
 
 </td></tr>
 <tr><td width="50%">
