@@ -4,12 +4,12 @@ editLink: false
 
 # sn
 
-##### All missed: 11
+##### All missed: 9
 
 
 ### json
 
-##### Missing: 11
+##### Missing: 9
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,15 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Appearance Settings
-
-</td><td width="50%">
-
-Appearance Settings
-
-</td></tr>
-<tr><td width="50%">
-
 Dashboard
 
 </td><td width="50%">
@@ -109,15 +100,6 @@ System
 </td><td width="50%">
 
 System
-
-</td></tr>
-<tr><td width="50%">
-
-Two-Factor Authentication Settings
-
-</td><td width="50%">
-
-Two-Factor Authentication Settings
 
 </td></tr>
 </table>
