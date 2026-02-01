@@ -4,12 +4,12 @@ editLink: false
 
 # lb
 
-##### All missed: 7
+##### All missed: 3
 
 
 ### json
 
-##### Missing: 7
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,38 +23,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Appearance Settings
-
-</td><td width="50%">
-
-Appearance Settings
-
-</td></tr>
-<tr><td width="50%">
-
 Dashboard
 
 </td><td width="50%">
 
 Dashboard
-
-</td></tr>
-<tr><td width="50%">
-
-Password Settings
-
-</td><td width="50%">
-
-Password Settings
-
-</td></tr>
-<tr><td width="50%">
-
-Profile Settings
-
-</td><td width="50%">
-
-Profile Settings
 
 </td></tr>
 <tr><td width="50%">
@@ -73,15 +46,6 @@ Repository
 </td><td width="50%">
 
 Repository
-
-</td></tr>
-<tr><td width="50%">
-
-Two-Factor Authentication Settings
-
-</td><td width="50%">
-
-Two-Factor Authentication Settings
 
 </td></tr>
 </table>
