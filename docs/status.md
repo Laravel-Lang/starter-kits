@@ -4,7 +4,7 @@ editLink: false
 
 # Completion Status
 
-> Translation of localizations is completed by **80.7%** (10.4K / 12.9K).
+> Translation of localizations is completed by **81.49%** (10.5K / 12.9K).
 
 <table width="100%">
 <tr><td width="12%">
@@ -396,16 +396,16 @@ editLink: false
 
 </td><td width="12%">
 
-[si&nbsp;❗](statuses/si.md)
+[si&nbsp;✔](statuses/si.md)
 
 </td><td width="12%">
 
-[sk&nbsp;❗](statuses/sk.md)
+[sk&nbsp;✔](statuses/sk.md)
 
 </td></tr>
 <tr><td width="12%">
 
-[sl&nbsp;❗](statuses/sl.md)
+[sl&nbsp;✔](statuses/sl.md)
 
 </td><td width="12%">
 
@@ -413,11 +413,11 @@ editLink: false
 
 </td><td width="12%">
 
-[so&nbsp;❗](statuses/so.md)
+[so&nbsp;✔](statuses/so.md)
 
 </td><td width="12%">
 
-[sq&nbsp;❗](statuses/sq.md)
+[sq&nbsp;✔](statuses/sq.md)
 
 </td><td width="12%">
 
@@ -446,15 +446,15 @@ editLink: false
 
 </td><td width="12%">
 
-[ta&nbsp;❗](statuses/ta.md)
+[ta&nbsp;✔](statuses/ta.md)
 
 </td><td width="12%">
 
-[te&nbsp;❗](statuses/te.md)
+[te&nbsp;✔](statuses/te.md)
 
 </td><td width="12%">
 
-[tg&nbsp;❗](statuses/tg.md)
+[tg&nbsp;✔](statuses/tg.md)
 
 </td><td width="12%">
 
@@ -466,7 +466,7 @@ editLink: false
 
 </td><td width="12%">
 
-[tk&nbsp;❗](statuses/tk.md)
+[tk&nbsp;✔](statuses/tk.md)
 
 </td></tr>
 <tr><td width="12%">
@@ -479,11 +479,11 @@ editLink: false
 
 </td><td width="12%">
 
-[tt&nbsp;❗](statuses/tt.md)
+[tt&nbsp;✔](statuses/tt.md)
 
 </td><td width="12%">
 
-[ug&nbsp;❗](statuses/ug.md)
+[ug&nbsp;✔](statuses/ug.md)
 
 </td><td width="12%">
 
@@ -491,11 +491,11 @@ editLink: false
 
 </td><td width="12%">
 
-[ur&nbsp;❗](statuses/ur.md)
+[ur&nbsp;✔](statuses/ur.md)
 
 </td><td width="12%">
 
-[uz_Cyrl&nbsp;❗](statuses/uz_Cyrl.md)
+[uz_Cyrl&nbsp;✔](statuses/uz_Cyrl.md)
 
 </td><td width="12%">
 
@@ -508,15 +508,15 @@ editLink: false
 
 </td><td width="12%">
 
-[xh&nbsp;❗](statuses/xh.md)
+[xh&nbsp;✔](statuses/xh.md)
 
 </td><td width="12%">
 
-[yi&nbsp;❗](statuses/yi.md)
+[yi&nbsp;✔](statuses/yi.md)
 
 </td><td width="12%">
 
-[yo&nbsp;❗](statuses/yo.md)
+[yo&nbsp;✔](statuses/yo.md)
 
 </td><td width="12%">
 
