@@ -37,6 +37,21 @@ jobs:
                     --url=https://github.com/laravel/react-starter-kit/archive/refs/heads/${{ matrix.version }}.zip \
                     --project=react \
                     --ver=${{ matrix.version }}
+
+    svelte:
+        uses: Laravel-Lang/.github/.github/workflows/download.yml@main
+        strategy:
+            fail-fast: true
+            matrix:
+                version: [ "main", "workos", "preview" ]
+        with:
+            project: Laravel Svelte Starter Kit ${{ matrix.version }}
+            paths: source/svelte/${{ matrix.version }}/*
+            commands: |
+                vendor/bin/lang download \
+                    --url=https://github.com/laravel/svelte-starter-kit/archive/refs/heads/${{ matrix.version }}.zip \
+                    --project=svelte \
+                    --ver=${{ matrix.version }}
     
     vue:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main

@@ -7,6 +7,7 @@ namespace LaravelLang\StarterKits;
 use LaravelLang\Publisher\Plugins\Provider;
 use LaravelLang\StarterKits\Plugins\Livewire;
 use LaravelLang\StarterKits\Plugins\React;
+use LaravelLang\StarterKits\Plugins\Svelte;
 use LaravelLang\StarterKits\Plugins\Vue;
 
 class Plugin extends Provider
@@ -18,6 +19,7 @@ class Plugin extends Provider
     protected array $plugins = [
         Livewire::class,
         React::class,
+        Svelte::class,
         Vue::class,
     ];
 }
