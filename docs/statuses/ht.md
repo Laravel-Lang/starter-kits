@@ -4,12 +4,12 @@ editLink: false
 
 # ht
 
-##### All missed: 101
+##### All missed: 105
 
 
 ### json
 
-##### Missing: 101
+##### Missing: 105
 
 <table width="100%">
 <tr><th width="50%">
@@ -293,15 +293,6 @@ Email
 </td></tr>
 <tr><td width="50%">
 
-Email address
-
-</td><td width="50%">
-
-Email address
-
-</td></tr>
-<tr><td width="50%">
-
 Email Address
 
 </td><td width="50%">
@@ -311,11 +302,29 @@ Email Address
 </td></tr>
 <tr><td width="50%">
 
+Email address
+
+</td><td width="50%">
+
+Email address
+
+</td></tr>
+<tr><td width="50%">
+
 Email password reset link
 
 </td><td width="50%">
 
 Email password reset link
+
+</td></tr>
+<tr><td width="50%">
+
+Email verification
+
+</td><td width="50%">
+
+Email verification
 
 </td></tr>
 <tr><td width="50%">
@@ -446,20 +455,20 @@ Light
 </td></tr>
 <tr><td width="50%">
 
-Log in
+log in
 
 </td><td width="50%">
 
-Log in
+log in
 
 </td></tr>
 <tr><td width="50%">
 
-log in
+Log in
 
 </td><td width="50%">
 
-log in
+Log in
 
 </td></tr>
 <tr><td width="50%">
@@ -698,6 +707,15 @@ Regenerate Codes
 </td></tr>
 <tr><td width="50%">
 
+Register
+
+</td><td width="50%">
+
+Register
+
+</td></tr>
+<tr><td width="50%">
+
 Remember me
 
 </td><td width="50%">
@@ -833,6 +851,15 @@ Two-Factor Auth
 </td></tr>
 <tr><td width="50%">
 
+Two-Factor Authentication
+
+</td><td width="50%">
+
+Two-Factor Authentication
+
+</td></tr>
+<tr><td width="50%">
+
 Two-Factor Authentication Enabled
 
 </td><td width="50%">
@@ -901,6 +928,15 @@ View Recovery Codes
 </td><td width="50%">
 
 View Recovery Codes
+
+</td></tr>
+<tr><td width="50%">
+
+Welcome
+
+</td><td width="50%">
+
+Welcome
 
 </td></tr>
 <tr><td width="50%">

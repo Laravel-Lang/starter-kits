@@ -4,12 +4,12 @@ editLink: false
 
 # sr_Latn_ME
 
-##### All missed: 85
+##### All missed: 89
 
 
 ### json
 
-##### Missing: 85
+##### Missing: 89
 
 <table width="100%">
 <tr><th width="50%">
@@ -257,6 +257,15 @@ Email password reset link
 </td></tr>
 <tr><td width="50%">
 
+Email verification
+
+</td><td width="50%">
+
+Email verification
+
+</td></tr>
+<tr><td width="50%">
+
 Enable 2FA
 
 </td><td width="50%">
@@ -581,6 +590,15 @@ Regenerate Codes
 </td></tr>
 <tr><td width="50%">
 
+Register
+
+</td><td width="50%">
+
+Register
+
+</td></tr>
+<tr><td width="50%">
+
 Repository
 
 </td><td width="50%">
@@ -689,6 +707,15 @@ Two-Factor Auth
 </td></tr>
 <tr><td width="50%">
 
+Two-Factor Authentication
+
+</td><td width="50%">
+
+Two-Factor Authentication
+
+</td></tr>
+<tr><td width="50%">
+
 Two-Factor Authentication Enabled
 
 </td><td width="50%">
@@ -757,6 +784,15 @@ View Recovery Codes
 </td><td width="50%">
 
 View Recovery Codes
+
+</td></tr>
+<tr><td width="50%">
+
+Welcome
+
+</td><td width="50%">
+
+Welcome
 
 </td></tr>
 <tr><td width="50%">
