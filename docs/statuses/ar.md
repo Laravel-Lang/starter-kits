@@ -4,12 +4,12 @@ editLink: false
 
 # ar
 
-##### All missed: 5
+##### All missed: 9
 
 
 ### json
 
-##### Missing: 5
+##### Missing: 9
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,6 +32,15 @@ Appearance Settings
 </td></tr>
 <tr><td width="50%">
 
+Email verification
+
+</td><td width="50%">
+
+Email verification
+
+</td></tr>
+<tr><td width="50%">
+
 Password Settings
 
 </td><td width="50%">
@@ -59,11 +68,38 @@ Recovery codes
 </td></tr>
 <tr><td width="50%">
 
+Register
+
+</td><td width="50%">
+
+Register
+
+</td></tr>
+<tr><td width="50%">
+
+Two-Factor Authentication
+
+</td><td width="50%">
+
+Two-Factor Authentication
+
+</td></tr>
+<tr><td width="50%">
+
 Two-Factor Authentication Settings
 
 </td><td width="50%">
 
 Two-Factor Authentication Settings
+
+</td></tr>
+<tr><td width="50%">
+
+Welcome
+
+</td><td width="50%">
+
+Welcome
 
 </td></tr>
 </table>
