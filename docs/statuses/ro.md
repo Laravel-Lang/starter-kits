@@ -4,12 +4,12 @@ editLink: false
 
 # ro
 
-##### All missed: 40
+##### All missed: 44
 
 
 ### json
 
-##### Missing: 40
+##### Missing: 44
 
 <table width="100%">
 <tr><th width="50%">
@@ -104,6 +104,15 @@ Each recovery code can be used once to access your account and will be removed a
 </td></tr>
 <tr><td width="50%">
 
+Email verification
+
+</td><td width="50%">
+
+Email verification
+
+</td></tr>
+<tr><td width="50%">
+
 Enable 2FA
 
 </td><td width="50%">
@@ -284,6 +293,15 @@ Regenerate Codes
 </td></tr>
 <tr><td width="50%">
 
+Register
+
+</td><td width="50%">
+
+Register
+
+</td></tr>
+<tr><td width="50%">
+
 status
 
 </td><td width="50%">
@@ -316,6 +334,15 @@ Two-Factor Auth
 </td><td width="50%">
 
 Two-Factor Auth
+
+</td></tr>
+<tr><td width="50%">
+
+Two-Factor Authentication
+
+</td><td width="50%">
+
+Two-Factor Authentication
 
 </td></tr>
 <tr><td width="50%">
@@ -361,6 +388,15 @@ View Recovery Codes
 </td><td width="50%">
 
 View Recovery Codes
+
+</td></tr>
+<tr><td width="50%">
+
+Welcome
+
+</td><td width="50%">
+
+Welcome
 
 </td></tr>
 <tr><td width="50%">

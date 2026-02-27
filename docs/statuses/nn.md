@@ -4,12 +4,12 @@ editLink: false
 
 # nn
 
-##### All missed: 2
+##### All missed: 6
 
 
 ### json
 
-##### Missing: 2
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,24 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+Email verification
+
+</td><td width="50%">
+
+Email verification
+
+</td></tr>
+<tr><td width="50%">
+
+Register
+
+</td><td width="50%">
+
+Register
+
+</td></tr>
 <tr><td width="50%">
 
 status
@@ -37,6 +55,24 @@ System
 </td><td width="50%">
 
 System
+
+</td></tr>
+<tr><td width="50%">
+
+Two-Factor Authentication
+
+</td><td width="50%">
+
+Two-Factor Authentication
+
+</td></tr>
+<tr><td width="50%">
+
+Welcome
+
+</td><td width="50%">
+
+Welcome
 
 </td></tr>
 </table>
