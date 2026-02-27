@@ -4,12 +4,12 @@ editLink: false
 
 # hu
 
-##### All missed: 1
+##### All missed: 5
 
 
 ### json
 
-##### Missing: 1
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,11 +23,47 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+Email verification
+
+</td><td width="50%">
+
+Email verification
+
+</td></tr>
+<tr><td width="50%">
+
 Platform
 
 </td><td width="50%">
 
 Platform
+
+</td></tr>
+<tr><td width="50%">
+
+Register
+
+</td><td width="50%">
+
+Register
+
+</td></tr>
+<tr><td width="50%">
+
+Two-Factor Authentication
+
+</td><td width="50%">
+
+Two-Factor Authentication
+
+</td></tr>
+<tr><td width="50%">
+
+Welcome
+
+</td><td width="50%">
+
+Welcome
 
 </td></tr>
 </table>

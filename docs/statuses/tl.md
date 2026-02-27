@@ -4,12 +4,12 @@ editLink: false
 
 # tl
 
-##### All missed: 4
+##### All missed: 8
 
 
 ### json
 
-##### Missing: 4
+##### Missing: 8
 
 <table width="100%">
 <tr><th width="50%">
@@ -41,6 +41,15 @@ Email address
 </td></tr>
 <tr><td width="50%">
 
+Email verification
+
+</td><td width="50%">
+
+Email verification
+
+</td></tr>
+<tr><td width="50%">
+
 Password
 
 </td><td width="50%">
@@ -55,6 +64,33 @@ Recovery Code
 </td><td width="50%">
 
 Recovery Code
+
+</td></tr>
+<tr><td width="50%">
+
+Register
+
+</td><td width="50%">
+
+Register
+
+</td></tr>
+<tr><td width="50%">
+
+Two-Factor Authentication
+
+</td><td width="50%">
+
+Two-Factor Authentication
+
+</td></tr>
+<tr><td width="50%">
+
+Welcome
+
+</td><td width="50%">
+
+Welcome
 
 </td></tr>
 </table>
