@@ -4,12 +4,12 @@ editLink: false
 
 # ht
 
-##### All missed: 106
+##### All missed: 104
 
 
 ### json
 
-##### Missing: 106
+##### Missing: 104
 
 <table width="100%">
 <tr><th width="50%">
@@ -86,15 +86,6 @@ Appearance settings
 </td></tr>
 <tr><td width="50%">
 
-Appearance Settings
-
-</td><td width="50%">
-
-Appearance Settings
-
-</td></tr>
-<tr><td width="50%">
-
 Are you sure you want to delete your account?
 
 </td><td width="50%">
@@ -676,15 +667,6 @@ Profile settings
 </td><td width="50%">
 
 Profile settings
-
-</td></tr>
-<tr><td width="50%">
-
-Profile Settings
-
-</td><td width="50%">
-
-Profile Settings
 
 </td></tr>
 <tr><td width="50%">
