@@ -6,7 +6,7 @@ namespace LaravelLang\StarterKits\Plugins;
 
 use LaravelLang\Publisher\Plugins\Plugin;
 
-class Vue extends Plugin
+class Svelte extends Plugin
 {
     protected ?string $vendor = 'laravel/svelte-starter-kit';
 
