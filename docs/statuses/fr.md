@@ -4,12 +4,12 @@ editLink: false
 
 # fr
 
-##### All missed: 44
+##### All missed: 42
 
 
 ### json
 
-##### Missing: 44
+##### Missing: 42
 
 <table width="100%">
 <tr><th width="50%">
@@ -41,15 +41,6 @@ Appearance settings
 </td></tr>
 <tr><td width="50%">
 
-Appearance Settings
-
-</td><td width="50%">
-
-Appearance Settings
-
-</td></tr>
-<tr><td width="50%">
-
 Authentication code
 
 </td><td width="50%">
@@ -253,15 +244,6 @@ Profile settings
 </td><td width="50%">
 
 Profile settings
-
-</td></tr>
-<tr><td width="50%">
-
-Profile Settings
-
-</td><td width="50%">
-
-Profile Settings
 
 </td></tr>
 <tr><td width="50%">
