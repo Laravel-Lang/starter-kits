@@ -4,12 +4,12 @@ editLink: false
 
 # ceb
 
-##### All missed: 23
+##### All missed: 22
 
 
 ### json
 
-##### Missing: 23
+##### Missing: 22
 
 <table width="100%">
 <tr><th width="50%">
@@ -172,15 +172,6 @@ Two-factor authentication
 </td><td width="50%">
 
 Two-factor authentication
-
-</td></tr>
-<tr><td width="50%">
-
-Two-Factor Authentication
-
-</td><td width="50%">
-
-Two-Factor Authentication
 
 </td></tr>
 <tr><td width="50%">

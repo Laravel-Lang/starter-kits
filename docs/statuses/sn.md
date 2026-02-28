@@ -4,12 +4,12 @@ editLink: false
 
 # sn
 
-##### All missed: 29
+##### All missed: 26
 
 
 ### json
 
-##### Missing: 29
+##### Missing: 26
 
 <table width="100%">
 <tr><th width="50%">
@@ -131,29 +131,11 @@ Password settings
 </td></tr>
 <tr><td width="50%">
 
-Password Settings
-
-</td><td width="50%">
-
-Password Settings
-
-</td></tr>
-<tr><td width="50%">
-
 Profile settings
 
 </td><td width="50%">
 
 Profile settings
-
-</td></tr>
-<tr><td width="50%">
-
-Profile Settings
-
-</td><td width="50%">
-
-Profile Settings
 
 </td></tr>
 <tr><td width="50%">
@@ -226,15 +208,6 @@ Two-factor authentication
 </td><td width="50%">
 
 Two-factor authentication
-
-</td></tr>
-<tr><td width="50%">
-
-Two-Factor Authentication
-
-</td><td width="50%">
-
-Two-Factor Authentication
 
 </td></tr>
 <tr><td width="50%">
