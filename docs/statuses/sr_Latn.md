@@ -4,12 +4,12 @@ editLink: false
 
 # sr_Latn
 
-##### All missed: 90
+##### All missed: 88
 
 
 ### json
 
-##### Missing: 90
+##### Missing: 88
 
 <table width="100%">
 <tr><th width="50%">
@@ -77,15 +77,6 @@ Appearance settings
 </td></tr>
 <tr><td width="50%">
 
-Appearance Settings
-
-</td><td width="50%">
-
-Appearance Settings
-
-</td></tr>
-<tr><td width="50%">
-
 Are you sure you want to delete your account?
 
 </td><td width="50%">
@@ -559,15 +550,6 @@ Profile settings
 </td><td width="50%">
 
 Profile settings
-
-</td></tr>
-<tr><td width="50%">
-
-Profile Settings
-
-</td><td width="50%">
-
-Profile Settings
 
 </td></tr>
 <tr><td width="50%">
