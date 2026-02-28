@@ -4,12 +4,12 @@ editLink: false
 
 # tl
 
-##### All missed: 24
+##### All missed: 22
 
 
 ### json
 
-##### Missing: 24
+##### Missing: 22
 
 <table width="100%">
 <tr><th width="50%">
@@ -140,15 +140,6 @@ Recovery code
 </td></tr>
 <tr><td width="50%">
 
-Recovery Code
-
-</td><td width="50%">
-
-Recovery Code
-
-</td></tr>
-<tr><td width="50%">
-
 Regenerate codes
 
 </td><td width="50%">
@@ -181,15 +172,6 @@ Two-factor authentication
 </td><td width="50%">
 
 Two-factor authentication
-
-</td></tr>
-<tr><td width="50%">
-
-Two-Factor Authentication
-
-</td><td width="50%">
-
-Two-Factor Authentication
 
 </td></tr>
 <tr><td width="50%">
