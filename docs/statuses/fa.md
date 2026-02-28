@@ -4,12 +4,12 @@ editLink: false
 
 # fa
 
-##### All missed: 25
+##### All missed: 20
 
 
 ### json
 
-##### Missing: 25
+##### Missing: 20
 
 <table width="100%">
 <tr><th width="50%">
@@ -41,15 +41,6 @@ Appearance settings
 </td></tr>
 <tr><td width="50%">
 
-Appearance Settings
-
-</td><td width="50%">
-
-Appearance Settings
-
-</td></tr>
-<tr><td width="50%">
-
 Authentication code
 
 </td><td width="50%">
@@ -104,29 +95,11 @@ Password settings
 </td></tr>
 <tr><td width="50%">
 
-Password Settings
-
-</td><td width="50%">
-
-Password Settings
-
-</td></tr>
-<tr><td width="50%">
-
 Profile settings
 
 </td><td width="50%">
 
 Profile settings
-
-</td></tr>
-<tr><td width="50%">
-
-Profile Settings
-
-</td><td width="50%">
-
-Profile Settings
 
 </td></tr>
 <tr><td width="50%">
@@ -185,15 +158,6 @@ Two-factor authentication
 </td></tr>
 <tr><td width="50%">
 
-Two-Factor Authentication
-
-</td><td width="50%">
-
-Two-Factor Authentication
-
-</td></tr>
-<tr><td width="50%">
-
 Two-factor authentication enabled
 
 </td><td width="50%">
@@ -208,15 +172,6 @@ Two-factor authentication settings
 </td><td width="50%">
 
 Two-factor authentication settings
-
-</td></tr>
-<tr><td width="50%">
-
-Two-Factor Authentication Settings
-
-</td><td width="50%">
-
-Two-Factor Authentication Settings
 
 </td></tr>
 <tr><td width="50%">
