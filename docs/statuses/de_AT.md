@@ -4,12 +4,12 @@ editLink: false
 
 # de_AT
 
-##### All missed: 105
+##### All missed: 121
 
 
 ### json
 
-##### Missing: 105
+##### Missing: 121
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,6 +23,15 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+2FA recovery codes
+
+</td><td width="50%">
+
+2FA recovery codes
+
+</td></tr>
+<tr><td width="50%">
+
 2FA Recovery Codes
 
 </td><td width="50%">
@@ -77,6 +86,15 @@ Appearance
 </td></tr>
 <tr><td width="50%">
 
+Appearance settings
+
+</td><td width="50%">
+
+Appearance settings
+
+</td></tr>
+<tr><td width="50%">
+
 Appearance Settings
 
 </td><td width="50%">
@@ -91,6 +109,15 @@ Are you sure you want to delete your account?
 </td><td width="50%">
 
 Are you sure you want to delete your account?
+
+</td></tr>
+<tr><td width="50%">
+
+Authentication code
+
+</td><td width="50%">
+
+Authentication code
 
 </td></tr>
 <tr><td width="50%">
@@ -275,6 +302,15 @@ Don't have an account?
 </td></tr>
 <tr><td width="50%">
 
+Each recovery code can be used once to access your account and will be removed after use. If you need more, click Regenerate codes above.
+
+</td><td width="50%">
+
+Each recovery code can be used once to access your account and will be removed after use. If you need more, click Regenerate codes above.
+
+</td></tr>
+<tr><td width="50%">
+
 Each recovery code can be used once to access your account and will be removed after use. If you need more, click Regenerate Codes above.
 
 </td><td width="50%">
@@ -293,20 +329,20 @@ Email
 </td></tr>
 <tr><td width="50%">
 
-Email Address
+Email address
 
 </td><td width="50%">
 
-Email Address
+Email address
 
 </td></tr>
 <tr><td width="50%">
 
-Email address
+Email Address
 
 </td><td width="50%">
 
-Email address
+Email Address
 
 </td></tr>
 <tr><td width="50%">
@@ -334,6 +370,15 @@ Enable 2FA
 </td><td width="50%">
 
 Enable 2FA
+
+</td></tr>
+<tr><td width="50%">
+
+Enable two-factor authentication
+
+</td><td width="50%">
+
+Enable two-factor authentication
 
 </td></tr>
 <tr><td width="50%">
@@ -437,6 +482,15 @@ Full name
 </td></tr>
 <tr><td width="50%">
 
+Hide recovery codes
+
+</td><td width="50%">
+
+Hide recovery codes
+
+</td></tr>
+<tr><td width="50%">
+
 Hide Recovery Codes
 
 </td><td width="50%">
@@ -482,20 +536,20 @@ Log in to your account
 </td></tr>
 <tr><td width="50%">
 
-Log Out
+Log out
 
 </td><td width="50%">
 
-Log Out
+Log out
 
 </td></tr>
 <tr><td width="50%">
 
-Log out
+Log Out
 
 </td><td width="50%">
 
-Log out
+Log Out
 
 </td></tr>
 <tr><td width="50%">
@@ -608,6 +662,15 @@ Password
 </td></tr>
 <tr><td width="50%">
 
+Password settings
+
+</td><td width="50%">
+
+Password settings
+
+</td></tr>
+<tr><td width="50%">
+
 Password Settings
 
 </td><td width="50%">
@@ -662,11 +725,29 @@ Profile
 </td></tr>
 <tr><td width="50%">
 
+Profile settings
+
+</td><td width="50%">
+
+Profile settings
+
+</td></tr>
+<tr><td width="50%">
+
 Profile Settings
 
 </td><td width="50%">
 
 Profile Settings
+
+</td></tr>
+<tr><td width="50%">
+
+Recovery code
+
+</td><td width="50%">
+
+Recovery code
 
 </td></tr>
 <tr><td width="50%">
@@ -694,6 +775,15 @@ Recovery codes let you regain access if you lose your 2FA device. Store them in 
 </td><td width="50%">
 
 Recovery codes let you regain access if you lose your 2FA device. Store them in a secure password manager.
+
+</td></tr>
+<tr><td width="50%">
+
+Regenerate codes
+
+</td><td width="50%">
+
+Regenerate codes
 
 </td></tr>
 <tr><td width="50%">
@@ -842,6 +932,15 @@ Two Factor Authentication
 </td></tr>
 <tr><td width="50%">
 
+Two-factor auth
+
+</td><td width="50%">
+
+Two-factor auth
+
+</td></tr>
+<tr><td width="50%">
+
 Two-Factor Auth
 
 </td><td width="50%">
@@ -851,11 +950,29 @@ Two-Factor Auth
 </td></tr>
 <tr><td width="50%">
 
+Two-factor authentication
+
+</td><td width="50%">
+
+Two-factor authentication
+
+</td></tr>
+<tr><td width="50%">
+
 Two-Factor Authentication
 
 </td><td width="50%">
 
 Two-Factor Authentication
+
+</td></tr>
+<tr><td width="50%">
+
+Two-factor authentication enabled
+
+</td><td width="50%">
+
+Two-factor authentication enabled
 
 </td></tr>
 <tr><td width="50%">
@@ -874,6 +991,15 @@ Two-factor authentication is now enabled. Scan the QR code or enter the setup ke
 </td><td width="50%">
 
 Two-factor authentication is now enabled. Scan the QR code or enter the setup key in your authenticator app.
+
+</td></tr>
+<tr><td width="50%">
+
+Two-factor authentication settings
+
+</td><td width="50%">
+
+Two-factor authentication settings
 
 </td></tr>
 <tr><td width="50%">
@@ -914,11 +1040,29 @@ Update your name and email address
 </td></tr>
 <tr><td width="50%">
 
+Verify authentication code
+
+</td><td width="50%">
+
+Verify authentication code
+
+</td></tr>
+<tr><td width="50%">
+
 Verify Authentication Code
 
 </td><td width="50%">
 
 Verify Authentication Code
+
+</td></tr>
+<tr><td width="50%">
+
+View recovery codes
+
+</td><td width="50%">
+
+View recovery codes
 
 </td></tr>
 <tr><td width="50%">
