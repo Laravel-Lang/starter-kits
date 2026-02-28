@@ -4,12 +4,12 @@ editLink: false
 
 # mt
 
-##### All missed: 24
+##### All missed: 23
 
 
 ### json
 
-##### Missing: 24
+##### Missing: 23
 
 <table width="100%">
 <tr><th width="50%">
@@ -181,15 +181,6 @@ Two-factor authentication
 </td><td width="50%">
 
 Two-factor authentication
-
-</td></tr>
-<tr><td width="50%">
-
-Two-Factor Authentication
-
-</td><td width="50%">
-
-Two-Factor Authentication
 
 </td></tr>
 <tr><td width="50%">

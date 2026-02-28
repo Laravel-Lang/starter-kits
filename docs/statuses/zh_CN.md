@@ -4,12 +4,12 @@ editLink: false
 
 # zh_CN
 
-##### All missed: 96
+##### All missed: 81
 
 
 ### json
 
-##### Missing: 96
+##### Missing: 81
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,15 +32,6 @@ Value
 </td></tr>
 <tr><td width="50%">
 
-2FA Recovery Codes
-
-</td><td width="50%">
-
-2FA Recovery Codes
-
-</td></tr>
-<tr><td width="50%">
-
 A reset link will be sent if the account exists.
 
 </td><td width="50%">
@@ -91,15 +82,6 @@ Authentication code
 </td><td width="50%">
 
 Authentication code
-
-</td></tr>
-<tr><td width="50%">
-
-Authentication Code
-
-</td><td width="50%">
-
-Authentication Code
 
 </td></tr>
 <tr><td width="50%">
@@ -230,15 +212,6 @@ Each recovery code can be used once to access your account and will be removed a
 </td></tr>
 <tr><td width="50%">
 
-Each recovery code can be used once to access your account and will be removed after use. If you need more, click Regenerate Codes above.
-
-</td><td width="50%">
-
-Each recovery code can be used once to access your account and will be removed after use. If you need more, click Regenerate Codes above.
-
-</td></tr>
-<tr><td width="50%">
-
 Email address
 
 </td><td width="50%">
@@ -280,15 +253,6 @@ Enable two-factor authentication
 </td><td width="50%">
 
 Enable two-factor authentication
-
-</td></tr>
-<tr><td width="50%">
-
-Enable Two-Factor Authentication
-
-</td><td width="50%">
-
-Enable Two-Factor Authentication
 
 </td></tr>
 <tr><td width="50%">
@@ -379,15 +343,6 @@ Hide recovery codes
 </td><td width="50%">
 
 Hide recovery codes
-
-</td></tr>
-<tr><td width="50%">
-
-Hide Recovery Codes
-
-</td><td width="50%">
-
-Hide Recovery Codes
 
 </td></tr>
 <tr><td width="50%">
@@ -500,15 +455,6 @@ Password settings
 </td></tr>
 <tr><td width="50%">
 
-Password Settings
-
-</td><td width="50%">
-
-Password Settings
-
-</td></tr>
-<tr><td width="50%">
-
 Platform
 
 </td><td width="50%">
@@ -572,15 +518,6 @@ Recovery code
 </td></tr>
 <tr><td width="50%">
 
-Recovery Code
-
-</td><td width="50%">
-
-Recovery Code
-
-</td></tr>
-<tr><td width="50%">
-
 Recovery codes
 
 </td><td width="50%">
@@ -604,15 +541,6 @@ Regenerate codes
 </td><td width="50%">
 
 Regenerate codes
-
-</td></tr>
-<tr><td width="50%">
-
-Regenerate Codes
-
-</td><td width="50%">
-
-Regenerate Codes
 
 </td></tr>
 <tr><td width="50%">
@@ -707,29 +635,11 @@ To finish enabling two-factor authentication, scan the QR code or enter the setu
 </td></tr>
 <tr><td width="50%">
 
-Two Factor Authentication
-
-</td><td width="50%">
-
-Two Factor Authentication
-
-</td></tr>
-<tr><td width="50%">
-
 Two-factor auth
 
 </td><td width="50%">
 
 Two-factor auth
-
-</td></tr>
-<tr><td width="50%">
-
-Two-Factor Auth
-
-</td><td width="50%">
-
-Two-Factor Auth
 
 </td></tr>
 <tr><td width="50%">
@@ -743,29 +653,11 @@ Two-factor authentication
 </td></tr>
 <tr><td width="50%">
 
-Two-Factor Authentication
-
-</td><td width="50%">
-
-Two-Factor Authentication
-
-</td></tr>
-<tr><td width="50%">
-
 Two-factor authentication enabled
 
 </td><td width="50%">
 
 Two-factor authentication enabled
-
-</td></tr>
-<tr><td width="50%">
-
-Two-Factor Authentication Enabled
-
-</td><td width="50%">
-
-Two-Factor Authentication Enabled
 
 </td></tr>
 <tr><td width="50%">
@@ -784,15 +676,6 @@ Two-factor authentication settings
 </td><td width="50%">
 
 Two-factor authentication settings
-
-</td></tr>
-<tr><td width="50%">
-
-Two-Factor Authentication Settings
-
-</td><td width="50%">
-
-Two-Factor Authentication Settings
 
 </td></tr>
 <tr><td width="50%">
@@ -833,29 +716,11 @@ Verify authentication code
 </td></tr>
 <tr><td width="50%">
 
-Verify Authentication Code
-
-</td><td width="50%">
-
-Verify Authentication Code
-
-</td></tr>
-<tr><td width="50%">
-
 View recovery codes
 
 </td><td width="50%">
 
 View recovery codes
-
-</td></tr>
-<tr><td width="50%">
-
-View Recovery Codes
-
-</td><td width="50%">
-
-View Recovery Codes
 
 </td></tr>
 <tr><td width="50%">
