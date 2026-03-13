@@ -4,12 +4,12 @@ editLink: false
 
 # fr
 
-##### All missed: 45
+##### All missed: 39
 
 
 ### json
 
-##### Missing: 45
+##### Missing: 39
 
 <table width="100%">
 <tr><th width="50%">
@@ -86,15 +86,6 @@ Disable 2FA
 </td></tr>
 <tr><td width="50%">
 
-Disabled
-
-</td><td width="50%">
-
-Disabled
-
-</td></tr>
-<tr><td width="50%">
-
 Documentation
 
 </td><td width="50%">
@@ -136,15 +127,6 @@ Enable two-factor authentication
 </td><td width="50%">
 
 Enable two-factor authentication
-
-</td></tr>
-<tr><td width="50%">
-
-Enabled
-
-</td><td width="50%">
-
-Enabled
 
 </td></tr>
 <tr><td width="50%">
@@ -217,15 +199,6 @@ or, enter the code manually
 </td><td width="50%">
 
 or, enter the code manually
-
-</td></tr>
-<tr><td width="50%">
-
-Password settings
-
-</td><td width="50%">
-
-Password settings
 
 </td></tr>
 <tr><td width="50%">
@@ -329,15 +302,6 @@ To finish enabling two-factor authentication, scan the QR code or enter the setu
 </td></tr>
 <tr><td width="50%">
 
-Two-factor auth
-
-</td><td width="50%">
-
-Two-factor auth
-
-</td></tr>
-<tr><td width="50%">
-
 Two-factor authentication
 
 </td><td width="50%">
@@ -361,15 +325,6 @@ Two-factor authentication is now enabled. Scan the QR code or enter the setup ke
 </td><td width="50%">
 
 Two-factor authentication is now enabled. Scan the QR code or enter the setup key in your authenticator app.
-
-</td></tr>
-<tr><td width="50%">
-
-Two-factor authentication settings
-
-</td><td width="50%">
-
-Two-factor authentication settings
 
 </td></tr>
 <tr><td width="50%">
@@ -406,15 +361,6 @@ When you enable two-factor authentication, you will be prompted for a secure pin
 </td><td width="50%">
 
 When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.
-
-</td></tr>
-<tr><td width="50%">
-
-With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.
-
-</td><td width="50%">
-
-With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.
 
 </td></tr>
 <tr><td width="50%">
