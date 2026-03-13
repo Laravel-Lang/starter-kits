@@ -83,6 +83,8 @@
     "Save": "Chekwa",
     "Saved.": "Echekwara.",
     "Search": "Ochucho",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Ntọala",
     "Sign up": "debanye aha",
     "status": "nkwuru",
@@ -102,5 +104,6 @@
     "Welcome": "Nnọọ",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Mgbe ị na-enyere gị aka abụọ - ị ga - akpali gị maka ntụtụ nchebe dị nbanye. Enwere ike weghachite PIN a site na ngwa ngwa na ekwentị gị.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Site na ebumnuche nyocha abụọ - ị ga - akpali gị maka nchekwa, random na - enweghị ntụpọ, nke ị nwere ike weghachite site na ngwa ekwentị na ekwentị gị.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "Achọpụtaghị adreesị ozi-e gị."
 }

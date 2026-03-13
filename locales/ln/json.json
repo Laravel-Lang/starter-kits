@@ -83,6 +83,8 @@
     "Save": "Kobikisa",
     "Saved.": "Ebombami.",
     "Search": "Koluka",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Paramètres .",
     "Sign up": "Bokoma na kombo ya .",
     "status": "statut",
@@ -102,5 +104,6 @@
     "Welcome": "Boyei malamu",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Ntango ozali kofungola bondimi ya makambo mibale, bakosɛnga yo osala pin ya libateli na ntango ya kokɔta. Pin oyo ekoki kozuama na application oyo esungami na TOTP na téléphone na yo.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Na bondimi ya makambo mibale oyo efungolami, bakosɛnga yo osala pin ya libateli, ya kozanga koyeba na ntango ya kokɔta, oyo okoki kozwa na programɛ oyo esimbami na TOTP na telefone na yo.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "Addresse email na yo ezali vérifié te."
 }

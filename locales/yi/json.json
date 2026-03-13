@@ -83,6 +83,8 @@
     "Save": "היט",
     "Saved.": "געראטעוועט .",
     "Search": "זוכן",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "סעטטינגס",
     "Sign up": "פאַרשרייַבן",
     "status": "מאַצעוו",
@@ -102,5 +104,6 @@
     "Welcome": "Welcome",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "ווען איר געבן צוויי-פאַקטאָר אָטענטאַקיישאַן, איר וועט זיין פּראַמפּטיד פֿאַר אַ זיכער שטיפט בעשאַס לאָגין. דער שפּילקע קענען זיין ריטריווד פון אַ טאָטפּ-געשטיצט אַפּלאַקיישאַן אויף דיין טעלעפאָן.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "מיט צוויי-פאַקטאָר אָטענטאַקיישאַן ענייבאַלד, איר וועט זיין פּראַמפּטיד פֿאַר אַ זיכער, טראַפ - שטיפט בעשאַס לאָגין, וואָס איר קענען צוריקקריגן פון די טאָטפּ-געשטיצט אַפּלאַקיישאַן אויף דיין טעלעפאָן.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "דיין בליצפּאָסט אַדרעס איז אַנוועראַפייד."
 }

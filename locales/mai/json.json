@@ -83,6 +83,8 @@
     "Save": "बचाउ",
     "Saved.": "सहेजल गेल।",
     "Search": "खोजनाइ",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "सेटिंग्स 10।",
     "Sign up": "साइन अप 2019।",
     "status": "स्थिति",
@@ -102,5 +104,6 @@
     "Welcome": "स्वागत",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "जखन अहां दू-कारक प्रमाणीकरण कें सक्षम बनायत छी, तखन लॉगिन कें दौरान अहां कें सुरक्षित पिन कें लेल कहल जेतय. इ पिन कें अहां कें फोन पर टीओटीपी समर्थित एप्लीकेशन सं निकालल जा सकय छै.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "दू-कारक प्रमाणीकरण सक्षम कें साथ, अहां कें लॉगिन कें दौरान एकटा सुरक्षित, यादृच्छिक पिन कें लेल प्रेरित कैल जेतय, जेकरा अहां अपन फोन पर TOTP-समर्थित एप्लीकेशन सं प्राप्त कयर सकय छी.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "अहाँक ईमेल पता असत्यापित अछि."
 }

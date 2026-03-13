@@ -83,6 +83,8 @@
     "Save": "Londoloza",
     "Saved.": "Kulondoloziwe.",
     "Search": "Sesha",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Amasethingi",
     "Sign up": "bhalisela",
     "status": "isikhundla",
@@ -102,5 +104,6 @@
     "Welcome": "Welcome",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Lapho unika amandla ukuqinisekiswa kwezici ezimbili, uzokwaziswa nge-PIN ephephile ngesikhathi sokungena ngemvume. Le phini ingatholwa kusuka kuhlelo lokusebenza olusekelwa nge-TOTP ocingweni lwakho.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Ngokuqinisekiswa kwezinto ezimbili",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "Ikheli lakho le-imeyili aliqinisekisiwe."
 }

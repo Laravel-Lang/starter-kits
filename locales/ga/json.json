@@ -83,6 +83,8 @@
     "Save": "Sábháil",
     "Saved.": "Shábháil.",
     "Search": "Cíor",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Socruithe",
     "Sign up": "Sínigh",
     "status": "stádas",
@@ -102,5 +104,6 @@
     "Welcome": "Fáilte",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Nuair a chumasaíonn tú fíordheimhniú dhá fhachtóir, spreagfar tú le haghaidh biorán slán le linn logáil isteach. Is féidir an biorán seo a aisghabháil ó iarratas a fhaigheann tacaíocht TOTP ar do ghuthán.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Le fíordheimhniú dhá fhachtóir cumasaithe, spreagfar tú le haghaidh biorán slán, randamach le linn logáil isteach, agus is féidir leat a fháil ar ais ón iarratas totp-tacaithe ar do ghuthán.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "Níl do sheoladh ríomhphoist fíoraithe."
 }

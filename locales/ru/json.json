@@ -83,6 +83,8 @@
     "Save": "Сохранить",
     "Saved.": "Сохранено.",
     "Search": "Поиск",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Настройки",
     "Sign up": "Регистрация",
     "status": "статус",
@@ -102,5 +104,6 @@
     "Welcome": "Добро пожаловать",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Когда Вы включите двухфакторную аутентификацию, при входе в систему Вам будет предложено ввести защищённый PIN-код. Этот PIN-код можно получить в приложении на Вашем телефоне с поддержкой TOTP.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "При включённой двухфакторной аутентификации при входе в систему Вам будет предложено ввести защищённый случайный PIN-код, который Вы можете получить в приложении на Вашем телефоне с поддержкой TOTP.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "Ваш адрес электронной почты не подтверждён."
 }

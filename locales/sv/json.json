@@ -83,6 +83,8 @@
     "Save": "Spara",
     "Saved.": "Sparad.",
     "Search": "Söka",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Inställningar",
     "Sign up": "Anmäla",
     "status": "status",
@@ -102,5 +104,6 @@
     "Welcome": "Welcome",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "När du aktiverar tvåfaktorautentisering kommer du att bli ombedd att en säker stift under inloggning. Denna stift kan hämtas från en TOTP-stödd applikation på din telefon.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Med tvåfaktorautentisering aktiverad kommer du att bli ombedd att en säker, slumpmässig PIN-kod under inloggning, som du kan hämta från det TOTP-stödda applikationen på din telefon.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "Din e-postadress är overifierad."
 }

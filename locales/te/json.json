@@ -83,6 +83,8 @@
     "Save": "సేవ్ చేయండి",
     "Saved.": "సేవ్ చేయబడింది.",
     "Search": "శోధన",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "సెట్టింగులు",
     "Sign up": "సైన్ అప్",
     "status": "స్థితి",
@@ -102,5 +104,6 @@
     "Welcome": "Welcome",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "మీరు రెండు-కారకాల ప్రామాణీకరణను ప్రారంభించినప్పుడు, లాగిన్ సమయంలో మీరు సురక్షితమైన పిన్ కోసం ప్రాంప్ట్ చేయబడతారు. ఈ పిన్ను మీ ఫోన్‌లో TOTP- మద్దతు గల అప్లికేషన్ నుండి తిరిగి పొందవచ్చు.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "రెండు-కారకాల ప్రామాణీకరణ ప్రారంభించబడినప్పుడు, లాగిన్ సమయంలో మీరు సురక్షితమైన, యాదృచ్ఛిక పిన్ కోసం ప్రాంప్ట్ చేయబడతారు, ఇది మీరు మీ ఫోన్‌లో TOTP- మద్దతు గల అనువర్తనం నుండి తిరిగి పొందవచ్చు.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "మీ ఇమెయిల్ చిరునామా ధృవీకరించబడలేదు."
 }

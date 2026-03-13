@@ -83,6 +83,8 @@
     "Save": "Waqaychay",
     "Saved.": "Waqaychasqa.",
     "Search": "Maskay",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Ajustes .",
     "Sign up": "Qillqakuy .",
     "status": "imayna kaynin",
@@ -102,5 +104,6 @@
     "Welcome": "Welcome",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Iskay factor chiqaqchayta atichiptiyki, huk waqaychasqa pinta mañasunki yaykuy pachapi. Kay PIN huk TOTP-yachasqa mañakuymanta telefonoykipi kutichiyta atikun.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Iskay factor chiqaqchay atichisqa kaqwan, huk waqaychasqa, random pin mañasqa kanki yaykuy pachapi, mayqinchus TOTP-yachasqa ruwanamanta telefonoykipi kutichiyta atikunki.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "Correo electrónico nisqaykiqa manam chiqapchasqachu."
 }

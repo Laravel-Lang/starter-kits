@@ -83,6 +83,8 @@
     "Save": "저장",
     "Saved.": "저장됨.",
     "Search": "찾다",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "설정",
     "Sign up": "회원 가입",
     "status": "상태",
@@ -102,5 +104,6 @@
     "Welcome": "환영",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "2 요인 인증을 활성화하면 로그인 중에 보안 핀이 표시됩니다. 이 핀은 휴대 전화의 TOTP 지원 응용 프로그램에서 검색 할 수 있습니다.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "2 단계 인증을 활성화하면 로그인 중에 안전하고 랜덤 핀이 표시되며 휴대 전화의 TOTP 지원 애플리케이션에서 검색 할 수 있습니다.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "이메일 주소가 확인되지 않았습니다."
 }

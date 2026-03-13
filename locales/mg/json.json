@@ -83,6 +83,8 @@
     "Save": "afa-tsy",
     "Saved.": "Voavonjy.",
     "Search": "karohy",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Fikirana",
     "Sign up": "Hiditra Mpikambana",
     "status": "sata",
@@ -102,5 +104,6 @@
     "Welcome": "TONGA SOA",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Rehefa mamela ny fanamarinana roa-Factor roa ianao dia hamporisihina anao amin'ny PIN azo antoka mandritra ny fidirana. Ity pin ity dia azo alaina amin'ny fampiharana iray totom-panohanana amin'ny telefaona finday.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Miaraka amin'ny fampanantenana roa-factor roa, dia hamporisihina anao ho an'ny PIN Random Pin ianao mandritra ny fidirana, izay azonao alaina avy amin'ny fampiharana Totp-tohana amin'ny telefaona.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "Tsy voamarina ny adiresy mailakao."
 }

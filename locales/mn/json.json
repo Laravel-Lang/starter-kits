@@ -83,6 +83,8 @@
     "Save": "Хадгалах",
     "Saved.": "Аврагдсан.",
     "Search": "Эрэл хайгуул хийх",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Тохиргоо",
     "Sign up": "Бүртгүүлэх",
     "status": "байдал",
@@ -102,5 +104,6 @@
     "Welcome": "Тавтай морил",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Та хоёр хүчин зүйлийн гэрчлэлтийг идэвхжүүлэх үед нэвтрэх үед та аюулгүй PIN-г авах болно. Энэ зүү нь таны утсан дээр дэмжлэг үзүүлэх програмаас авах боломжтой.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Хоёр хүчин зүйлийн гэрчлэлийг идэвхжүүлсэн, нэвтрэх үед та нэвтрэх үед та аюулгүй, санамсаргүй зүүг авах болно.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "Таны имэйл хаяг баталгаажаагүй байна."
 }

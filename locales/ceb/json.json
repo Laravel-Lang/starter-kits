@@ -83,6 +83,8 @@
     "Save": "Tipigi",
     "Saved.": "Naluwas.",
     "Search": "Mangita",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Mga Setting",
     "Sign up": "Pag-sign up",
     "status": "istado",
@@ -102,5 +104,6 @@
     "Welcome": "Welcome",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Kung imong gitagana ang two-factor nga panghimatuud, pag-aghat ka alang sa usa ka luwas nga PIN sa panahon sa pag-login. Kini nga PIN mahimong makuha gikan sa usa ka aplikasyon nga gisuportahan sa imong telepono.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Uban sa duha ka hinungdan nga panghimatuud nga pag-aghat, pag-aghat ka alang sa usa ka luwas, random PIN sa panahon sa pag-login, nga mahimo nimong makuha gikan sa TOPP-Supported Application sa imong telepono.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "Ang imong email address wala mapamatud-an."
 }

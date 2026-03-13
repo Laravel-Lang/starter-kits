@@ -83,6 +83,8 @@
     "Save": "Stoor",
     "Saved.": "Gestoor.",
     "Search": "Soek",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Instellings",
     "Sign up": "Aanmeld",
     "status": "status",
@@ -102,5 +104,6 @@
     "Welcome": "Welkom",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "As u tweefaktor-verifikasie moontlik maak, sal u gevra word vir 'n veilige PIN tydens aanmelding. Hierdie pen kan van 'n TOTP-ondersteunde toepassing op u foon opgespoor word.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Met twee-faktor-verifikasie geaktiveer, sal u gevra word vir 'n veilige, ewekansige PIN tydens aanmelding, wat u van die TOTP-ondersteunde toepassing op u foon kan haal.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "Jou e-posadres is ongeverifieer."
 }

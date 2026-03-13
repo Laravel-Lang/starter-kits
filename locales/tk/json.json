@@ -83,6 +83,8 @@
     "Save": "Saklaň",
     "Saved.": "Saklandy.",
     "Search": "Gözlemek",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Sazlamalar",
     "Sign up": "Hasaba giriň",
     "status": "ýagdaýy",
@@ -102,5 +104,6 @@
     "Welcome": "Welcome",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Iki faktorly tanamaklyk iş ýerine ýetireniňizde, giriş wagtynda ygtybarly çeňňek soralarsyňyz. Bu PIN telefonyňyzda toz-goldanýan programmadan alyp bolýar.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Iki faktorly şahama bilen açyk şahadatnama açyk, size ygtybarly, petP-goldançysyna \"ToP\" üçin ulanylýan programmadan alyp bilseňiz, içerki enjama bolan per.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "E-poçta salgyňyz tassyklanmady"
 }

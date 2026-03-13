@@ -83,6 +83,8 @@
     "Save": "Ruaj",
     "Saved.": "Shpëtova.",
     "Search": "Kërkim",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Cilësimet",
     "Sign up": "Regjistrohem",
     "status": "statusi",
@@ -102,5 +104,6 @@
     "Welcome": "Welcome",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Kur aktivizoni vërtetimin me dy faktorë, do t'ju kërkohet një kunj i sigurt gjatë hyrjes. Kjo pin mund të merret nga një aplikacion i mbështetur nga TOTP në telefonin tuaj.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Me autentifikimin me dy faktorë të aktivizuar, do t'ju kërkohet një kunj i sigurt, i rastësishëm gjatë hyrjes, të cilën mund ta merrni nga aplikacioni i mbështetur nga TOTP në telefonin tuaj.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "Adresa juaj e emailit është e paverifikuar."
 }

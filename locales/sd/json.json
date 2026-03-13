@@ -83,6 +83,8 @@
     "Save": "بچايو",
     "Saved.": "محفوظ ٿيل.",
     "Search": "ڳولا",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "سيٽنگ",
     "Sign up": "سائن اپ ڪريو",
     "status": "حيثيت",
@@ -102,5 +104,6 @@
     "Welcome": "Welcome",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "جڏهن توهان ٻه عنصر جي تصديق کي فعال ڪيو ٿا، توهان لاگ ان دوران هڪ محفوظ پن لاء اشارو ڪيو ويندو. اهو پن توهان جي فون تي ٽوپي جي سپورٽ ٿيل ايپليڪيشن مان حاصل ڪري سگهجي ٿو.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "ٻن فيڪٽر جي تصديق سان فعال، توهان کي هڪ محفوظ، لاگ ان دوران توهان جي فون تي ٽوپي سپورٽ ٿيل ايپليڪيشن مان تصديق ڪئي ويندي.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "توهان جو اي ميل پتو اڻ تصديق ٿيل آهي."
 }

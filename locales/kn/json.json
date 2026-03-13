@@ -83,6 +83,8 @@
     "Save": "ಉಳಿಸಲು",
     "Saved.": "ಉಳಿಸಿದ.",
     "Search": "ಶೋಧನೆ",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
     "Sign up": "ಸೈನ್ ಅಪ್",
     "status": "ಸ್ಥಾನಮಾನ",
@@ -102,5 +104,6 @@
     "Welcome": "ಸ್ವಾಗತ",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "ನೀವು ಎರಡು ಅಂಶಗಳ ದೃ hentic ೀಕರಣವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿದಾಗ, ಲಾಗಿನ್ ಸಮಯದಲ್ಲಿ ಸುರಕ್ಷಿತ ಪಿನ್‌ಗಾಗಿ ನಿಮ್ಮನ್ನು ಕೇಳಲಾಗುತ್ತದೆ. ಈ ಪಿನ್ ಅನ್ನು ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ TOTP-ಬೆಂಬಲಿತ ಅಪ್ಲಿಕೇಶನ್‌ನಿಂದ ಹಿಂಪಡೆಯಬಹುದು.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "ಎರಡು-ಅಂಶಗಳ ದೃ hentic ೀಕರಣವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿದ ನಂತರ, ಲಾಗಿನ್ ಸಮಯದಲ್ಲಿ ಸುರಕ್ಷಿತ, ಯಾದೃಚ್ pin ಿಕ ಪಿನ್‌ಗಾಗಿ ನಿಮ್ಮನ್ನು ಕೇಳಲಾಗುತ್ತದೆ, ಅದನ್ನು ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ TOTP- ಬೆಂಬಲಿತ ಅಪ್ಲಿಕೇಶನ್‌ನಿಂದ ಹಿಂಪಡೆಯಬಹುದು.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "ನಿಮ್ಮ ಇಮೇಲ್ ವಿಳಾಸವನ್ನು ಪರಿಶೀಲಿಸಲಾಗಿಲ್ಲ."
 }

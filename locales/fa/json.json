@@ -83,6 +83,8 @@
     "Save": "ذخیره",
     "Saved.": "ذخیره شد.",
     "Search": "جستجو",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "تنظیمات",
     "Sign up": "عضویت",
     "status": "وضعیت",
@@ -102,5 +104,6 @@
     "Welcome": "Welcome",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "وقتی احرازهویت دو مرحله‌ای را فعال کنید، در هنگام ورود به سیستم از شما یک پین امن خواهش می‌شود. این پین را می‌توانید از یک برنامه پشتیبانی‌شده TOTP در تلفن همراه خود دریافت کنید.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "با فعال بودن احرازهویت دو مرحله‌ای، در هنگام ورود به سیستم از شما یک پین امن و تصادفی خواهش می‌شود که می‌توانید آن را از برنامه پشتیبانی‌شده TOTP در تلفن همراه خود دریافت کنید.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "ایمیل شما تایید نشده است."
 }

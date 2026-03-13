@@ -83,6 +83,8 @@
     "Save": "சேமிக்கவும்",
     "Saved.": "சேமிக்கப்பட்டது.",
     "Search": "தேடல்",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "அமைப்புகள்",
     "Sign up": "பதிவு செய்க",
     "status": "நிலை",
@@ -102,5 +104,6 @@
     "Welcome": "Welcome",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "நீங்கள் இரண்டு காரணி அங்கீகாரத்தை இயக்கும்போது, ​​உள்நுழைவின் போது பாதுகாப்பான முள் கேட்கப்படும். உங்கள் தொலைபேசியில் உள்ள TOTP- ஆதரவு பயன்பாட்டிலிருந்து இந்த முள் மீட்டெடுக்கப்படலாம்.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "இரண்டு காரணி அங்கீகாரம் இயக்கப்பட்டிருப்பதால், உள்நுழைவின் போது பாதுகாப்பான, சீரற்ற முள் கேட்கப்படுவீர்கள், இது உங்கள் தொலைபேசியில் TOTP- ஆதரவு பயன்பாட்டிலிருந்து மீட்டெடுக்கலாம்.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "உங்கள் மின்னஞ்சல் முகவரி சரிபார்க்கப்படவில்லை."
 }

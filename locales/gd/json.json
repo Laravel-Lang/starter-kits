@@ -83,6 +83,8 @@
     "Save": "Sàbhail",
     "Saved.": "Air a shàbhaladh.",
     "Search": "Rannsaich",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Roghainnean",
     "Sign up": "Cuir d’ainm ris",
     "status": "Inbhe",
@@ -102,5 +104,6 @@
     "Welcome": "Fàilte",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Nuair a bheir thu seachad dearbhadh dà-fhactar, thèid a bhrosnachadh airson prìne tèarainte rè logadh a-steach. Faodar am prìne seo fhaighinn bho iarrtas le taic toit air an fhòn agad.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Le dearbhadh dà-fhaclan air a chomasachadh, thèid a bhrosnachadh airson prìne tèarainte, air a thomhas rè logadh a-steach, as urrainn dhut fhaighinn air ais bhon tagradh le taic toit air an fhòn agad.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "Tha do sheòladh puist-d gun dearbhadh."
 }

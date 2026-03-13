@@ -83,6 +83,8 @@
     "Save": "Fipamọ",
     "Saved.": "Ti fipamọ.",
     "Search": "Ṣewadii",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Eto",
     "Sign up": "forukọsilẹ",
     "status": "ipo",
@@ -102,5 +104,6 @@
     "Welcome": "Welcome",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Nigbati o ba mu ijẹrisi ijẹrisi meji ṣiṣẹ, iwọ yoo ti ṣetan fun PIN to ni aabo lakoko wiwọle. PIN yii le gba pada lati ohun elo atilẹyin to ṣẹṣẹ sori foonu rẹ.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Pẹlu awọn iṣeduro ijẹrisi meji ti o ṣiṣẹ, iwọ yoo ṣetan fun PIN kan ti o ni aabo, PINE PIN lakoko wiwọle, eyiti o le gba pada kuro ninu ohun elo to atilẹyin topp lori foonu rẹ.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "Adirẹsi imeeli rẹ ko ni idaniloju."
 }

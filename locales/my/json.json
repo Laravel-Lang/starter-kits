@@ -83,6 +83,8 @@
     "Save": "သိမ်းဆည်းပါ။",
     "Saved.": "သိမ်းဆည်းထားသည်။",
     "Search": "ရှာဖေှခြင်း",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "ဆက်တင်များ",
     "Sign up": "ဆိုင်းအပ်",
     "status": "အခေြအနေ",
@@ -102,5 +104,6 @@
     "Welcome": "Welcome",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "သင် 2 အချက်အနေဖြင့်စစ်မှန်ကြောင်းအတည်ပြုခြင်းအားဖွင့်သောအခါ login စဉ်အတွင်းလုံခြုံစိတ်ချရသော pin တစ်ခုအတွက်အချက်ပြလိမ့်မည်။ သင်၏ဖုန်းတွင် TOTP အထောက်အကူပြု application တစ်ခုမှဤ PIN ကိုရယူနိုင်ပါသည်။",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Two-factor authentication ကိုဖွင့်ထားပြီး login အတွင်းရှိလုံခြုံသောကျပန်း pin တစ်ခုအတွက်သင့်ဖုန်းတွင် TOTP အထောက်အကူပြု application မှပြန်လည်ရယူနိုင်ပါသည်။",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "သင့်အီးမေးလ်လိပ်စာကို အတည်မပြုရသေးပါ။"
 }

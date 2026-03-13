@@ -83,6 +83,8 @@
     "Save": "ඉතිරි",
     "Saved.": "බේරුවා.",
     "Search": "සෙවීම",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "සැකසුම්",
     "Sign up": "ලියාපදිංචි වන්න",
     "status": "තත්වය",
@@ -102,5 +104,6 @@
     "Welcome": "Welcome",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "ඔබ සාධක දෙකක සත්යාපනය සත්යාපනය කළ විට, පුරනය වීමේදී ආරක්ෂිත පින් එකක් සඳහා ඔබෙන් විමසනු ඇත. මෙම PIN අංකය ඔබගේ දුරකථනයේ TOP- සහාය දැක්ම භාවිතයකින් ලබා ගත හැකිය.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "සාධක දෙකක සත්යාපනය සමඟ සක්රීය කර ඇත, පුරනය වන විට සුරක්ෂිත, අහඹු PIN PIN එකක් සඳහා ඔබෙන් විමසනු ඇත, එය ඔබගේ දුරකථනයෙන් TOTP- සහාය දැක්මෙන් ලබා ගත හැකිය.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "ඔබගේ විද්‍යුත් තැපැල් ලිපිනය සත්‍යාපනය කර නැත."
 }

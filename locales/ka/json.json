@@ -83,6 +83,8 @@
     "Save": "შენახვა",
     "Saved.": "ჟოაჟთ.",
     "Search": "ძებნა",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "პარამეტრები",
     "Sign up": "დარეგისტრირება",
     "status": "სტატუსი",
@@ -102,5 +104,6 @@
     "Welcome": "მოგესალმებით",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "როდესაც თქვენ ჩართავთ ორფაქტორულ ავთენტიფიკაციას, შესვლის დროს მოგთხოვთ უსაფრთხო ქინძისთავს. ამ პინის მოძიება შესაძლებელია თქვენს ტელეფონზე TOTP- ის მხარდაჭერილი პროგრამისგან.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "ჩართული ორი ფაქტორიანი ავტორიზაციის საშუალებით, თქვენ მოგთხოვთ შესვლის დროს უსაფრთხო, შემთხვევითი პინისთვის, რომლის გადაღებაც შეგიძლიათ თქვენს ტელეფონზე TOTP- ის მხარდაჭერილი პროგრამიდან.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "თქვენი ელფოსტის მისამართი დაუდასტურებელია."
 }

@@ -83,6 +83,8 @@
     "Save": "Badbaadin",
     "Saved.": "Badbaadiyay",
     "Search": "Raadinta",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Dejinta",
     "Sign up": "Is-qor",
     "status": "darajo",
@@ -102,5 +104,6 @@
     "Welcome": "Welcome",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Markaad awood u leedahay xaqiijinta laba-qodob, waxaa lagugu soo dajin doonaa PIN aamin ah inta lagu gudajiro galitaanka. PIN-ga waxaa laga soo qaadan karaa arjiga la taageeray ee 'Totp-TODP' oo taleefankaaga ku yaal.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Iyada oo xaqiijinta laba-qodob karti u leh, waxaa lagugu dari doonaa si nabadgelyo ah, pin aan caadi ahayn oo lagu soo galo, oo aad ka heli karto arjiga la soo saaray ee Thep-ka taleefankaaga.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "Ciwaanka iimaylkaagu lama xaqiijin"
 }

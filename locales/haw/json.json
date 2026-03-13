@@ -83,6 +83,8 @@
     "Save": "Mālama",
     "Saved.": "Mālama ʻia.",
     "Search": "Huli",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Nā hoʻonohonoho",
     "Sign up": "Kau inoa",
     "status": "Kūlana",
@@ -102,5 +104,6 @@
     "Welcome": "Welina",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "I ka wā e hiki ai iāʻoe ke hōʻoia iʻelua, e hoʻopaʻaʻiaʻoe no kahi PIN paʻa i ka wā e hoʻopaʻa inoa ai. Hiki ke kiʻiʻia kēia pin i kahi noi i kākoʻoʻia mai kāu kelepona i kākoʻoʻia ma kāu kelepona.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Me ka hōʻoiaʻana oʻelua-kumu maoli, e hoʻolaunaʻiaʻoe no ka palekana, nā inoa inoa inoaʻole i ka wā i hiki ai iāʻoe ke kiʻi i ka noi i kākoʻoʻia mai kāu kelepona.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "ʻAʻole hōʻoia ʻia kāu leka uila."
 }

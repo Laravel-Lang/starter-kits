@@ -83,6 +83,8 @@
     "Save": "هەڵگرتن",
     "Saved.": "پاشەکەوت کراوە.",
     "Search": "گەڕان",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "ڕێکخستنەکان",
     "Sign up": "ناوت تۆمار بکە",
     "status": "دۆخ",
@@ -102,5 +104,6 @@
     "Welcome": "بەخێربێیت",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "کاتێک کە تۆ ڕەسەنایەتی دوو فاکتەری چالاک دەکەیت، لە کاتی چوونەژوورەوەدا داوای PIN ی پارێزراوت لێدەکرێت. ئەم پینە دەتوانرێت لە بەرنامەیەکی پشتگیریکراوی TOTP لە مۆبایلەکەتەوە وەربگیرێت.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "بە چالاککردنی دوو فاکتەری ڕەسەنایەتی، لە کاتی چوونەژوورەوەدا داوای PINی پارێزراو و هەڕەمەکیت لێدەکرێت، کە دەتوانیت لە بەرنامەی پشتگیریکراوی TOTP لە مۆبایلەکەتدا وەریبگریتەوە.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "ناونیشانی ئیمەیڵەکەت پشتڕاست نەکراوەتەوە."
 }
