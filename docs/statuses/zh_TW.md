@@ -4,12 +4,12 @@ editLink: false
 
 # zh_TW
 
-##### All missed: 19
+##### All missed: 22
 
 
 ### json
 
-##### Missing: 19
+##### Missing: 22
 
 <table width="100%">
 <tr><th width="50%">
@@ -131,6 +131,24 @@ Register
 </td></tr>
 <tr><td width="50%">
 
+Security
+
+</td><td width="50%">
+
+Security
+
+</td></tr>
+<tr><td width="50%">
+
+Security settings
+
+</td><td width="50%">
+
+Security settings
+
+</td></tr>
+<tr><td width="50%">
+
 Two-factor auth
 
 </td><td width="50%">
@@ -190,6 +208,15 @@ Welcome
 </td><td width="50%">
 
 Welcome
+
+</td></tr>
+<tr><td width="50%">
+
+You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.
+
+</td><td width="50%">
+
+You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.
 
 </td></tr>
 </table>
