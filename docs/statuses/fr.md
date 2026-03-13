@@ -4,12 +4,12 @@ editLink: false
 
 # fr
 
-##### All missed: 42
+##### All missed: 45
 
 
 ### json
 
-##### Missing: 42
+##### Missing: 45
 
 <table width="100%">
 <tr><th width="50%">
@@ -302,6 +302,24 @@ Repository
 </td></tr>
 <tr><td width="50%">
 
+Security
+
+</td><td width="50%">
+
+Security
+
+</td></tr>
+<tr><td width="50%">
+
+Security settings
+
+</td><td width="50%">
+
+Security settings
+
+</td></tr>
+<tr><td width="50%">
+
 To finish enabling two-factor authentication, scan the QR code or enter the setup key in your authenticator app.
 
 </td><td width="50%">
@@ -397,6 +415,15 @@ With two-factor authentication enabled, you will be prompted for a secure, rando
 </td><td width="50%">
 
 With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.
+
+</td></tr>
+<tr><td width="50%">
+
+You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.
+
+</td><td width="50%">
+
+You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.
 
 </td></tr>
 </table>
