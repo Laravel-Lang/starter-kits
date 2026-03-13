@@ -83,6 +83,8 @@
     "Save": "Simpan",
     "Saved.": "Disimpan.",
     "Search": "Mencari",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Pengaturan",
     "Sign up": "Mendaftar",
     "status": "status",
@@ -102,5 +104,6 @@
     "Welcome": "Selamat datang",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Saat Anda mengaktifkan otentikasi dua faktor, Anda akan diminta untuk pin yang aman selama login. Pin ini dapat diambil dari aplikasi yang didukung TOTP di ponsel Anda.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Dengan otentikasi dua faktor diaktifkan, Anda akan diminta untuk pin acak yang aman selama login, yang dapat Anda ambil dari aplikasi yang didukung TOTP di ponsel Anda.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "Alamat surel Anda belum diverifikasi."
 }

@@ -83,6 +83,8 @@
     "Save": "Պահպանել",
     "Saved.": "Պահպանված.",
     "Search": "Որոնել",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Կարգավորումներ",
     "Sign up": "Գրանցվել",
     "status": "կարգավիճակը",
@@ -102,5 +104,6 @@
     "Welcome": "Բարի գալուստ",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Երբ հնարավորություն եք տալիս երկու գործոնային վավերացում, ձեզ կառաջարկվի մուտքի ժամանակ ապահով PIN- ի համար: Այս PIN- ը կարող է ստացվել ձեր հեռախոսի մեջ գտնվող տոտպի աջակցվող դիմումից:",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Երկու գործոնային վավերացման միջոցով միացված է, ձեզ կառաջարկվի ապահով, պատահական PIN- ի համար մուտք գործի ընթացքում, որը կարող եք ձեր հեռախոսի մեջ առկա Totp- ի աջակցվող դիմումից:",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "Ձեր էլփոստի հասցեն չստուգված է:"
 }

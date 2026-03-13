@@ -83,6 +83,8 @@
     "Save": "Саклагыз",
     "Saved.": "Сакланган.",
     "Search": "Эзләү",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Көйләүләр",
     "Sign up": "Язылу",
     "status": "статус",
@@ -102,5 +104,6 @@
     "Welcome": "Welcome",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Ике факторлы аутентификацияне эшләгәндә, сез логин вакытында куркынычсыз PIN өчен соралачаксыз. Бу кадак телефоныгызда тулы булмаган кушымтадан алып була.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Ике факторлы аутентификация белән, сез логин вакытында куркынычсыз, очраклы кадак өчен соралачак, сез телефоныгызда Тотп ярдәмендә гариза ала аласыз.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "Сезнең электрон почта адресы тикшерелмәгән."
 }

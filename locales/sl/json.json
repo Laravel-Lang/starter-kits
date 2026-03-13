@@ -83,6 +83,8 @@
     "Save": "Shrani",
     "Saved.": "Shranjeno.",
     "Search": "Iskanje",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Nastavitve",
     "Sign up": "Prijavite se",
     "status": "stanje",
@@ -102,5 +104,6 @@
     "Welcome": "Welcome",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Ko boste omogočili dvofaktorsko preverjanje pristnosti, boste med prijavo pozvani za varen zatič. Ta zatič je mogoče pridobiti iz aplikacije, ki jo podpira TOTP, v telefonu.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Z omogočeno dvofaktorsko preverjanje pristnosti boste med prijavo pozvani za varen, naključni zatič, ki ga lahko pridobite iz aplikacije, ki jo podpira TOTP, v telefonu.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "Vaš e-poštni naslov ni preverjen."
 }

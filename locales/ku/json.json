@@ -83,6 +83,8 @@
     "Save": "Rizgarkirin",
     "Saved.": "Xilas kirin.",
     "Search": "Gerr",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Mîhengan",
     "Sign up": "Tomar kirin",
     "status": "cî",
@@ -102,5 +104,6 @@
     "Welcome": "Bi xêr hatî",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Dema ku hûn nasnameya du-faktorê çalak bikin, hûn ê di dema têketinê de ji bo PIN-ê ewle werin şandin. Ev PIN dikare ji serîlêdana totp-piştgirî ya li ser têlefona we were girtin.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Bi nasnameya du-faktor ve hatî çalak kirin, di dema têketinê de ji bo pêvekek ewledar, dispeter, ku hûn dikarin ji serîlêdana totp-piştgirî ya li ser têlefona xwe bigirin.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "Navnîşana e-nameya we nehatiye piştrast kirin."
 }

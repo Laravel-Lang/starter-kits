@@ -83,6 +83,8 @@
     "Save": "Okununula",
     "Saved.": "Kiterekeddwa.",
     "Search": "Okunoonya",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Enteekateeka .",
     "Sign up": "Wewandiise",
     "status": "ennyimirira",
@@ -102,5 +104,6 @@
     "Welcome": "Kaale",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Bw’osobozesa okukakasa okw’ensonga bbiri, ojja kusabibwa ppini ennywevu ng’oyingira. Pin eno osobola okugiggya mu nkola ewagirwa TOTP ku ssimu yo.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Nga olina okukakasa okw’ensonga bbiri, ojja kusabibwa ppini ennywevu, ey’ekifuulannenge ng’oyingira, gy’osobola okuggya mu nkola ewagirwa TOTP ku ssimu yo.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "Endagiriro yo eya email tekakasiddwa."
 }

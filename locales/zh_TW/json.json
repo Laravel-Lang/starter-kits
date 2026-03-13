@@ -83,6 +83,8 @@
     "Save": "儲存",
     "Saved.": "已儲存。",
     "Search": "搜尋",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "設定",
     "Sign up": "報名",
     "status": "地位",
@@ -102,5 +104,6 @@
     "Welcome": "Welcome",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "當您啟用兩因素身份驗證時，將在登錄過程中提示您進行安全銷。可以從手機上的TOTP支持的應用程序中檢索此PIN。",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "啟用了兩因素身份驗證，將提示您在登錄過程中進行安全的隨機PIN，您可以從手機上的TOTP支持的應用程序中檢索。",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "您的電子郵件地址尚未驗證。"
 }

@@ -83,6 +83,8 @@
     "Save": "Нигоҳ",
     "Saved.": "Сохраненный.",
     "Search": "Кофтуков",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Танзимот",
     "Sign up": "қайд кардан",
     "status": "вазъият",
@@ -102,5 +104,6 @@
     "Welcome": "Welcome",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Вақте ки шумо дар бораи тасдиқи дуҷонибаи омма имкон медиҳад, шумо дар вақти воридшавӣ барои намоиши бехатар дархост хоҳед шуд. Ин PIN-ро аз замимаи PROPP дар телефони худ гирифта метавонад.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Бо тасдиқи ду-омил фаъол аст, шумо барои ворид шудан аз аризаи Topp-Proff-Section дар телефонатон дархост карда мешавад.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "Суроғаи почтаи электронии шумо тасдиқ нашудааст."
 }

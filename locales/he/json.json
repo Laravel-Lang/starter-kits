@@ -83,6 +83,8 @@
     "Save": "שמור",
     "Saved.": "ניצלתי.",
     "Search": "לְחַפֵּשׂ",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "הגדרות",
     "Sign up": "הירשם",
     "status": "סטָטוּס",
@@ -102,5 +104,6 @@
     "Welcome": "קַבָּלַת פָּנִים",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "כשאתה מאפשר אימות דו-גורמי, תתבקש לקבל סיכה מאובטחת במהלך הכניסה. ניתן לאחזר סיכה זו מיישום הנתמך על ידי TOTP בטלפון שלך.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "עם אימות דו-גורמי מופעל, תתבקש לקבל סיכה מאובטחת ואקראית במהלך הכניסה, שתוכל לאחזר מהיישום הנתמך על ידי TOTP בטלפון שלך.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "כתובת האימייל שלך לא מאומתת."
 }

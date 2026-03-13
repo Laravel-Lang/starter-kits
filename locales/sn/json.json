@@ -83,6 +83,8 @@
     "Save": "Sevha",
     "Saved.": "Kuponeswa.",
     "Search": "Tsvaga",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Zvirongwa",
     "Sign up": "Nyorera",
     "status": "chimiro",
@@ -102,5 +104,6 @@
     "Welcome": "Welcome",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Paunogonesa maviri-factor kusimbiswa, iwe uchave unokurudzirwa pini yakachengeteka panguva yekupinda. Iyi pini inogona kudzoserwa kubva kuThe TOTP-inotsigirwa application pafoni yako.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Nezvimwe-zviviri-chinhu chisarudzo chakaita kuti iwe ugone, iwe unozokurudzirwa kune yakachengeteka, isina kujairika pini panguva yekupinda, iyo iwe yaunogona kutora kubva kuThe TOTP-inotsigirwa application pafoni yako.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "Kero yako yeemail haina kusimbiswa."
 }

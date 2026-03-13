@@ -83,6 +83,8 @@
     "Save": "Speichern",
     "Saved.": "Gespeichert.",
     "Search": "Suche",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Einstellungen",
     "Sign up": "Anmelden",
     "status": "Status",
@@ -102,5 +104,6 @@
     "Welcome": "Welcome",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Wenn Sie die Zwei-Faktor-Authentifizierung aktivieren, werden Sie bei der Anmeldung zur Eingabe einer Sicherheits-PIN aufgefordert. Diese PIN können Sie über eine TOTP-unterstützte Anwendung auf Ihrem Smartphone abrufen.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Wenn die Zwei-Faktor-Authentifizierung aktiviert ist, werden Sie bei der Anmeldung zur Eingabe einer sicheren, zufällig generierten PIN aufgefordert, die Sie über die TOTP-unterstützte Anwendung auf Ihrem Smartphone abrufen können.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "Ihre E-Mail-Adresse ist nicht verifiziert."
 }

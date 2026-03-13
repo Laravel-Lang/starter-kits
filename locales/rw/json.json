@@ -83,6 +83,8 @@
     "Save": "Bika",
     "Saved.": "Yakijijwe.",
     "Search": "Shakisha",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Igenamiterere",
     "Sign up": "Iyandikishe",
     "status": "imiterere",
@@ -102,5 +104,6 @@
     "Welcome": "Welcome",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Mugihe ushoboje kwemeza bibiri-kwemererwa, uzabazwa PIN ifite umutekano mugihe cyo kwinjira. Iyi pin irashobora kuvungwa muri porogaramu ishyigikiwe na totp kuri terefone yawe.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Hamwe no kwemeza ibintu bibiri byashoboka, uzasabwa kubwumutekano, udasanzwe muri kwinjira, ushobora kugarura muri porogaramu yashizwemo kuri terefone yawe.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "Aderesi imeri yawe ntabwo igenzurwa."
 }

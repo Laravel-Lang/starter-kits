@@ -83,6 +83,8 @@
     "Save": "کو بچانے کے",
     "Saved.": "بچا لیا.",
     "Search": "تلاش",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "ترتیبات",
     "Sign up": "سائن اپ",
     "status": "حیثیت",
@@ -102,5 +104,6 @@
     "Welcome": "Welcome",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "جب آپ دو عنصر کی توثیق کو قابل بناتے ہیں تو ، آپ کو لاگ ان کے دوران ایک محفوظ پن کے لئے اشارہ کیا جائے گا۔ اس پن کو آپ کے فون پر TOTP سے تعاون یافتہ درخواست سے بازیافت کیا جاسکتا ہے۔",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "دو عنصر کی توثیق کو فعال کرنے کے ساتھ ، آپ کو لاگ ان کے دوران ایک محفوظ ، بے ترتیب پن کے لئے اشارہ کیا جائے گا ، جسے آپ اپنے فون پر TOTP سے تعاون یافتہ درخواست سے بازیافت کرسکتے ہیں۔",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "آپ کا ای میل پتہ غیر تصدیق شدہ ہے۔"
 }

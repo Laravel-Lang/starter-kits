@@ -83,6 +83,8 @@
     "Save": "Ħlief",
     "Saved.": "Salvat.",
     "Search": "Tfittxija",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Settings",
     "Sign up": "Irreġistra",
     "status": "status",
@@ -102,5 +104,6 @@
     "Welcome": "Merħba",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Meta tippermetti l-awtentikazzjoni b'żewġ fatturi, tkun imħeġġeġ għal pin sigur waqt l-login. Dan il-brilli jista 'jinġabar minn applikazzjoni appoġġjata minn TOTP fuq it-telefon tiegħek.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Bl-awtentikazzjoni b'żewġ fatturi attivata, inti tkun imħeġġeġ għal pin sigur u każwali waqt login, li tista 'tirkupra mill-applikazzjoni appoġġjata minn TOTP fuq it-telefon tiegħek.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "L-indirizz elettroniku tiegħek mhuwiex verifikat."
 }

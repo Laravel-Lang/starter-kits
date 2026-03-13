@@ -83,6 +83,8 @@
     "Save": "Tiaki",
     "Saved.": "Whakaorangia.",
     "Search": "Rapu",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Tautuhinga",
     "Sign up": "Takiuru",
     "status": "mana",
@@ -102,5 +104,6 @@
     "Welcome": "Nau mai haere mai",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "A, no te whakahohe koe i te whakamanatanga rua-matua, ka akiakihia koe mo te titi haumaru i te takiuru. Ka taea te whakahoki mai i tenei PIN mai i te tono tautoko-tautoko i runga i to waea.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Ki te whakamohiotanga e rua-waahanga i whakahoihia, ka akiakihia koe mo te tima haumaru, tupurangi tupurangi i te takiuru, ka taea e koe te whakahoki mai i te tono tautoko-tautoko i runga i to waea.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "Ko to wahitau imeera kaore i manatoko."
 }

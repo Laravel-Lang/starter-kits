@@ -83,6 +83,8 @@
     "Save": "Dzrae ɖo",
     "Saved.": "Wodzrae ɖo.",
     "Search": "Di",
+    "Security": "Security",
+    "Security settings": "Security settings",
     "Settings": "Ðoɖowo .",
     "Sign up": "De asi agbalẽ te .",
     "status": "ɖoƒe",
@@ -102,5 +104,6 @@
     "Welcome": "Woezɔ̃",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Ne èwɔ nu eve ƒe ɖaseɖiɖi ŋudɔ la, woabia tso asiwò be nàwɔ pin si le dedie le gege ɖe eme me. Woate ŋu axɔ pin sia tso TOTP-kpekpeɖeŋunadɔdasi si le wò fon dzi la me.",
     "With two-factor authentication enabled, you will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Ne wowɔ eve-nu ƒe ɖaseɖiɖi ŋudɔ la, woabia tso asiwò be nàwɔ pin si le dedie, si wowɔ le vome le gege ɖe eme me, si nàte ŋu axɔ tso dɔwɔnu si TOTP do alɔe le wò fon dzi.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "Your email address is unverified.": "Womeɖo kpe wò e-mail adrɛs dzi o."
 }
