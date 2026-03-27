@@ -437,20 +437,20 @@ Light
 </td></tr>
 <tr><td width="50%">
 
-log in
+Log in
 
 </td><td width="50%">
 
-log in
+Log in
 
 </td></tr>
 <tr><td width="50%">
 
-Log in
+log in
 
 </td><td width="50%">
 
-Log in
+log in
 
 </td></tr>
 <tr><td width="50%">
