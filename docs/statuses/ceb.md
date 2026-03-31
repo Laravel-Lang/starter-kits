@@ -4,12 +4,12 @@ editLink: false
 
 # ceb
 
-##### All missed: 9
+##### All missed: 8
 
 
 ### json
 
-##### Missing: 9
+##### Missing: 8
 
 <table width="100%">
 <tr><th width="50%">
@@ -55,15 +55,6 @@ Email
 </td><td width="50%">
 
 Email
-
-</td></tr>
-<tr><td width="50%">
-
-Email Address
-
-</td><td width="50%">
-
-Email Address
 
 </td></tr>
 <tr><td width="50%">

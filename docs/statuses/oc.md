@@ -4,12 +4,12 @@ editLink: false
 
 # oc
 
-##### All missed: 101
+##### All missed: 98
 
 
 ### json
 
-##### Missing: 101
+##### Missing: 98
 
 <table width="100%">
 <tr><th width="50%">
@@ -158,15 +158,6 @@ Confirm password
 </td></tr>
 <tr><td width="50%">
 
-Confirm Password
-
-</td><td width="50%">
-
-Confirm Password
-
-</td></tr>
-<tr><td width="50%">
-
 Continue
 
 </td><td width="50%">
@@ -289,15 +280,6 @@ Email address
 </td><td width="50%">
 
 Email address
-
-</td></tr>
-<tr><td width="50%">
-
-Email Address
-
-</td><td width="50%">
-
-Email Address
 
 </td></tr>
 <tr><td width="50%">
@@ -469,15 +451,6 @@ Log out
 </td><td width="50%">
 
 Log out
-
-</td></tr>
-<tr><td width="50%">
-
-Log Out
-
-</td><td width="50%">
-
-Log Out
 
 </td></tr>
 <tr><td width="50%">
