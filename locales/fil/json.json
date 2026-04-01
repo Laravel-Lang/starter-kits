@@ -77,8 +77,8 @@
     "Save": "I-save",
     "Saved.": "Nai-save.",
     "Search": "Maghanap",
-    "Security": "Security",
-    "Security settings": "Security settings",
+    "Security": "Seguridad",
+    "Security settings": "Mga setting ng seguridad",
     "Settings": "Mga setting",
     "Sign up": "Mag -sign up",
     "status": "katayuan",
@@ -95,6 +95,6 @@
     "View recovery codes": "Tingnan ang mga recovery code",
     "Welcome": "Maligayang pagdating",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Kapag pinagana mo ang pagpapatunay ng dalawang-factor, sasabihan ka para sa isang ligtas na pin sa panahon ng pag-login. Ang pin na ito ay maaaring makuha mula sa isang application na suportado ng TOTP sa iyong telepono.",
-    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Ipo-prompt ka para sa isang secure, random na pin sa panahon ng pag-login, na maaari mong makuha mula sa application na sinusuportahan ng TOTP sa iyong telepono.",
     "Your email address is unverified.": "Ang iyong email address ay hindi na-verify."
 }
