@@ -77,8 +77,8 @@
     "Save": "Rêde",
     "Saved.": "Opslein.",
     "Search": "Sykje",
-    "Security": "Security",
-    "Security settings": "Security settings",
+    "Security": "Feiligens",
+    "Security settings": "Feiligens ynstellings",
     "Settings": "Ynstellings",
     "Sign up": "Ynskriuwe",
     "status": "status",
@@ -95,6 +95,6 @@
     "View recovery codes": "Besjoch herstelkoades",
     "Welcome": "Wolkom",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "As jo ​​twa-faktor-ferifikaasje ynskeakelje, sille jo wurde frege foar in befeilige PIN by oanmelding. Dizze pin kin ophelle wurde fan in totp-stipe applikaasje op jo tillefoan.",
-    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Jo wurde frege om in feilige, willekeurige pin by it oanmelden, dy't jo kinne ophelje fan 'e TOTP-stipe applikaasje op jo tillefoan.",
     "Your email address is unverified.": "Jo e-mailadres is net ferifiearre."
 }
