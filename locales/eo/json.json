@@ -77,8 +77,8 @@
     "Save": "Savi",
     "Saved.": "Savita.",
     "Search": "Serĉo",
-    "Security": "Security",
-    "Security settings": "Security settings",
+    "Security": "Sekureco",
+    "Security settings": "Sekurecaj agordoj",
     "Settings": "Agordoj",
     "Sign up": "Registriĝu",
     "status": "Stato",
@@ -95,6 +95,6 @@
     "View recovery codes": "Rigardu reakirajn kodojn",
     "Welcome": "Bonvenon",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Kiam vi ebligas du-faktan aŭtentikigon, oni petos vin sekura pinglo dum ensaluto. Ĉi tiu pinglo povas esti retrovita de TOTP-subtenata aplikaĵo en via telefono.",
-    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Oni petos vin pri sekura, hazarda pinglo dum ensaluto, kiun vi povas preni de la aplikaĵo subtenata de TOTP en via telefono.",
     "Your email address is unverified.": "Via retadreso estas nekontrolita."
 }
