@@ -77,8 +77,8 @@
     "Save": "Salvestama",
     "Saved.": "Salvestama.",
     "Search": "Otsima",
-    "Security": "Security",
-    "Security settings": "Security settings",
+    "Security": "Turvalisus",
+    "Security settings": "Turvaseaded",
     "Settings": "Sätted",
     "Sign up": "Registreeruma",
     "status": "olek",
@@ -95,6 +95,6 @@
     "View recovery codes": "Vaadake taastekoode",
     "Welcome": "Tere tulemast",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Kui lubate kahefaktorilise autentimise, palutakse teil sisselogimise ajal turvaline tihvt saada. Seda tihvti saab oma telefoni TOTP toetatud rakendusest hankida.",
-    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Sisselogimisel palutakse teil sisestada turvaline juhuslik PIN-kood, mille saate oma telefoni TOTP-toega rakendusest hankida.",
     "Your email address is unverified.": "Teie e-posti aadress on kinnitamata."
 }
