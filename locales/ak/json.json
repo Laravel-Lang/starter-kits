@@ -77,8 +77,8 @@
     "Save": "Kora",
     "Saved.": "Wɔakora so.",
     "Search": "Hwehwɛ",
-    "Security": "Security",
-    "Security settings": "Security settings",
+    "Security": "Bammɔ",
+    "Security settings": "Ahobammɔ nhyehyɛe",
     "Settings": "Nsiesiei .",
     "Sign up": "Kyerɛw wo din .",
     "status": "gyinabea",
@@ -95,6 +95,6 @@
     "View recovery codes": "Hwɛ recovery codes ahorow",
     "Welcome": "Akwaaba",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Sɛ wo ma two-factor authentication yɛ adwuma a, wɔbɛka akyerɛ wo sɛ pin a ɛyɛ den bere a worekɔ mu no. Wobetumi agye Pin yi afi TOTP-boa application bi so wɔ wo fon so.",
-    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Wɔbɛbisa wo sɛ fa pin a ahobanbɔ, random bere a worekɔ mu, a wobɛtumi anya afiri application a TOTP boa wɔ wo fon so no mu.",
     "Your email address is unverified.": "Wo email address no nyɛ nea wɔagye atom."
 }
