@@ -17,6 +17,7 @@ class Vue extends Plugin
         return [
             'vue/main/vue.json'    => '{locale}.json',
             'vue/preview/vue.json' => '{locale}.json',
+            'vue/teams/vue.json'   => '{locale}.json',
         ];
     }
 }

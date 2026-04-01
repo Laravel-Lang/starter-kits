@@ -19,6 +19,7 @@ class Livewire extends Plugin
             'livewire/components/livewire.json' => '{locale}.json',
             'livewire/preview/livewire.json'    => '{locale}.json',
             'livewire/workos/livewire.json'     => '{locale}.json',
+            'livewire/teams/livewire.json'      => '{locale}.json',
         ];
     }
 }
