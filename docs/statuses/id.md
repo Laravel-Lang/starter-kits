@@ -4,12 +4,12 @@ editLink: false
 
 # id
 
-##### All missed: 5
+##### All missed: 2
 
 
 ### json
 
-##### Missing: 5
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,38 +32,11 @@ Platform
 </td></tr>
 <tr><td width="50%">
 
-Security
-
-</td><td width="50%">
-
-Security
-
-</td></tr>
-<tr><td width="50%">
-
-Security settings
-
-</td><td width="50%">
-
-Security settings
-
-</td></tr>
-<tr><td width="50%">
-
 status
 
 </td><td width="50%">
 
 status
-
-</td></tr>
-<tr><td width="50%">
-
-You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.
-
-</td><td width="50%">
-
-You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.
 
 </td></tr>
 </table>
