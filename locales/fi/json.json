@@ -77,8 +77,8 @@
     "Save": "Tallenna",
     "Saved.": "Tallennettu.",
     "Search": "Haku",
-    "Security": "Security",
-    "Security settings": "Security settings",
+    "Security": "Turvallisuus",
+    "Security settings": "Suojausasetukset",
     "Settings": "Asetukset",
     "Sign up": "Ilmoittautua",
     "status": "status",
@@ -95,6 +95,6 @@
     "View recovery codes": "Näytä palautuskoodit",
     "Welcome": "Tervetuloa",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Kun otat kaksifaktorisen todennuksen käyttöön, sinua pyydetään suojattu PIN-koodi kirjautumisen aikana. Tämä PIN-koodi voidaan hakea puhelimen TOTP-tukemasta sovelluksesta.",
-    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Sinulta kysytään sisäänkirjautumisen yhteydessä suojattua, satunnaista PIN-koodia, jonka voit hakea puhelimesi TOTP-tuetusta sovelluksesta.",
     "Your email address is unverified.": "Sähköpostiosoitteesi on vahvistamaton."
 }
