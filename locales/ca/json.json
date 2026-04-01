@@ -77,8 +77,8 @@
     "Save": "Desar",
     "Saved.": "Salvat.",
     "Search": "Buscar",
-    "Security": "Security",
-    "Security settings": "Security settings",
+    "Security": "Seguretat",
+    "Security settings": "Configuració de seguretat",
     "Settings": "Configuració",
     "Sign up": "Registrar -se",
     "status": "condició",
@@ -95,6 +95,6 @@
     "View recovery codes": "Veure codis de recuperació",
     "Welcome": "Benvingut",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Quan activeu l’autenticació de dos factors, se us demanarà un passador segur durant l’inici de sessió. Aquest PIN es pot recuperar d’una aplicació suportada per TOTP al telèfon.",
-    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Se us demanarà un pin segur i aleatori durant l'inici de sessió, que podeu recuperar des de l'aplicació compatible amb TOTP del vostre telèfon.",
     "Your email address is unverified.": "La teva adreça de correu electrònic no està verificada."
 }
