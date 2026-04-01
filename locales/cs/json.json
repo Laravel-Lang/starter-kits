@@ -77,8 +77,8 @@
     "Save": "Uložit",
     "Saved.": "Uloženo.",
     "Search": "Vyhledávání",
-    "Security": "Security",
-    "Security settings": "Security settings",
+    "Security": "Zabezpečení",
+    "Security settings": "Nastavení zabezpečení",
     "Settings": "Nastavení",
     "Sign up": "Zaregistrujte se",
     "status": "postavení",
@@ -95,6 +95,6 @@
     "View recovery codes": "Zobrazit obnovovací kódy",
     "Welcome": "Vítejte",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Pokud povolíte ověřování dvoufaktorů, budete během přihlášení vyzváni k zabezpečenému kolíku. Tento PIN lze získat z aplikace podporované TOTP v telefonu.",
-    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Během přihlašování budete vyzváni k zadání zabezpečeného náhodného kódu PIN, který můžete získat z aplikace podporované TOTP ve vašem telefonu.",
     "Your email address is unverified.": "Vaše e-mailová adresa není ověřena."
 }
