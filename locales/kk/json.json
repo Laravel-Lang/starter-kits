@@ -77,8 +77,8 @@
     "Save": "Сақтау",
     "Saved.": "Сақталған.",
     "Search": "Іздеу",
-    "Security": "Security",
-    "Security settings": "Security settings",
+    "Security": "Қауіпсіздік",
+    "Security settings": "Қауіпсіздік параметрлері",
     "Settings": "Параметрлер",
     "Sign up": "Тіркелу",
     "status": "мәртебе",
@@ -95,6 +95,6 @@
     "View recovery codes": "Қалпына келтіру кодтарын қараңыз",
     "Welcome": "Қош келдіңіз",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Екі факторлы аутентификацияны қосқан кезде, сізге кіру кезінде қауіпсіз PIN коды сұралады. Бұл PIN-кодты телефондағы Totp қолдау көрсетілетін қосымшадан алуға болады.",
-    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Жүйеге кіру кезінде сізден қауіпсіз, кездейсоқ PIN код сұралады, оны телефоныңыздағы TOTP қолдайтын қолданбадан алуға болады.",
     "Your email address is unverified.": "Электрондық пошта мекенжайыңыз расталмаған."
 }
