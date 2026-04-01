@@ -77,8 +77,8 @@
     "Save": "Запази",
     "Saved.": "Запазено.",
     "Search": "Търсене",
-    "Security": "Security",
-    "Security settings": "Security settings",
+    "Security": "сигурност",
+    "Security settings": "Настройки за сигурност",
     "Settings": "Настройки",
     "Sign up": "Регистрирайте се",
     "status": "Статус",
@@ -95,6 +95,6 @@
     "View recovery codes": "Вижте кодовете за възстановяване",
     "Welcome": "Добре дошли",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Когато активирате двуфакторна удостоверяване, ще бъдете подканени за защитен щифт по време на вход. Този ПИН може да бъде извлечен от приложението, поддържано от TOTP на вашия телефон.",
-    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Ще бъдете подканени да въведете защитен произволен ПИН по време на влизане, който можете да извлечете от поддържаното от TOTP приложение на вашия телефон.",
     "Your email address is unverified.": "Вашият имейл адрес не е потвърден."
 }
