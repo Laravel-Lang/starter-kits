@@ -77,8 +77,8 @@
     "Save": "Ka mara",
     "Saved.": "Kisilen don.",
     "Search": "Ɲini",
-    "Security": "Security",
-    "Security settings": "Security settings",
+    "Security": "Lakana",
+    "Security settings": "Lakanali sigicogo",
     "Settings": "Settings .",
     "Sign up": "Aw ye aw tɔgɔ sɛbɛn .",
     "status": "sigisariyaw",
@@ -95,6 +95,6 @@
     "View recovery codes": "Aw ye seginkanni kodew lajɛ",
     "Welcome": "I danse",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Ni i ye fɛn fila-fila-sɛgɛsɛgɛli daminɛ, i bɛna a ɲini i fɛ i ka pinɛ lakananen sɔrɔ don waati la. Nin Pin in bɛ se ka sɔrɔ TOTP-dɛmɛ-application dɔ la i ka telefɔni na.",
-    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "A bɛna ɲini i fɛ i ka pinɛ lakananen dɔ sɔrɔ, min bɛ kɛ k’a sɔrɔ i ma kɛ cogo si la, i bɛ se ka min sɔrɔ TOTP ka dɛmɛn porogaramu kɔnɔ i ka telefɔni na.",
     "Your email address is unverified.": "I ka imeyilɛri ladɛrɛsi ma sɛgɛsɛgɛ."
 }
