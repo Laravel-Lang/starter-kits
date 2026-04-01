@@ -77,8 +77,8 @@
     "Save": "Mentés",
     "Saved.": "Elmentve.",
     "Search": "Keresés",
-    "Security": "Security",
-    "Security settings": "Security settings",
+    "Security": "Biztonság",
+    "Security settings": "Biztonsági beállítások",
     "Settings": "Beállítások",
     "Sign up": "Feliratkozás",
     "status": "állapot",
@@ -95,6 +95,6 @@
     "View recovery codes": "Tekintse meg a helyreállítási kódokat",
     "Welcome": "Üdvözöljük",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Ha engedélyezi a két tényezős hitelesítést, a bejelentkezés során a rendszer kéri a biztonságos PIN-kódot. Ez a PIN-kód a telefonján a TOTP által támogatott alkalmazásból származhat.",
-    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "A bejelentkezés során egy biztonságos, véletlenszerű PIN kódot kell megadnia, amelyet a telefon TOTP-támogatott alkalmazásából kérhet le.",
     "Your email address is unverified.": "Az Ön e-mail címe nincs ellenőrizve."
 }
