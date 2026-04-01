@@ -15,9 +15,9 @@ class Svelte extends Plugin
     public function files(): array
     {
         return [
-            'svelte/main/svelte.json'    => '{locale}.json',
-            'svelte/preview/svelte.json' => '{locale}.json',
-            'svelte/teams/svelte.json'   => '{locale}.json',
+            'svelte/main/svelte.json'         => '{locale}.json',
+            'svelte/teams/svelte.json'        => '{locale}.json',
+            'svelte/workos-teams/svelte.json' => '{locale}.json',
         ];
     }
 }

@@ -13,7 +13,12 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "main", "workos", "preview", "components", "teams" ]
+                version:
+                    - main
+                    - components
+                    - teams
+                    - workos
+                    - workos-teams
         with:
             project: Laravel Livewire Starter Kit ${{ matrix.version }}
             paths: source/livewire/${{ matrix.version }}/*
@@ -22,13 +27,17 @@ jobs:
                     --url=https://github.com/laravel/livewire-starter-kit/archive/refs/heads/${{ matrix.version }}.zip \
                     --project=livewire \
                     --ver=${{ matrix.version }}
-       
+
     react:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         strategy:
             fail-fast: true
             matrix:
-                version: [ "main", "workos", "preview", "teams" ]
+                version:
+                    - main
+                    - teams
+                    - workos
+                    - workos-teams
         with:
             project: Laravel React Starter Kit ${{ matrix.version }}
             paths: source/react/${{ matrix.version }}/*
@@ -43,7 +52,11 @@ jobs:
         strategy:
             fail-fast: true
             matrix:
-                version: [ "main", "workos", "preview", "teams" ]
+                version:
+                    - main
+                    - teams
+                    - workos
+                    - workos-teams
         with:
             project: Laravel Svelte Starter Kit ${{ matrix.version }}
             paths: source/svelte/${{ matrix.version }}/*
@@ -52,13 +65,17 @@ jobs:
                     --url=https://github.com/laravel/svelte-starter-kit/archive/refs/heads/${{ matrix.version }}.zip \
                     --project=svelte \
                     --ver=${{ matrix.version }}
-    
+
     vue:
         uses: Laravel-Lang/.github/.github/workflows/download.yml@main
         strategy:
             fail-fast: true
             matrix:
-                version: [ "main", "workos", "preview", "teams" ]
+                version:
+                    - main
+                    - teams
+                    - workos
+                    - workos-teams
         with:
             project: Laravel Vue Starter Kit ${{ matrix.version }}
             paths: source/vue/${{ matrix.version }}/*
