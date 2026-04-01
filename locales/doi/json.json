@@ -77,8 +77,8 @@
     "Save": "बचाओ",
     "Saved.": "बचाया गया।",
     "Search": "तपाश",
-    "Security": "Security",
-    "Security settings": "Security settings",
+    "Security": "सुरक्षा",
+    "Security settings": "सुरक्षा सेटिंग्स",
     "Settings": "सेटिंग्स ऐ",
     "Sign up": "साइन अप करो",
     "status": "रुतबा",
@@ -95,6 +95,6 @@
     "View recovery codes": "रिकवरी कोड दिक्खो",
     "Welcome": "सुआगत",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "जदूं तुस दो-कारक प्रमाणीकरण गी सक्षम करदे ओ तां तुसेंगी लॉगिन दौरान सुरक्षत पिन आस्तै आखेआ जाग। इस पिन गी तुंदे फोन पर टीओटीपी-समर्थित एप्लीकेशन थमां हासल कीता जाई सकदा ऐ।",
-    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "लॉग इन दौरान तुसेंगी इक सुरक्षत, बेतरतीब पिन लेई आखेआ जाग, जिसी तुस अपने फोन पर टीओटीपी समर्थत एप्लिकेशन थमां हासल करी सकदे ओ।",
     "Your email address is unverified.": "तुंदा ईमेल पता असत्यापित ऐ।"
 }
