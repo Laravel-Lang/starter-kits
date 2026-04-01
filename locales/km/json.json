@@ -77,8 +77,8 @@
     "Save": "រក្សាទុក",
     "Saved.": "បានរក្សាទុក។",
     "Search": "ការឆេកឆេ",
-    "Security": "Security",
-    "Security settings": "Security settings",
+    "Security": "សន្តិសុខ",
+    "Security settings": "ការកំណត់សុវត្ថិភាព",
     "Settings": "ការកំណត់",
     "Sign up": "ចុះឈ្មោះ",
     "status": "ច្បាប់",
@@ -95,6 +95,6 @@
     "View recovery codes": "មើលលេខកូដសង្គ្រោះ",
     "Welcome": "សូមស្វាគមន៍",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "នៅពេលអ្នកបើកការផ្ទៀងផ្ទាត់ភាពត្រឹមត្រូវពីរកត្តាអ្នកនឹងត្រូវបានជម្រុញឱ្យម្ជុលរងសុវត្ថិភាពអំឡុងពេលចូល។ ម្ជុលនេះអាចទាញយកបានពីកម្មវិធីដែលគាំទ្រសម្រាប់ទូរស័ព្ទរបស់អ្នក។",
-    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "អ្នកនឹងត្រូវបានសួររកលេខសម្ងាត់ចៃដន្យដែលមានសុវត្ថិភាពអំឡុងពេលចូល ដែលអ្នកអាចទាញយកពីកម្មវិធីដែលគាំទ្រ TOTP នៅលើទូរសព្ទរបស់អ្នក។",
     "Your email address is unverified.": "អាសយដ្ឋានអ៊ីមែលរបស់អ្នកមិនត្រូវបានផ្ទៀងផ្ទាត់ទេ។"
 }
