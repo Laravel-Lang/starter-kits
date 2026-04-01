@@ -77,8 +77,8 @@
     "Save": "አስቀምጥ",
     "Saved.": "ተቀምጧል።",
     "Search": "ፍለጋ",
-    "Security": "Security",
-    "Security settings": "Security settings",
+    "Security": "ደህንነት",
+    "Security settings": "የደህንነት ቅንብሮች",
     "Settings": "ቅንብሮች",
     "Sign up": "ይመዝገቡ",
     "status": "ሁኔታ",
@@ -95,6 +95,6 @@
     "View recovery codes": "የመልሶ ማግኛ ኮዶችን ይመልከቱ",
     "Welcome": "እንኳን ደህና መጣህ",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "ሁለት-ግምታዊ ማረጋገጫ ሲያነቁ በመለያ ሲገቡ ደህንነቱ የተጠበቀ ፒን እንዲጠየቁ ያደርጋሉ. ይህ ፒን በስልክዎ ላይ ከ <prep -ደገ> መተግበሪያ ሊመለስ ይችላል.",
-    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "በመግቢያ ጊዜ ደህንነቱ የተጠበቀ፣ የዘፈቀደ ፒን ይጠየቃሉ፣ ይህም በስልክዎ ላይ ካለው TOTP ከሚደገፈው መተግበሪያ ማግኘት ይችላሉ።",
     "Your email address is unverified.": "የኢሜል አድራሻዎ ያልተረጋገጠ ነው።"
 }
