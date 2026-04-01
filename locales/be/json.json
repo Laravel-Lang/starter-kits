@@ -77,8 +77,8 @@
     "Save": "Захаваць",
     "Saved.": "Захаваны.",
     "Search": "Пошукі",
-    "Security": "Security",
-    "Security settings": "Security settings",
+    "Security": "Бяспека",
+    "Security settings": "Налады бяспекі",
     "Settings": "Налады",
     "Sign up": "Зарэгістравацца",
     "status": "статус",
@@ -95,6 +95,6 @@
     "View recovery codes": "Праглядзіце коды аднаўлення",
     "Welcome": "Сардэчна запрашаем",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Калі вы ўключыце двухфакторную аўтэнтыфікацыю, вам будзе прапанавана бяспечны штыфт падчас уваходу. Гэты штыфт можна атрымаць з прыкладання, які падтрымліваецца TOTP, на вашым тэлефоне.",
-    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Вам будзе прапанавана ўвесці бяспечны выпадковы PIN-код падчас уваходу, які вы можаце атрымаць з праграмы, якая падтрымлівае TOTP, на вашым тэлефоне.",
     "Your email address is unverified.": "Ваш адрас электроннай пошты неправераны."
 }
