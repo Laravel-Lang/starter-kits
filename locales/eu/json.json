@@ -77,8 +77,8 @@
     "Save": "Gorde",
     "Saved.": "Gorde.",
     "Search": "Araketa",
-    "Security": "Security",
-    "Security settings": "Security settings",
+    "Security": "Segurtasuna",
+    "Security settings": "Segurtasun-ezarpenak",
     "Settings": "Ezarpen",
     "Sign up": "Izena eman",
     "status": "kokapen",
@@ -95,6 +95,6 @@
     "View recovery codes": "Ikusi berreskuratzeko kodeak",
     "Welcome": "Ongi etorri",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Bi faktoreen autentifikazioa gaitzen duzunean, saioa hastean PIN segurua eskatuko zaizu. Pin hau TOTP onartzen den aplikazio batetik berreskura daiteke telefonoan.",
-    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
+    "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Saioa hastean ausazko pin seguru bat eskatuko zaizu, zure telefonoko TOTP-ek onartzen duen aplikaziotik berreskura dezakezuna.",
     "Your email address is unverified.": "Zure helbide elektronikoa egiaztatu gabe dago."
 }
