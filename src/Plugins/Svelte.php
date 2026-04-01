@@ -17,6 +17,7 @@ class Svelte extends Plugin
         return [
             'svelte/main/svelte.json'    => '{locale}.json',
             'svelte/preview/svelte.json' => '{locale}.json',
+            'svelte/teams/svelte.json'   => '{locale}.json',
         ];
     }
 }

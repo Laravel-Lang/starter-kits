@@ -17,6 +17,7 @@ class React extends Plugin
         return [
             'react/main/react.json'    => '{locale}.json',
             'react/preview/react.json' => '{locale}.json',
+            'react/teams/react.json'   => '{locale}.json',
         ];
     }
 }
