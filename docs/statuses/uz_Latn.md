@@ -4,12 +4,12 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 130
+##### All missed: 131
 
 
 ### json
 
-##### Missing: 130
+##### Missing: 131
 
 <table width="100%">
 <tr><th width="50%">
@@ -964,6 +964,15 @@ Teams
 </td><td width="50%">
 
 Teams
+
+</td></tr>
+<tr><td width="50%">
+
+The team name does not match.
+
+</td><td width="50%">
+
+The team name does not match.
 
 </td></tr>
 <tr><td width="50%">
