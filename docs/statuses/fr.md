@@ -4,12 +4,12 @@ editLink: false
 
 # fr
 
-##### All missed: 46
+##### All missed: 49
 
 
 ### json
 
-##### Missing: 46
+##### Missing: 49
 
 <table width="100%">
 <tr><th width="50%">
@@ -122,6 +122,15 @@ Documentation
 </td></tr>
 <tr><td width="50%">
 
+Edit :name
+
+</td><td width="50%">
+
+Edit :name
+
+</td></tr>
+<tr><td width="50%">
+
 Edit team
 
 </td><td width="50%">
@@ -338,6 +347,15 @@ The team name does not match.
 </td></tr>
 <tr><td width="50%">
 
+The team owner cannot be removed.
+
+</td><td width="50%">
+
+The team owner cannot be removed.
+
+</td></tr>
+<tr><td width="50%">
+
 This action cannot be undone. This will permanently delete the team ":name".
 
 </td><td width="50%">
@@ -397,6 +415,15 @@ Type ":name" to confirm
 </td><td width="50%">
 
 Type ":name" to confirm
+
+</td></tr>
+<tr><td width="50%">
+
+View :name
+
+</td><td width="50%">
+
+View :name
 
 </td></tr>
 <tr><td width="50%">
