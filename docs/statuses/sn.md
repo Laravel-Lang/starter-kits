@@ -4,12 +4,12 @@ editLink: false
 
 # sn
 
-##### All missed: 71
+##### All missed: 72
 
 
 ### json
 
-##### Missing: 71
+##### Missing: 72
 
 <table width="100%">
 <tr><th width="50%">
@@ -505,6 +505,15 @@ The team name does not match.
 </td><td width="50%">
 
 The team name does not match.
+
+</td></tr>
+<tr><td width="50%">
+
+The team owner cannot be removed.
+
+</td><td width="50%">
+
+The team owner cannot be removed.
 
 </td></tr>
 <tr><td width="50%">

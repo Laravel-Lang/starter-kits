@@ -4,12 +4,12 @@ editLink: false
 
 # sr_Latn_ME
 
-##### All missed: 130
+##### All missed: 131
 
 
 ### json
 
-##### Missing: 130
+##### Missing: 131
 
 <table width="100%">
 <tr><th width="50%">
@@ -964,6 +964,15 @@ The team name does not match.
 </td><td width="50%">
 
 The team name does not match.
+
+</td></tr>
+<tr><td width="50%">
+
+The team owner cannot be removed.
+
+</td><td width="50%">
+
+The team owner cannot be removed.
 
 </td></tr>
 <tr><td width="50%">
