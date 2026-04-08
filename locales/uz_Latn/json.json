@@ -117,6 +117,7 @@
     "Team name": "Team name",
     "Teams": "Teams",
     "The team name does not match.": "The team name does not match.",
+    "The team owner cannot be removed.": "The team owner cannot be removed.",
     "This action cannot be undone. This will permanently delete the team \":name\".": "This action cannot be undone. This will permanently delete the team \":name\".",
     "This invitation has already been accepted.": "This invitation has already been accepted.",
     "This invitation has expired.": "This invitation has expired.",
