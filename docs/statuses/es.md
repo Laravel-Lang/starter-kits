@@ -4,12 +4,12 @@ editLink: false
 
 # es
 
-##### All missed: 4
+##### All missed: 3
 
 
 ### json
 
-##### Missing: 4
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,15 +28,6 @@ Edit :name
 </td><td width="50%">
 
 Edit :name
-
-</td></tr>
-<tr><td width="50%">
-
-The team name does not match.
-
-</td><td width="50%">
-
-The team name does not match.
 
 </td></tr>
 <tr><td width="50%">
