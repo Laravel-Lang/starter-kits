@@ -4,12 +4,12 @@ editLink: false
 
 # mg
 
-##### All missed: 52
+##### All missed: 54
 
 
 ### json
 
-##### Missing: 52
+##### Missing: 54
 
 <table width="100%">
 <tr><th width="50%">
@@ -113,6 +113,15 @@ Delete team
 </td></tr>
 <tr><td width="50%">
 
+Edit :name
+
+</td><td width="50%">
+
+Edit :name
+
+</td></tr>
+<tr><td width="50%">
+
 Edit team
 
 </td><td width="50%">
@@ -442,6 +451,15 @@ Type ":name" to confirm
 </td><td width="50%">
 
 Type ":name" to confirm
+
+</td></tr>
+<tr><td width="50%">
+
+View :name
+
+</td><td width="50%">
+
+View :name
 
 </td></tr>
 <tr><td width="50%">
