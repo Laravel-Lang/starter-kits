@@ -4,12 +4,12 @@ editLink: false
 
 # pt_BR
 
-##### All missed: 82
+##### All missed: 83
 
 
 ### json
 
-##### Missing: 82
+##### Missing: 83
 
 <table width="100%">
 <tr><th width="50%">
@@ -577,6 +577,15 @@ The team name does not match.
 </td><td width="50%">
 
 The team name does not match.
+
+</td></tr>
+<tr><td width="50%">
+
+The team owner cannot be removed.
+
+</td><td width="50%">
+
+The team owner cannot be removed.
 
 </td></tr>
 <tr><td width="50%">
