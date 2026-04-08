@@ -4,12 +4,12 @@ editLink: false
 
 # pt_BR
 
-##### All missed: 82
+##### All missed: 85
 
 
 ### json
 
-##### Missing: 82
+##### Missing: 85
 
 <table width="100%">
 <tr><th width="50%">
@@ -185,6 +185,15 @@ Each recovery code can be used once to access your account and will be removed a
 </td></tr>
 <tr><td width="50%">
 
+Edit :name
+
+</td><td width="50%">
+
+Edit :name
+
+</td></tr>
+<tr><td width="50%">
+
 Edit team
 
 </td><td width="50%">
@@ -581,6 +590,15 @@ The team name does not match.
 </td></tr>
 <tr><td width="50%">
 
+The team owner cannot be removed.
+
+</td><td width="50%">
+
+The team owner cannot be removed.
+
+</td></tr>
+<tr><td width="50%">
+
 This action cannot be undone. This will permanently delete the team ":name".
 
 </td><td width="50%">
@@ -685,6 +703,15 @@ Verify authentication code
 </td><td width="50%">
 
 Verify authentication code
+
+</td></tr>
+<tr><td width="50%">
+
+View :name
+
+</td><td width="50%">
+
+View :name
 
 </td></tr>
 <tr><td width="50%">
