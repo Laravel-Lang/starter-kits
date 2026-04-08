@@ -4,12 +4,12 @@ editLink: false
 
 # ta
 
-##### All missed: 65
+##### All missed: 67
 
 
 ### json
 
-##### Missing: 65
+##### Missing: 67
 
 <table width="100%">
 <tr><th width="50%">
@@ -149,6 +149,15 @@ Each recovery code can be used once to access your account and will be removed a
 </td></tr>
 <tr><td width="50%">
 
+Edit :name
+
+</td><td width="50%">
+
+Edit :name
+
+</td></tr>
+<tr><td width="50%">
+
 Edit team
 
 </td><td width="50%">
@@ -541,6 +550,15 @@ Verify authentication code
 </td><td width="50%">
 
 Verify authentication code
+
+</td></tr>
+<tr><td width="50%">
+
+View :name
+
+</td><td width="50%">
+
+View :name
 
 </td></tr>
 <tr><td width="50%">
