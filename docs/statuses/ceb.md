@@ -4,12 +4,12 @@ editLink: false
 
 # ceb
 
-##### All missed: 53
+##### All missed: 54
 
 
 ### json
 
-##### Missing: 53
+##### Missing: 54
 
 <table width="100%">
 <tr><th width="50%">
@@ -280,6 +280,15 @@ Please proceed with caution, this cannot be undone.
 </td><td width="50%">
 
 Please proceed with caution, this cannot be undone.
+
+</td></tr>
+<tr><td width="50%">
+
+Profile updated.
+
+</td><td width="50%">
+
+Profile updated.
 
 </td></tr>
 <tr><td width="50%">

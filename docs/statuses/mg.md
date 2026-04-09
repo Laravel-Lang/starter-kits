@@ -4,12 +4,12 @@ editLink: false
 
 # mg
 
-##### All missed: 54
+##### All missed: 55
 
 
 ### json
 
-##### Missing: 54
+##### Missing: 55
 
 <table width="100%">
 <tr><th width="50%">
@@ -253,6 +253,15 @@ Please proceed with caution, this cannot be undone.
 </td><td width="50%">
 
 Please proceed with caution, this cannot be undone.
+
+</td></tr>
+<tr><td width="50%">
+
+Profile updated.
+
+</td><td width="50%">
+
+Profile updated.
 
 </td></tr>
 <tr><td width="50%">

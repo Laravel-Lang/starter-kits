@@ -4,12 +4,12 @@ editLink: false
 
 # da
 
-##### All missed: 90
+##### All missed: 91
 
 
 ### json
 
-##### Missing: 90
+##### Missing: 91
 
 <table width="100%">
 <tr><th width="50%">
@@ -451,6 +451,15 @@ Profile settings
 </td><td width="50%">
 
 Profile settings
+
+</td></tr>
+<tr><td width="50%">
+
+Profile updated.
+
+</td><td width="50%">
+
+Profile updated.
 
 </td></tr>
 <tr><td width="50%">
