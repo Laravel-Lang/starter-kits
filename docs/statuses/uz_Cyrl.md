@@ -4,12 +4,12 @@ editLink: false
 
 # uz_Cyrl
 
-##### All missed: 67
+##### All missed: 68
 
 
 ### json
 
-##### Missing: 67
+##### Missing: 68
 
 <table width="100%">
 <tr><th width="50%">
@@ -316,6 +316,15 @@ Profile settings
 </td><td width="50%">
 
 Profile settings
+
+</td></tr>
+<tr><td width="50%">
+
+Profile updated.
+
+</td><td width="50%">
+
+Profile updated.
 
 </td></tr>
 <tr><td width="50%">

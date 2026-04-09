@@ -4,12 +4,12 @@ editLink: false
 
 # sr_Latn_ME
 
-##### All missed: 133
+##### All missed: 134
 
 
 ### json
 
-##### Missing: 133
+##### Missing: 134
 
 <table width="100%">
 <tr><th width="50%">
@@ -748,6 +748,15 @@ Profile settings
 </td><td width="50%">
 
 Profile settings
+
+</td></tr>
+<tr><td width="50%">
+
+Profile updated.
+
+</td><td width="50%">
+
+Profile updated.
 
 </td></tr>
 <tr><td width="50%">
