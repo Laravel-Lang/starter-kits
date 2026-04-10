@@ -4,12 +4,12 @@ editLink: false
 
 # ceb
 
-##### All missed: 61
+##### All missed: 62
 
 
 ### json
 
-##### Missing: 61
+##### Missing: 62
 
 <table width="100%">
 <tr><th width="50%">
@@ -280,6 +280,15 @@ New team
 </td><td width="50%">
 
 New team
+
+</td></tr>
+<tr><td width="50%">
+
+Password updated.
+
+</td><td width="50%">
+
+Password updated.
 
 </td></tr>
 <tr><td width="50%">

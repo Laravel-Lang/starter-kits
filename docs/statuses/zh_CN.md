@@ -4,12 +4,12 @@ editLink: false
 
 # zh_CN
 
-##### All missed: 132
+##### All missed: 133
 
 
 ### json
 
-##### Missing: 132
+##### Missing: 133
 
 <table width="100%">
 <tr><th width="50%">
@@ -640,6 +640,15 @@ Or, return to
 </td><td width="50%">
 
 Or, return to
+
+</td></tr>
+<tr><td width="50%">
+
+Password updated.
+
+</td><td width="50%">
+
+Password updated.
 
 </td></tr>
 <tr><td width="50%">
