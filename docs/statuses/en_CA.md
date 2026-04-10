@@ -4,12 +4,12 @@ editLink: false
 
 # en_CA
 
-##### All missed: 155
+##### All missed: 154
 
 
 ### json
 
-##### Missing: 155
+##### Missing: 154
 
 <table width="100%">
 <tr><th width="50%">
@@ -1009,15 +1009,6 @@ Save
 </td><td width="50%">
 
 Save
-
-</td></tr>
-<tr><td width="50%">
-
-Saved.
-
-</td><td width="50%">
-
-Saved.
 
 </td></tr>
 <tr><td width="50%">
