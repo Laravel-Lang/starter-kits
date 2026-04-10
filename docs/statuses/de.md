@@ -4,12 +4,12 @@ editLink: false
 
 # de
 
-##### All missed: 8
+##### All missed: 9
 
 
 ### json
 
-##### Missing: 8
+##### Missing: 9
 
 <table width="100%">
 <tr><th width="50%">
@@ -55,6 +55,15 @@ Member role updated.
 </td><td width="50%">
 
 Member role updated.
+
+</td></tr>
+<tr><td width="50%">
+
+Password updated.
+
+</td><td width="50%">
+
+Password updated.
 
 </td></tr>
 <tr><td width="50%">

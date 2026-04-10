@@ -4,12 +4,12 @@ editLink: false
 
 # mg
 
-##### All missed: 62
+##### All missed: 63
 
 
 ### json
 
-##### Missing: 62
+##### Missing: 63
 
 <table width="100%">
 <tr><th width="50%">
@@ -253,6 +253,15 @@ Password
 </td><td width="50%">
 
 Password
+
+</td></tr>
+<tr><td width="50%">
+
+Password updated.
+
+</td><td width="50%">
+
+Password updated.
 
 </td></tr>
 <tr><td width="50%">
