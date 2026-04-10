@@ -4,12 +4,12 @@ editLink: false
 
 # fil
 
-##### All missed: 54
+##### All missed: 62
 
 
 ### json
 
-##### Missing: 54
+##### Missing: 62
 
 <table width="100%">
 <tr><th width="50%">
@@ -167,6 +167,24 @@ Give your team a name to get started.
 </td></tr>
 <tr><td width="50%">
 
+Invitation cancelled.
+
+</td><td width="50%">
+
+Invitation cancelled.
+
+</td></tr>
+<tr><td width="50%">
+
+Invitation sent.
+
+</td><td width="50%">
+
+Invitation sent.
+
+</td></tr>
+<tr><td width="50%">
+
 Invitations that have not been accepted yet
 
 </td><td width="50%">
@@ -230,6 +248,24 @@ Manage your teams and team memberships
 </td></tr>
 <tr><td width="50%">
 
+Member removed.
+
+</td><td width="50%">
+
+Member removed.
+
+</td></tr>
+<tr><td width="50%">
+
+Member role updated.
+
+</td><td width="50%">
+
+Member role updated.
+
+</td></tr>
+<tr><td width="50%">
+
 New team
 
 </td><td width="50%">
@@ -244,6 +280,15 @@ Password
 </td><td width="50%">
 
 Password
+
+</td></tr>
+<tr><td width="50%">
+
+Password updated.
+
+</td><td width="50%">
+
+Password updated.
 
 </td></tr>
 <tr><td width="50%">
@@ -356,6 +401,24 @@ Send invitation
 </td></tr>
 <tr><td width="50%">
 
+Team created.
+
+</td><td width="50%">
+
+Team created.
+
+</td></tr>
+<tr><td width="50%">
+
+Team deleted.
+
+</td><td width="50%">
+
+Team deleted.
+
+</td></tr>
+<tr><td width="50%">
+
 Team members
 
 </td><td width="50%">
@@ -370,6 +433,15 @@ Team name
 </td><td width="50%">
 
 Team name
+
+</td></tr>
+<tr><td width="50%">
+
+Team updated.
+
+</td><td width="50%">
+
+Team updated.
 
 </td></tr>
 <tr><td width="50%">
