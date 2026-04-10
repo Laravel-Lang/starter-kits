@@ -4,12 +4,12 @@ editLink: false
 
 # da
 
-##### All missed: 98
+##### All missed: 99
 
 
 ### json
 
-##### Missing: 98
+##### Missing: 99
 
 <table width="100%">
 <tr><th width="50%">
@@ -424,6 +424,15 @@ or, enter the code manually
 </td><td width="50%">
 
 or, enter the code manually
+
+</td></tr>
+<tr><td width="50%">
+
+Password updated.
+
+</td><td width="50%">
+
+Password updated.
 
 </td></tr>
 <tr><td width="50%">
