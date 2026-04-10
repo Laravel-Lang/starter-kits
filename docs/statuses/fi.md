@@ -4,12 +4,12 @@ editLink: false
 
 # fi
 
-##### All missed: 57
+##### All missed: 58
 
 
 ### json
 
-##### Missing: 57
+##### Missing: 58
 
 <table width="100%">
 <tr><th width="50%">
@@ -244,6 +244,15 @@ New team
 </td><td width="50%">
 
 New team
+
+</td></tr>
+<tr><td width="50%">
+
+Password updated.
+
+</td><td width="50%">
+
+Password updated.
 
 </td></tr>
 <tr><td width="50%">

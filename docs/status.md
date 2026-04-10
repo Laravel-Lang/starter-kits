@@ -4,7 +4,7 @@ editLink: false
 
 # Completion Status
 
-> Translation of localizations is completed by **48.57%** (9.6K / 19.7K).
+> Translation of localizations is completed by **48.26%** (9.6K / 19.8K).
 
 <table width="100%">
 <tr><td width="12%">

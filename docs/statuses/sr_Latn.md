@@ -4,12 +4,12 @@ editLink: false
 
 # sr_Latn
 
-##### All missed: 141
+##### All missed: 142
 
 
 ### json
 
-##### Missing: 141
+##### Missing: 142
 
 <table width="100%">
 <tr><th width="50%">
@@ -703,6 +703,15 @@ Or, return to
 </td><td width="50%">
 
 Or, return to
+
+</td></tr>
+<tr><td width="50%">
+
+Password updated.
+
+</td><td width="50%">
+
+Password updated.
 
 </td></tr>
 <tr><td width="50%">
