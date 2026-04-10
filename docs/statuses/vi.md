@@ -4,12 +4,12 @@ editLink: false
 
 # vi
 
-##### All missed: 125
+##### All missed: 132
 
 
 ### json
 
-##### Missing: 125
+##### Missing: 132
 
 <table width="100%">
 <tr><th width="50%">
@@ -437,6 +437,24 @@ Hide recovery codes
 </td></tr>
 <tr><td width="50%">
 
+Invitation cancelled.
+
+</td><td width="50%">
+
+Invitation cancelled.
+
+</td></tr>
+<tr><td width="50%">
+
+Invitation sent.
+
+</td><td width="50%">
+
+Invitation sent.
+
+</td></tr>
+<tr><td width="50%">
+
 Invitations that have not been accepted yet
 
 </td><td width="50%">
@@ -550,6 +568,24 @@ Manage your two-factor authentication settings
 </td><td width="50%">
 
 Manage your two-factor authentication settings
+
+</td></tr>
+<tr><td width="50%">
+
+Member removed.
+
+</td><td width="50%">
+
+Member removed.
+
+</td></tr>
+<tr><td width="50%">
+
+Member role updated.
+
+</td><td width="50%">
+
+Member role updated.
 
 </td></tr>
 <tr><td width="50%">
@@ -878,6 +914,24 @@ status
 </td></tr>
 <tr><td width="50%">
 
+Team created.
+
+</td><td width="50%">
+
+Team created.
+
+</td></tr>
+<tr><td width="50%">
+
+Team deleted.
+
+</td><td width="50%">
+
+Team deleted.
+
+</td></tr>
+<tr><td width="50%">
+
 Team members
 
 </td><td width="50%">
@@ -892,6 +946,15 @@ Team name
 </td><td width="50%">
 
 Team name
+
+</td></tr>
+<tr><td width="50%">
+
+Team updated.
+
+</td><td width="50%">
+
+Team updated.
 
 </td></tr>
 <tr><td width="50%">
