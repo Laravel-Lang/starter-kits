@@ -3,7 +3,6 @@
     ":inviterName has invited you to join the :teamName team.": ":inviterName has invited you to join the :teamName team.",
     "A new verification link has been sent to the email address you provided during registration.": "S'ha enviat un nou enllaç de verificació a l'adreça electrònica que heu proporcionat durant el registre.",
     "A new verification link has been sent to your email address.": "S'ha enviat un nou enllaç de verificació a la seva adreça de correu electrònic.",
-    "A reset link will be sent if the account exists.": "S'enviarà un enllaç de restabliment si existeix el compte.",
     "Accept invitation": "Accept invitation",
     "Already have an account?": "Ja teniu un compte?",
     "An invitation has already been sent to this email address.": "An invitation has already been sent to this email address.",

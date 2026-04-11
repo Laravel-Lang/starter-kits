@@ -3,7 +3,6 @@
     ":inviterName has invited you to join the :teamName team.": ":inviterName has invited you to join the :teamName team.",
     "A new verification link has been sent to the email address you provided during registration.": "新的驗證連結已傳送到您註冊時提供的電子郵件地址。",
     "A new verification link has been sent to your email address.": "新的驗證連結已傳送到您的電子郵件地址。",
-    "A reset link will be sent if the account exists.": "如果存在帳戶，將發送重置鏈接。",
     "Accept invitation": "Accept invitation",
     "Already have an account?": "已經有一個帳戶？",
     "An invitation has already been sent to this email address.": "An invitation has already been sent to this email address.",
