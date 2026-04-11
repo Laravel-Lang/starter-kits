@@ -3,7 +3,6 @@
     ":inviterName has invited you to join the :teamName team.": ":inviterName has invited you to join the :teamName team.",
     "A new verification link has been sent to the email address you provided during registration.": "새로운 확인 링크를 가입할 때 사용한 이메일 주소로 보냈습니다.",
     "A new verification link has been sent to your email address.": "새 확인 링크가 이메일 주소로 전송되었습니다.",
-    "A reset link will be sent if the account exists.": "계정이 있으면 재설정 링크가 전송됩니다.",
     "Accept invitation": "Accept invitation",
     "Already have an account?": "이미 계정이 있으신가요?",
     "An invitation has already been sent to this email address.": "An invitation has already been sent to this email address.",

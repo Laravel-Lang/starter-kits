@@ -3,7 +3,6 @@
     ":inviterName has invited you to join the :teamName team.": ":inviterName has invited you to join the :teamName team.",
     "A new verification link has been sent to the email address you provided during registration.": "Rekisteröitymisen yhteydessä antamaasi sähköpostiosoitteeseen on lähetetty Uusi vahvistuslinkki.",
     "A new verification link has been sent to your email address.": "Uusi vahvistuslinkki on lähetetty sähköpostiosoitteeseesi.",
-    "A reset link will be sent if the account exists.": "Reset -linkki lähetetään, jos tili on olemassa.",
     "Accept invitation": "Accept invitation",
     "Already have an account?": "Onko jo tili?",
     "An invitation has already been sent to this email address.": "An invitation has already been sent to this email address.",
