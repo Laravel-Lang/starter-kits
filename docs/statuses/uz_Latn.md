@@ -4,12 +4,12 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 143
+##### All missed: 142
 
 
 ### json
 
-##### Missing: 143
+##### Missing: 142
 
 <table width="100%">
 <tr><th width="50%">
@@ -46,15 +46,6 @@ A new verification link has been sent to your email address.
 </td><td width="50%">
 
 A new verification link has been sent to your email address.
-
-</td></tr>
-<tr><td width="50%">
-
-A reset link will be sent if the account exists.
-
-</td><td width="50%">
-
-A reset link will be sent if the account exists.
 
 </td></tr>
 <tr><td width="50%">

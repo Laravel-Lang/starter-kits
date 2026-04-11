@@ -4,12 +4,12 @@ editLink: false
 
 # ht
 
-##### All missed: 154
+##### All missed: 153
 
 
 ### json
 
-##### Missing: 154
+##### Missing: 153
 
 <table width="100%">
 <tr><th width="50%">
@@ -55,15 +55,6 @@ A new verification link has been sent to your email address.
 </td><td width="50%">
 
 A new verification link has been sent to your email address.
-
-</td></tr>
-<tr><td width="50%">
-
-A reset link will be sent if the account exists.
-
-</td><td width="50%">
-
-A reset link will be sent if the account exists.
 
 </td></tr>
 <tr><td width="50%">
