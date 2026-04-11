@@ -3,7 +3,6 @@
     ":inviterName has invited you to join the :teamName team.": ":inviterName has invited you to join the :teamName team.",
     "A new verification link has been sent to the email address you provided during registration.": "Povezava za potrditev je bila poslana na elektronski naslov, ki je bil vnešen ob registraciji.",
     "A new verification link has been sent to your email address.": "Na vaš e-poštni naslov je bila poslana nova povezava za preverjanje.",
-    "A reset link will be sent if the account exists.": "Če račun obstaja, bo poslana povezava za ponastavitev.",
     "Accept invitation": "Accept invitation",
     "Already have an account?": "Že imate račun?",
     "An invitation has already been sent to this email address.": "An invitation has already been sent to this email address.",
