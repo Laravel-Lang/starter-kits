@@ -4,12 +4,12 @@ editLink: false
 
 # bs
 
-##### All missed: 135
+##### All missed: 134
 
 
 ### json
 
-##### Missing: 135
+##### Missing: 134
 
 <table width="100%">
 <tr><th width="50%">
@@ -37,15 +37,6 @@ Value
 </td><td width="50%">
 
 :inviterName has invited you to join the :teamName team.
-
-</td></tr>
-<tr><td width="50%">
-
-A reset link will be sent if the account exists.
-
-</td><td width="50%">
-
-A reset link will be sent if the account exists.
 
 </td></tr>
 <tr><td width="50%">
