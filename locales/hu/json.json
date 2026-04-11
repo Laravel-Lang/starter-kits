@@ -3,7 +3,6 @@
     ":inviterName has invited you to join the :teamName team.": ":inviterName has invited you to join the :teamName team.",
     "A new verification link has been sent to the email address you provided during registration.": "Egy új ellenőrző linket küldtek a regisztráció során megadott e-mail címre.",
     "A new verification link has been sent to your email address.": "Új ellenőrző linket küldtünk az e-mail címére.",
-    "A reset link will be sent if the account exists.": "Ha a fiók létezik, akkor visszaállítást küldünk.",
     "Accept invitation": "Accept invitation",
     "Already have an account?": "Már van fiókja?",
     "An invitation has already been sent to this email address.": "An invitation has already been sent to this email address.",

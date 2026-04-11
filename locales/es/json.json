@@ -3,7 +3,6 @@
     ":inviterName has invited you to join the :teamName team.": ":inviterName le ha invitado a unirse al equipo :teamName.",
     "A new verification link has been sent to the email address you provided during registration.": "Se ha enviado un nuevo enlace de verificación a la dirección de correo electrónico que proporcionó durante el registro.",
     "A new verification link has been sent to your email address.": "Se ha enviado un nuevo enlace de verificación a su dirección de correo electrónico.",
-    "A reset link will be sent if the account exists.": "Se enviará un enlace de restablecimiento si la cuenta existe.",
     "Accept invitation": "Aceptar invitación",
     "Already have an account?": "¿Ya tiene una cuenta?",
     "An invitation has already been sent to this email address.": "Ya se ha enviado una invitación a esta dirección de correo electrónico.",
