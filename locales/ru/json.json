@@ -3,7 +3,6 @@
     ":inviterName has invited you to join the :teamName team.": ":inviterName has invited you to join the :teamName team.",
     "A new verification link has been sent to the email address you provided during registration.": "Новая ссылка для подтверждения была отправлена на Ваш адрес электронной почты, указанный при регистрации.",
     "A new verification link has been sent to your email address.": "На Ваш адрес электронной почты отправлена новая ссылка для подтверждения.",
-    "A reset link will be sent if the account exists.": "Мы отправим ссылку на сброс пароля, если аккаунт существует.",
     "Accept invitation": "Accept invitation",
     "Already have an account?": "Уже есть аккаунт?",
     "An invitation has already been sent to this email address.": "An invitation has already been sent to this email address.",

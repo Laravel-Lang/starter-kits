@@ -3,7 +3,6 @@
     ":inviterName has invited you to join the :teamName team.": ":inviterName has invited you to join the :teamName team.",
     "A new verification link has been sent to the email address you provided during registration.": "Newydd ddolen dilysu wedi cael ei anfon at y cyfeiriad e-bost bydd darparu yn ystod cofrestru.",
     "A new verification link has been sent to your email address.": "Mae dolen ddilysu newydd wedi'i hanfon i'ch cyfeiriad e-bost.",
-    "A reset link will be sent if the account exists.": "Anfonir dolen ailosod os yw'r cyfrif yn bodoli.",
     "Accept invitation": "Accept invitation",
     "Already have an account?": "Eisoes wedi cael cyfrif?",
     "An invitation has already been sent to this email address.": "An invitation has already been sent to this email address.",
