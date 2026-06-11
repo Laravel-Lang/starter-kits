@@ -4,12 +4,12 @@ editLink: false
 
 # de
 
-##### All missed: 9
+##### All missed: 10
 
 
 ### json
 
-##### Missing: 9
+##### Missing: 10
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+:action to join the ":team" team.
+
+</td><td width="50%">
+
+:action to join the ":team" team.
+
+</td></tr>
 <tr><td width="50%">
 
 :inviter invited you to join this team.
