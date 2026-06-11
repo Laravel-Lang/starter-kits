@@ -4,12 +4,12 @@ editLink: false
 
 # fa
 
-##### All missed: 21
+##### All missed: 29
 
 
 ### json
 
-##### Missing: 21
+##### Missing: 29
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,6 +23,33 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+:inviter invited you to join this team.
+
+</td><td width="50%">
+
+:inviter invited you to join this team.
+
+</td></tr>
+<tr><td width="50%">
+
+Accept
+
+</td><td width="50%">
+
+Accept
+
+</td></tr>
+<tr><td width="50%">
+
+Accept or decline the teams you have been invited to join.
+
+</td><td width="50%">
+
+Accept or decline the teams you have been invited to join.
+
+</td></tr>
+<tr><td width="50%">
+
 Add a passkey to sign in without a password
 
 </td><td width="50%">
@@ -86,6 +113,15 @@ Confirming...
 </td></tr>
 <tr><td width="50%">
 
+Decline
+
+</td><td width="50%">
+
+Decline
+
+</td></tr>
+<tr><td width="50%">
+
 e.g., MacBook Pro, iPhone
 
 </td><td width="50%">
@@ -104,11 +140,38 @@ Give this passkey a name to help you identify it later.
 </td></tr>
 <tr><td width="50%">
 
+Invitation accepted.
+
+</td><td width="50%">
+
+Invitation accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+Invitation declined.
+
+</td><td width="50%">
+
+Invitation declined.
+
+</td></tr>
+<tr><td width="50%">
+
 Last used :time
 
 </td><td width="50%">
 
 Last used :time
+
+</td></tr>
+<tr><td width="50%">
+
+Log in and visit your dashboard to accept or decline this invitation.
+
+</td><td width="50%">
+
+Log in and visit your dashboard to accept or decline this invitation.
 
 </td></tr>
 <tr><td width="50%">
@@ -172,6 +235,15 @@ Passkeys are not supported in this browser.
 </td><td width="50%">
 
 Passkeys are not supported in this browser.
+
+</td></tr>
+<tr><td width="50%">
+
+Pending team invitations
+
+</td><td width="50%">
+
+Pending team invitations
 
 </td></tr>
 <tr><td width="50%">
