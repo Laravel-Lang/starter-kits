@@ -1,9 +1,12 @@
 {
     ":inviterName has invited you to join the :teamName team.": ":inviterName has invited you to join the :teamName team.",
-    "Accept invitation": "Accept invitation",
     "An invitation has already been sent to this email address.": "An invitation has already been sent to this email address.",
+    "Invitation accepted.": "Invitation accepted.",
     "Invitation cancelled.": "Invitation cancelled.",
+    "Invitation declined.": "Invitation declined.",
     "Invitation sent.": "Invitation sent.",
+    "Log in": "Log in",
+    "Log in and visit your dashboard to accept or decline this invitation.": "Log in and visit your dashboard to accept or decline this invitation.",
     "Member removed.": "Member removed.",
     "Member role updated.": "Member role updated.",
     "Password updated.": "Password updated.",
