@@ -1,11 +1,11 @@
 {
     "2FA recovery codes": "2FA code ho'ōla",
+    ":action to join the \":team\" team.": ":action to join the \":team\" team.",
     ":inviter invited you to join this team.": ":inviter invited you to join this team.",
     ":inviterName has invited you to join the :teamName team.": ":inviterName has invited you to join the :teamName team.",
     "A new verification link has been sent to the email address you provided during registration.": "Ua hoʻouna ʻia kahi loulou hōʻoia hou i ka leka uila āu i hāʻawi ai i ke kau inoa ʻana.",
     "A new verification link has been sent to your email address.": "Ua hoʻouna ʻia kahi loulou hōʻoia hou i kāu leka uila.",
     "Accept": "Accept",
-    "Accept invitation": "Accept invitation",
     "Accept or decline the teams you have been invited to join.": "Accept or decline the teams you have been invited to join.",
     "Add a passkey to sign in without a password": "Add a passkey to sign in without a password",
     "Add passkey": "Add passkey",

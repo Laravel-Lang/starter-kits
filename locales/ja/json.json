@@ -1,11 +1,11 @@
 {
     "2FA recovery codes": "二要素認証のリカバリーコード",
+    ":action to join the \":team\" team.": ":action to join the \":team\" team.",
     ":inviter invited you to join this team.": ":inviter invited you to join this team.",
     ":inviterName has invited you to join the :teamName team.": ":inviterName さんがあなたを :teamName チームに招待しました。",
     "A new verification link has been sent to the email address you provided during registration.": "登録時に入力したメールアドレスに、新しい認証リンクを送信しました。",
     "A new verification link has been sent to your email address.": "メールアドレスに新しい認証リンクを送信しました。",
     "Accept": "Accept",
-    "Accept invitation": "招待を承諾",
     "Accept or decline the teams you have been invited to join.": "Accept or decline the teams you have been invited to join.",
     "Add a passkey to sign in without a password": "Add a passkey to sign in without a password",
     "Add passkey": "Add passkey",

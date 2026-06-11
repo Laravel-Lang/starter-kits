@@ -1,11 +1,11 @@
 {
     "2FA recovery codes": "2FA വീണ്ടെടുക്കൽ കോഡുകൾ",
+    ":action to join the \":team\" team.": ":action to join the \":team\" team.",
     ":inviter invited you to join this team.": ":inviter invited you to join this team.",
     ":inviterName has invited you to join the :teamName team.": ":inviterName has invited you to join the :teamName team.",
     "A new verification link has been sent to the email address you provided during registration.": "രജിസ്ട്രേഷൻ സമയത്ത് നിങ്ങൾ നൽകിയ ഇമെയിൽ വിലാസത്തിലേക്ക് ഒരു പുതിയ സ്ഥിരീകരണ ലിങ്ക് അയച്ചു.",
     "A new verification link has been sent to your email address.": "നിങ്ങളുടെ ഇമെയിൽ വിലാസത്തിലേക്ക് ഒരു പുതിയ സ്ഥിരീകരണ ലിങ്ക് അയച്ചു.",
     "Accept": "Accept",
-    "Accept invitation": "Accept invitation",
     "Accept or decline the teams you have been invited to join.": "Accept or decline the teams you have been invited to join.",
     "Add a passkey to sign in without a password": "Add a passkey to sign in without a password",
     "Add passkey": "Add passkey",
