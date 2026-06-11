@@ -1,11 +1,11 @@
 {
     "2FA recovery codes": "2FA recovery codes",
+    ":action to join the \":team\" team.": ":action to join the \":team\" team.",
     ":inviter invited you to join this team.": ":inviter invited you to join this team.",
     ":inviterName has invited you to join the :teamName team.": ":inviterName has invited you to join the :teamName team.",
     "A new verification link has been sent to the email address you provided during registration.": "一個新的驗證連結已經發送至您在註冊時提供的電郵地址。",
     "A new verification link has been sent to your email address.": "一個新的驗證連結已發送到您的電子郵件地址。",
     "Accept": "Accept",
-    "Accept invitation": "Accept invitation",
     "Accept or decline the teams you have been invited to join.": "Accept or decline the teams you have been invited to join.",
     "Add a passkey to sign in without a password": "Add a passkey to sign in without a password",
     "Add passkey": "Add passkey",
