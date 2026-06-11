@@ -4,12 +4,12 @@ editLink: false
 
 # bs
 
-##### All missed: 155
+##### All missed: 163
 
 
 ### json
 
-##### Missing: 155
+##### Missing: 163
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,6 +32,24 @@ Value
 </td></tr>
 <tr><td width="50%">
 
+:action to join the ":team" team.
+
+</td><td width="50%">
+
+:action to join the ":team" team.
+
+</td></tr>
+<tr><td width="50%">
+
+:inviter invited you to join this team.
+
+</td><td width="50%">
+
+:inviter invited you to join this team.
+
+</td></tr>
+<tr><td width="50%">
+
 :inviterName has invited you to join the :teamName team.
 
 </td><td width="50%">
@@ -41,11 +59,20 @@ Value
 </td></tr>
 <tr><td width="50%">
 
-Accept invitation
+Accept
 
 </td><td width="50%">
 
-Accept invitation
+Accept
+
+</td></tr>
+<tr><td width="50%">
+
+Accept or decline the teams you have been invited to join.
+
+</td><td width="50%">
+
+Accept or decline the teams you have been invited to join.
 
 </td></tr>
 <tr><td width="50%">
@@ -284,6 +311,15 @@ Dark
 </td></tr>
 <tr><td width="50%">
 
+Decline
+
+</td><td width="50%">
+
+Decline
+
+</td></tr>
+<tr><td width="50%">
+
 Delete account
 
 </td><td width="50%">
@@ -518,11 +554,29 @@ Hide recovery codes
 </td></tr>
 <tr><td width="50%">
 
+Invitation accepted.
+
+</td><td width="50%">
+
+Invitation accepted.
+
+</td></tr>
+<tr><td width="50%">
+
 Invitation cancelled.
 
 </td><td width="50%">
 
 Invitation cancelled.
+
+</td></tr>
+<tr><td width="50%">
+
+Invitation declined.
+
+</td><td width="50%">
+
+Invitation declined.
 
 </td></tr>
 <tr><td width="50%">
@@ -595,6 +649,15 @@ log in
 </td><td width="50%">
 
 log in
+
+</td></tr>
+<tr><td width="50%">
+
+Log in and visit your dashboard to accept or decline this invitation.
+
+</td><td width="50%">
+
+Log in and visit your dashboard to accept or decline this invitation.
 
 </td></tr>
 <tr><td width="50%">
@@ -820,6 +883,15 @@ Pending invitations
 </td><td width="50%">
 
 Pending invitations
+
+</td></tr>
+<tr><td width="50%">
+
+Pending team invitations
+
+</td><td width="50%">
+
+Pending team invitations
 
 </td></tr>
 <tr><td width="50%">
