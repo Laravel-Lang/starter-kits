@@ -32,6 +32,15 @@ Value
 </td></tr>
 <tr><td width="50%">
 
+:action to join the ":team" team.
+
+</td><td width="50%">
+
+:action to join the ":team" team.
+
+</td></tr>
+<tr><td width="50%">
+
 :inviter invited you to join this team.
 
 </td><td width="50%">
@@ -55,15 +64,6 @@ Accept
 </td><td width="50%">
 
 Accept
-
-</td></tr>
-<tr><td width="50%">
-
-Accept invitation
-
-</td><td width="50%">
-
-Accept invitation
 
 </td></tr>
 <tr><td width="50%">
