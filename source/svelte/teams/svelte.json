@@ -22,5 +22,6 @@
     "This invitation was sent to a different email address.": "This invitation was sent to a different email address.",
     "This team name is reserved and cannot be used.": "This team name is reserved and cannot be used.",
     "This user is already a member of the team.": "This user is already a member of the team.",
+    "You left the team \":name": "You left the team \":name",
     "You've been invited to join :teamName": "You've been invited to join :teamName"
 }
