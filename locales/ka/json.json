@@ -178,6 +178,7 @@
     "Welcome": "მოგესალმებით",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "როდესაც თქვენ ჩართავთ ორფაქტორულ ავთენტიფიკაციას, შესვლის დროს მოგთხოვთ უსაფრთხო ქინძისთავს. ამ პინის მოძიება შესაძლებელია თქვენს ტელეფონზე TOTP- ის მხარდაჭერილი პროგრამისგან.",
     "You don't belong to any teams yet.": "You don't belong to any teams yet.",
+    "You left the team \":name": "You left the team \":name",
     "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "შესვლისას მოგეთხოვებათ უსაფრთხო, შემთხვევითი პინი, რომელიც შეგიძლიათ მიიღოთ თქვენი ტელეფონის TOTP მხარდაჭერილი აპლიკაციიდან.",
     "You've been invited to join :teamName": "You've been invited to join :teamName",
     "Your email address is unverified.": "თქვენი ელფოსტის მისამართი დაუდასტურებელია."
