@@ -16,6 +16,7 @@
     "Appearance settings": "Itxura ezarpenak",
     "Are you sure you want to cancel the invitation for :email?": "Are you sure you want to cancel the invitation for :email?",
     "Are you sure you want to delete your account?": "Ziur zure kontua ezabatu nahi duzula?",
+    "Are you sure you want to leave :name?": "Are you sure you want to leave :name?",
     "Are you sure you want to remove :name from this team?": "Are you sure you want to remove :name from this team?",
     "Are you sure you want to remove the passkey \":name\"? You will no longer be able to use it to sign in.": "Are you sure you want to remove the passkey \":name\"? You will no longer be able to use it to sign in.",
     "Are you sure?": "Are you sure?",
@@ -76,6 +77,7 @@
     "Invite member": "Invite member",
     "Keep invitation": "Keep invitation",
     "Last used :time": "Last used :time",
+    "Leave team": "Leave team",
     "Light": "Argia",
     "log in": "Sarrera",
     "Log in": "Saioa",
@@ -178,6 +180,7 @@
     "Welcome": "Ongi etorri",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Bi faktoreen autentifikazioa gaitzen duzunean, saioa hastean PIN segurua eskatuko zaizu. Pin hau TOTP onartzen den aplikazio batetik berreskura daiteke telefonoan.",
     "You don't belong to any teams yet.": "You don't belong to any teams yet.",
+    "You left the team \":name": "You left the team \":name",
     "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Saioa hastean ausazko pin seguru bat eskatuko zaizu, zure telefonoko TOTP-ek onartzen duen aplikaziotik berreskura dezakezuna.",
     "You've been invited to join :teamName": "You've been invited to join :teamName",
     "Your email address is unverified.": "Zure helbide elektronikoa egiaztatu gabe dago."

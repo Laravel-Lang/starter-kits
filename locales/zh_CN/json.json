@@ -16,6 +16,7 @@
     "Appearance settings": "外观设置",
     "Are you sure you want to cancel the invitation for :email?": "您确定要取消 :email 的邀请吗？",
     "Are you sure you want to delete your account?": "您确定要删除您的帐户吗？",
+    "Are you sure you want to leave :name?": "Are you sure you want to leave :name?",
     "Are you sure you want to remove :name from this team?": "您确定要将 :name 从该团队中移除吗？",
     "Are you sure you want to remove the passkey \":name\"? You will no longer be able to use it to sign in.": "您确定要移除通行密钥“:name”吗？移除后将无法使用它登录。",
     "Are you sure?": "您确定吗？",
@@ -76,6 +77,7 @@
     "Invite member": "邀请成员",
     "Keep invitation": "保留邀请",
     "Last used :time": "上次使用于 :time",
+    "Leave team": "Leave team",
     "Light": "浅色",
     "log in": "登录",
     "Log in": "登录",
@@ -178,6 +180,7 @@
     "Welcome": "欢迎",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "启用两步验证后，登录时会提示输入安全PIN码。该PIN码可通过手机上的TOTP应用获取。",
     "You don't belong to any teams yet.": "你还没有加入任何团队。",
+    "You left the team \":name": "You left the team \":name",
     "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "登录时会提示输入安全随机PIN码，该码可在TOTP应用中获取。",
     "You've been invited to join :teamName": "你已被邀请加入 :teamName 团队",
     "Your email address is unverified.": "您的电子邮箱未经验证。"
