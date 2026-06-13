@@ -4,12 +4,12 @@ editLink: false
 
 # ja
 
-##### All missed: 30
+##### All missed: 31
 
 
 ### json
 
-##### Missing: 30
+##### Missing: 31
 
 <table width="100%">
 <tr><th width="50%">
@@ -289,6 +289,15 @@ Sign in with a passkey
 </td><td width="50%">
 
 Sign in with a passkey
+
+</td></tr>
+<tr><td width="50%">
+
+You left the team ":name
+
+</td><td width="50%">
+
+You left the team ":name
 
 </td></tr>
 </table>

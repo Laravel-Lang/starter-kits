@@ -4,12 +4,12 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 171
+##### All missed: 172
 
 
 ### json
 
-##### Missing: 171
+##### Missing: 172
 
 <table width="100%">
 <tr><th width="50%">
@@ -1531,6 +1531,15 @@ You don't belong to any teams yet.
 </td><td width="50%">
 
 You don't belong to any teams yet.
+
+</td></tr>
+<tr><td width="50%">
+
+You left the team ":name
+
+</td><td width="50%">
+
+You left the team ":name
 
 </td></tr>
 <tr><td width="50%">

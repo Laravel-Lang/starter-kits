@@ -4,12 +4,12 @@ editLink: false
 
 # de
 
-##### All missed: 10
+##### All missed: 11
 
 
 ### json
 
-##### Missing: 10
+##### Missing: 11
 
 <table width="100%">
 <tr><th width="50%">
@@ -109,6 +109,15 @@ Pending team invitations
 </td><td width="50%">
 
 Pending team invitations
+
+</td></tr>
+<tr><td width="50%">
+
+You left the team ":name
+
+</td><td width="50%">
+
+You left the team ":name
 
 </td></tr>
 </table>

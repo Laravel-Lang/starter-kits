@@ -4,12 +4,12 @@ editLink: false
 
 # hr
 
-##### All missed: 124
+##### All missed: 125
 
 
 ### json
 
-##### Missing: 124
+##### Missing: 125
 
 <table width="100%">
 <tr><th width="50%">
@@ -1117,6 +1117,15 @@ You don't belong to any teams yet.
 </td><td width="50%">
 
 You don't belong to any teams yet.
+
+</td></tr>
+<tr><td width="50%">
+
+You left the team ":name
+
+</td><td width="50%">
+
+You left the team ":name
 
 </td></tr>
 <tr><td width="50%">
