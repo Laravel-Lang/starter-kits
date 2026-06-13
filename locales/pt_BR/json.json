@@ -16,6 +16,7 @@
     "Appearance settings": "Configurações de aparência",
     "Are you sure you want to cancel the invitation for :email?": "Tem certeza que quer cancelar o convite para :email?",
     "Are you sure you want to delete your account?": "Tem certeza que quer excluir a sua conta?",
+    "Are you sure you want to leave :name?": "Are you sure you want to leave :name?",
     "Are you sure you want to remove :name from this team?": "Tem certeza que quer remover :name desta equipe?",
     "Are you sure you want to remove the passkey \":name\"? You will no longer be able to use it to sign in.": "Tem certeza que quer remover a chave de acesso \":name\"? Você não poderá mais utilizá-la para entrar.",
     "Are you sure?": "Tem certeza?",
@@ -76,6 +77,7 @@
     "Invite member": "Convidar membro",
     "Keep invitation": "Manter convite",
     "Last used :time": "Último uso :time",
+    "Leave team": "Leave team",
     "Light": "Claro",
     "log in": "entrar",
     "Log in": "Entrar",
@@ -178,6 +180,7 @@
     "Welcome": "Bem-vindo",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Ao ativar a autenticação de dois fatores, você será solicitado a fornecer um PIN seguro durante o login. Este PIN pode ser obtido em um aplicativo compatível com TOTP no seu telefone.",
     "You don't belong to any teams yet.": "Você ainda não pertence a nenhuma equipe.",
+    "You left the team \":name": "You left the team \":name",
     "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Você será solicitado a fornecer um PIN seguro e aleatório durante o login, que você pode obter no aplicativo compatível com TOTP no seu telefone.",
     "You've been invited to join :teamName": "Você foi convidado para entrar na equipe :teamName",
     "Your email address is unverified.": "Seu endereço de e-mail não foi verificado."
