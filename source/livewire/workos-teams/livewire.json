@@ -8,6 +8,7 @@
     "Appearance settings": "Appearance settings",
     "Are you sure you want to cancel the invitation for :email?": "Are you sure you want to cancel the invitation for :email?",
     "Are you sure you want to delete your account?": "Are you sure you want to delete your account?",
+    "Are you sure you want to leave :name?": "Are you sure you want to leave :name?",
     "Are you sure you want to remove :name from this team?": "Are you sure you want to remove :name from this team?",
     "Are you sure?": "Are you sure?",
     "Cancel": "Cancel",
@@ -34,6 +35,7 @@
     "Invite a team member": "Invite a team member",
     "Invite member": "Invite member",
     "Keep invitation": "Keep invitation",
+    "Leave team": "Leave team",
     "Light": "Light",
     "Log in": "Log in",
     "Log in and visit your dashboard to accept or decline this invitation.": "Log in and visit your dashboard to accept or decline this invitation.",
@@ -88,5 +90,6 @@
     "Warning": "Warning",
     "Welcome": "Welcome",
     "You don't belong to any teams yet.": "You don't belong to any teams yet.",
+    "You left the team \":name": "You left the team \":name",
     "You've been invited to join :teamName": "You've been invited to join :teamName"
 }
