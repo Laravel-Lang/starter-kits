@@ -4,12 +4,12 @@ editLink: false
 
 # ru
 
-##### All missed: 30
+##### All missed: 33
 
 
 ### json
 
-##### Missing: 30
+##### Missing: 33
 
 <table width="100%">
 <tr><th width="50%">
@@ -86,6 +86,15 @@ Added :time
 </td></tr>
 <tr><td width="50%">
 
+Are you sure you want to leave :name?
+
+</td><td width="50%">
+
+Are you sure you want to leave :name?
+
+</td></tr>
+<tr><td width="50%">
+
 Are you sure you want to remove the passkey ":name"? You will no longer be able to use it to sign in.
 
 </td><td width="50%">
@@ -172,6 +181,15 @@ Last used :time
 </td><td width="50%">
 
 Last used :time
+
+</td></tr>
+<tr><td width="50%">
+
+Leave team
+
+</td><td width="50%">
+
+Leave team
 
 </td></tr>
 <tr><td width="50%">
@@ -289,6 +307,15 @@ Sign in with a passkey
 </td><td width="50%">
 
 Sign in with a passkey
+
+</td></tr>
+<tr><td width="50%">
+
+You left the team ":name
+
+</td><td width="50%">
+
+You left the team ":name
 
 </td></tr>
 </table>

@@ -4,12 +4,12 @@ editLink: false
 
 # pl
 
-##### All missed: 124
+##### All missed: 127
 
 
 ### json
 
-##### Missing: 124
+##### Missing: 127
 
 <table width="100%">
 <tr><th width="50%">
@@ -131,6 +131,15 @@ Are you sure you want to cancel the invitation for :email?
 </td></tr>
 <tr><td width="50%">
 
+Are you sure you want to leave :name?
+
+</td><td width="50%">
+
+Are you sure you want to leave :name?
+
+</td></tr>
+<tr><td width="50%">
+
 Are you sure you want to remove :name from this team?
 
 </td><td width="50%">
@@ -469,6 +478,15 @@ Last used :time
 </td><td width="50%">
 
 Last used :time
+
+</td></tr>
+<tr><td width="50%">
+
+Leave team
+
+</td><td width="50%">
+
+Leave team
 
 </td></tr>
 <tr><td width="50%">
@@ -1117,6 +1135,15 @@ You don't belong to any teams yet.
 </td><td width="50%">
 
 You don't belong to any teams yet.
+
+</td></tr>
+<tr><td width="50%">
+
+You left the team ":name
+
+</td><td width="50%">
+
+You left the team ":name
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # de
 
-##### All missed: 10
+##### All missed: 13
 
 
 ### json
 
-##### Missing: 10
+##### Missing: 13
 
 <table width="100%">
 <tr><th width="50%">
@@ -59,6 +59,15 @@ Accept or decline the teams you have been invited to join.
 </td></tr>
 <tr><td width="50%">
 
+Are you sure you want to leave :name?
+
+</td><td width="50%">
+
+Are you sure you want to leave :name?
+
+</td></tr>
+<tr><td width="50%">
+
 Decline
 
 </td><td width="50%">
@@ -86,6 +95,15 @@ Invitation declined.
 </td></tr>
 <tr><td width="50%">
 
+Leave team
+
+</td><td width="50%">
+
+Leave team
+
+</td></tr>
+<tr><td width="50%">
+
 Log in and visit your dashboard to accept or decline this invitation.
 
 </td><td width="50%">
@@ -109,6 +127,15 @@ Pending team invitations
 </td><td width="50%">
 
 Pending team invitations
+
+</td></tr>
+<tr><td width="50%">
+
+You left the team ":name
+
+</td><td width="50%">
+
+You left the team ":name
 
 </td></tr>
 </table>
