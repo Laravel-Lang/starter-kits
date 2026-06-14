@@ -1,9 +1,12 @@
 {
     ":inviterName has invited you to join the :teamName team.": ":inviterName has invited you to join the :teamName team.",
-    "Accept invitation": "Accept invitation",
     "An invitation has already been sent to this email address.": "An invitation has already been sent to this email address.",
+    "Invitation accepted.": "Invitation accepted.",
     "Invitation cancelled.": "Invitation cancelled.",
+    "Invitation declined.": "Invitation declined.",
     "Invitation sent.": "Invitation sent.",
+    "Log in": "Log in",
+    "Log in and visit your dashboard to accept or decline this invitation.": "Log in and visit your dashboard to accept or decline this invitation.",
     "Member removed.": "Member removed.",
     "Member role updated.": "Member role updated.",
     "Password updated.": "Password updated.",
@@ -19,5 +22,6 @@
     "This invitation was sent to a different email address.": "This invitation was sent to a different email address.",
     "This team name is reserved and cannot be used.": "This team name is reserved and cannot be used.",
     "This user is already a member of the team.": "This user is already a member of the team.",
+    "You left the team \":name": "You left the team \":name",
     "You've been invited to join :teamName": "You've been invited to join :teamName"
 }
