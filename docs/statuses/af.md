@@ -4,12 +4,12 @@ editLink: false
 
 # af
 
-##### All missed: 79
+##### All missed: 90
 
 
 ### json
 
-##### Missing: 79
+##### Missing: 90
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,6 +23,24 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+:action to join the ":team" team.
+
+</td><td width="50%">
+
+:action to join the ":team" team.
+
+</td></tr>
+<tr><td width="50%">
+
+:inviter invited you to join this team.
+
+</td><td width="50%">
+
+:inviter invited you to join this team.
+
+</td></tr>
+<tr><td width="50%">
+
 :inviterName has invited you to join the :teamName team.
 
 </td><td width="50%">
@@ -32,11 +50,20 @@ Value
 </td></tr>
 <tr><td width="50%">
 
-Accept invitation
+Accept
 
 </td><td width="50%">
 
-Accept invitation
+Accept
+
+</td></tr>
+<tr><td width="50%">
+
+Accept or decline the teams you have been invited to join.
+
+</td><td width="50%">
+
+Accept or decline the teams you have been invited to join.
 
 </td></tr>
 <tr><td width="50%">
@@ -82,6 +109,15 @@ Are you sure you want to cancel the invitation for :email?
 </td><td width="50%">
 
 Are you sure you want to cancel the invitation for :email?
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to leave :name?
+
+</td><td width="50%">
+
+Are you sure you want to leave :name?
 
 </td></tr>
 <tr><td width="50%">
@@ -167,6 +203,15 @@ Create team
 </td></tr>
 <tr><td width="50%">
 
+Decline
+
+</td><td width="50%">
+
+Decline
+
+</td></tr>
+<tr><td width="50%">
+
 Delete team
 
 </td><td width="50%">
@@ -221,11 +266,29 @@ Give your team a name to get started.
 </td></tr>
 <tr><td width="50%">
 
+Invitation accepted.
+
+</td><td width="50%">
+
+Invitation accepted.
+
+</td></tr>
+<tr><td width="50%">
+
 Invitation cancelled.
 
 </td><td width="50%">
 
 Invitation cancelled.
+
+</td></tr>
+<tr><td width="50%">
+
+Invitation declined.
+
+</td><td width="50%">
+
+Invitation declined.
 
 </td></tr>
 <tr><td width="50%">
@@ -280,6 +343,24 @@ Last used :time
 </td><td width="50%">
 
 Last used :time
+
+</td></tr>
+<tr><td width="50%">
+
+Leave team
+
+</td><td width="50%">
+
+Leave team
+
+</td></tr>
+<tr><td width="50%">
+
+Log in and visit your dashboard to accept or decline this invitation.
+
+</td><td width="50%">
+
+Log in and visit your dashboard to accept or decline this invitation.
 
 </td></tr>
 <tr><td width="50%">
@@ -415,6 +496,15 @@ Pending invitations
 </td><td width="50%">
 
 Pending invitations
+
+</td></tr>
+<tr><td width="50%">
+
+Pending team invitations
+
+</td><td width="50%">
+
+Pending team invitations
 
 </td></tr>
 <tr><td width="50%">
@@ -721,6 +811,15 @@ You don't belong to any teams yet.
 </td><td width="50%">
 
 You don't belong to any teams yet.
+
+</td></tr>
+<tr><td width="50%">
+
+You left the team ":name
+
+</td><td width="50%">
+
+You left the team ":name
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # de
 
-##### All missed: 21
+##### All missed: 13
 
 
 ### json
 
-##### Missing: 21
+##### Missing: 13
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,92 +23,92 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Add a passkey to sign in without a password
+:action to join the ":team" team.
 
 </td><td width="50%">
 
-Add a passkey to sign in without a password
+:action to join the ":team" team.
 
 </td></tr>
 <tr><td width="50%">
 
-Add passkey
+:inviter invited you to join this team.
 
 </td><td width="50%">
 
-Add passkey
+:inviter invited you to join this team.
 
 </td></tr>
 <tr><td width="50%">
 
-Added :time
+Accept
 
 </td><td width="50%">
 
-Added :time
+Accept
 
 </td></tr>
 <tr><td width="50%">
 
-Are you sure you want to remove the passkey ":name"? You will no longer be able to use it to sign in.
+Accept or decline the teams you have been invited to join.
 
 </td><td width="50%">
 
-Are you sure you want to remove the passkey ":name"? You will no longer be able to use it to sign in.
+Accept or decline the teams you have been invited to join.
 
 </td></tr>
 <tr><td width="50%">
 
-Authenticating...
+Are you sure you want to leave :name?
 
 </td><td width="50%">
 
-Authenticating...
+Are you sure you want to leave :name?
 
 </td></tr>
 <tr><td width="50%">
 
-Confirm with passkey
+Decline
 
 </td><td width="50%">
 
-Confirm with passkey
+Decline
 
 </td></tr>
 <tr><td width="50%">
 
-Confirming...
+Invitation accepted.
 
 </td><td width="50%">
 
-Confirming...
+Invitation accepted.
 
 </td></tr>
 <tr><td width="50%">
 
-e.g., MacBook Pro, iPhone
+Invitation declined.
 
 </td><td width="50%">
 
-e.g., MacBook Pro, iPhone
+Invitation declined.
 
 </td></tr>
 <tr><td width="50%">
 
-Give this passkey a name to help you identify it later.
+Leave team
 
 </td><td width="50%">
 
-Give this passkey a name to help you identify it later.
+Leave team
 
 </td></tr>
 <tr><td width="50%">
 
-Last used :time
+Log in and visit your dashboard to accept or decline this invitation.
 
 </td><td width="50%">
 
-Last used :time
+Log in and visit your dashboard to accept or decline this invitation.
 
 </td></tr>
 <tr><td width="50%">
@@ -122,92 +122,20 @@ Manage your passkeys for passwordless sign-in
 </td></tr>
 <tr><td width="50%">
 
-No passkeys yet
+Pending team invitations
 
 </td><td width="50%">
 
-No passkeys yet
+Pending team invitations
 
 </td></tr>
 <tr><td width="50%">
 
-Or confirm with password
+You left the team ":name
 
 </td><td width="50%">
 
-Or confirm with password
-
-</td></tr>
-<tr><td width="50%">
-
-Or continue with email
-
-</td><td width="50%">
-
-Or continue with email
-
-</td></tr>
-<tr><td width="50%">
-
-Passkey name
-
-</td><td width="50%">
-
-Passkey name
-
-</td></tr>
-<tr><td width="50%">
-
-Passkeys
-
-</td><td width="50%">
-
-Passkeys
-
-</td></tr>
-<tr><td width="50%">
-
-Passkeys are not supported in this browser.
-
-</td><td width="50%">
-
-Passkeys are not supported in this browser.
-
-</td></tr>
-<tr><td width="50%">
-
-Register passkey
-
-</td><td width="50%">
-
-Register passkey
-
-</td></tr>
-<tr><td width="50%">
-
-Registering...
-
-</td><td width="50%">
-
-Registering...
-
-</td></tr>
-<tr><td width="50%">
-
-Remove passkey
-
-</td><td width="50%">
-
-Remove passkey
-
-</td></tr>
-<tr><td width="50%">
-
-Sign in with a passkey
-
-</td><td width="50%">
-
-Sign in with a passkey
+You left the team ":name
 
 </td></tr>
 </table>

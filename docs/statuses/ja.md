@@ -4,12 +4,12 @@ editLink: false
 
 # ja
 
-##### All missed: 21
+##### All missed: 33
 
 
 ### json
 
-##### Missing: 21
+##### Missing: 33
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,6 +23,42 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+:action to join the ":team" team.
+
+</td><td width="50%">
+
+:action to join the ":team" team.
+
+</td></tr>
+<tr><td width="50%">
+
+:inviter invited you to join this team.
+
+</td><td width="50%">
+
+:inviter invited you to join this team.
+
+</td></tr>
+<tr><td width="50%">
+
+Accept
+
+</td><td width="50%">
+
+Accept
+
+</td></tr>
+<tr><td width="50%">
+
+Accept or decline the teams you have been invited to join.
+
+</td><td width="50%">
+
+Accept or decline the teams you have been invited to join.
+
+</td></tr>
+<tr><td width="50%">
+
 Add a passkey to sign in without a password
 
 </td><td width="50%">
@@ -46,6 +82,15 @@ Added :time
 </td><td width="50%">
 
 Added :time
+
+</td></tr>
+<tr><td width="50%">
+
+Are you sure you want to leave :name?
+
+</td><td width="50%">
+
+Are you sure you want to leave :name?
 
 </td></tr>
 <tr><td width="50%">
@@ -86,6 +131,15 @@ Confirming...
 </td></tr>
 <tr><td width="50%">
 
+Decline
+
+</td><td width="50%">
+
+Decline
+
+</td></tr>
+<tr><td width="50%">
+
 e.g., MacBook Pro, iPhone
 
 </td><td width="50%">
@@ -104,11 +158,47 @@ Give this passkey a name to help you identify it later.
 </td></tr>
 <tr><td width="50%">
 
+Invitation accepted.
+
+</td><td width="50%">
+
+Invitation accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+Invitation declined.
+
+</td><td width="50%">
+
+Invitation declined.
+
+</td></tr>
+<tr><td width="50%">
+
 Last used :time
 
 </td><td width="50%">
 
 Last used :time
+
+</td></tr>
+<tr><td width="50%">
+
+Leave team
+
+</td><td width="50%">
+
+Leave team
+
+</td></tr>
+<tr><td width="50%">
+
+Log in and visit your dashboard to accept or decline this invitation.
+
+</td><td width="50%">
+
+Log in and visit your dashboard to accept or decline this invitation.
 
 </td></tr>
 <tr><td width="50%">
@@ -176,6 +266,15 @@ Passkeys are not supported in this browser.
 </td></tr>
 <tr><td width="50%">
 
+Pending team invitations
+
+</td><td width="50%">
+
+Pending team invitations
+
+</td></tr>
+<tr><td width="50%">
+
 Register passkey
 
 </td><td width="50%">
@@ -208,6 +307,15 @@ Sign in with a passkey
 </td><td width="50%">
 
 Sign in with a passkey
+
+</td></tr>
+<tr><td width="50%">
+
+You left the team ":name
+
+</td><td width="50%">
+
+You left the team ":name
 
 </td></tr>
 </table>

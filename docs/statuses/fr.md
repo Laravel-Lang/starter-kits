@@ -4,12 +4,12 @@ editLink: false
 
 # fr
 
-##### All missed: 79
+##### All missed: 77
 
 
 ### json
 
-##### Missing: 79
+##### Missing: 77
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,6 +23,24 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+:action to join the ":team" team.
+
+</td><td width="50%">
+
+:action to join the ":team" team.
+
+</td></tr>
+<tr><td width="50%">
+
+:inviter invited you to join this team.
+
+</td><td width="50%">
+
+:inviter invited you to join this team.
+
+</td></tr>
+<tr><td width="50%">
+
 :inviterName has invited you to join the :teamName team.
 
 </td><td width="50%">
@@ -32,29 +50,20 @@ Value
 </td></tr>
 <tr><td width="50%">
 
-Accept invitation
+Accept
 
 </td><td width="50%">
 
-Accept invitation
+Accept
 
 </td></tr>
 <tr><td width="50%">
 
-Add a passkey to sign in without a password
+Accept or decline the teams you have been invited to join.
 
 </td><td width="50%">
 
-Add a passkey to sign in without a password
-
-</td></tr>
-<tr><td width="50%">
-
-Add passkey
-
-</td><td width="50%">
-
-Add passkey
+Accept or decline the teams you have been invited to join.
 
 </td></tr>
 <tr><td width="50%">
@@ -86,20 +95,20 @@ Are you sure you want to cancel the invitation for :email?
 </td></tr>
 <tr><td width="50%">
 
-Are you sure you want to remove :name from this team?
+Are you sure you want to leave :name?
 
 </td><td width="50%">
 
-Are you sure you want to remove :name from this team?
+Are you sure you want to leave :name?
 
 </td></tr>
 <tr><td width="50%">
 
-Are you sure you want to remove the passkey ":name"? You will no longer be able to use it to sign in.
+Are you sure you want to remove :name from this team?
 
 </td><td width="50%">
 
-Are you sure you want to remove the passkey ":name"? You will no longer be able to use it to sign in.
+Are you sure you want to remove :name from this team?
 
 </td></tr>
 <tr><td width="50%">
@@ -131,15 +140,6 @@ Cancel invitation
 </td></tr>
 <tr><td width="50%">
 
-Confirm with passkey
-
-</td><td width="50%">
-
-Confirm with passkey
-
-</td></tr>
-<tr><td width="50%">
-
 Confirming...
 
 </td><td width="50%">
@@ -163,6 +163,15 @@ Create team
 </td><td width="50%">
 
 Create team
+
+</td></tr>
+<tr><td width="50%">
+
+Decline
+
+</td><td width="50%">
+
+Decline
 
 </td></tr>
 <tr><td width="50%">
@@ -212,15 +221,6 @@ Edit team
 </td></tr>
 <tr><td width="50%">
 
-Give this passkey a name to help you identify it later.
-
-</td><td width="50%">
-
-Give this passkey a name to help you identify it later.
-
-</td></tr>
-<tr><td width="50%">
-
 Give your team a name to get started.
 
 </td><td width="50%">
@@ -230,11 +230,29 @@ Give your team a name to get started.
 </td></tr>
 <tr><td width="50%">
 
+Invitation accepted.
+
+</td><td width="50%">
+
+Invitation accepted.
+
+</td></tr>
+<tr><td width="50%">
+
 Invitation cancelled.
 
 </td><td width="50%">
 
 Invitation cancelled.
+
+</td></tr>
+<tr><td width="50%">
+
+Invitation declined.
+
+</td><td width="50%">
+
+Invitation declined.
 
 </td></tr>
 <tr><td width="50%">
@@ -293,20 +311,29 @@ Last used :time
 </td></tr>
 <tr><td width="50%">
 
-Manage who belongs to this team
+Leave team
 
 </td><td width="50%">
 
-Manage who belongs to this team
+Leave team
 
 </td></tr>
 <tr><td width="50%">
 
-Manage your passkeys for passwordless sign-in
+Log in and visit your dashboard to accept or decline this invitation.
 
 </td><td width="50%">
 
-Manage your passkeys for passwordless sign-in
+Log in and visit your dashboard to accept or decline this invitation.
+
+</td></tr>
+<tr><td width="50%">
+
+Manage who belongs to this team
+
+</td><td width="50%">
+
+Manage who belongs to this team
 
 </td></tr>
 <tr><td width="50%">
@@ -356,15 +383,6 @@ New team
 </td></tr>
 <tr><td width="50%">
 
-No passkeys yet
-
-</td><td width="50%">
-
-No passkeys yet
-
-</td></tr>
-<tr><td width="50%">
-
 Or confirm with password
 
 </td><td width="50%">
@@ -383,33 +401,6 @@ Or continue with email
 </td></tr>
 <tr><td width="50%">
 
-Passkey name
-
-</td><td width="50%">
-
-Passkey name
-
-</td></tr>
-<tr><td width="50%">
-
-Passkeys
-
-</td><td width="50%">
-
-Passkeys
-
-</td></tr>
-<tr><td width="50%">
-
-Passkeys are not supported in this browser.
-
-</td><td width="50%">
-
-Passkeys are not supported in this browser.
-
-</td></tr>
-<tr><td width="50%">
-
 Password updated.
 
 </td><td width="50%">
@@ -424,6 +415,15 @@ Pending invitations
 </td><td width="50%">
 
 Pending invitations
+
+</td></tr>
+<tr><td width="50%">
+
+Pending team invitations
+
+</td><td width="50%">
+
+Pending team invitations
 
 </td></tr>
 <tr><td width="50%">
@@ -464,15 +464,6 @@ Profile updated.
 </td></tr>
 <tr><td width="50%">
 
-Register passkey
-
-</td><td width="50%">
-
-Register passkey
-
-</td></tr>
-<tr><td width="50%">
-
 Registering...
 
 </td><td width="50%">
@@ -487,15 +478,6 @@ Remove member
 </td><td width="50%">
 
 Remove member
-
-</td></tr>
-<tr><td width="50%">
-
-Remove passkey
-
-</td><td width="50%">
-
-Remove passkey
 
 </td></tr>
 <tr><td width="50%">
@@ -541,15 +523,6 @@ Send invitation
 </td><td width="50%">
 
 Send invitation
-
-</td></tr>
-<tr><td width="50%">
-
-Sign in with a passkey
-
-</td><td width="50%">
-
-Sign in with a passkey
 
 </td></tr>
 <tr><td width="50%">
@@ -721,6 +694,15 @@ You don't belong to any teams yet.
 </td><td width="50%">
 
 You don't belong to any teams yet.
+
+</td></tr>
+<tr><td width="50%">
+
+You left the team ":name
+
+</td><td width="50%">
+
+You left the team ":name
 
 </td></tr>
 <tr><td width="50%">
