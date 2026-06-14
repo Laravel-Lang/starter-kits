@@ -5,7 +5,6 @@
     ":inviterName has invited you to join the :teamName team.": ":inviterName さんがあなたを :teamName チームに招待しました。",
     "A new verification link has been sent to the email address you provided during registration.": "登録時に入力したメールアドレスに、新しい認証リンクを送信しました。",
     "A new verification link has been sent to your email address.": "メールアドレスに新しい認証リンクを送信しました。",
-    "Accept invitation": "招待を承諾",
     "Add a passkey to sign in without a password": "パスワードなしでサインインするためのパスキーを追加",
     "Add passkey": "パスキーを追加",
     "Added :time": ":time に追加",
