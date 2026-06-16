@@ -181,6 +181,7 @@
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Wenn Sie die Zwei-Faktor-Authentifizierung aktivieren, werden Sie bei der Anmeldung zur Eingabe einer Sicherheits-PIN aufgefordert. Diese PIN können Sie über eine TOTP-unterstützte Anwendung auf Ihrem Smartphone abrufen.",
     "You don't belong to any teams yet.": "Sie gehören aktuell noch keinem Team an.",
     "You left the team \":name": "You left the team \":name",
+    "You left the team \":name\"": "You left the team \":name\"",
     "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Sie werden beim Anmelden zur Eingabe einer sicheren, zufällig generierten PIN aufgefordert, die Sie über die TOTP-fähige Anwendung auf Ihrem Smartphone abrufen können.",
     "You've been invited to join :teamName": "Sie wurden zum Team „:teamName“ eingeladen.",
     "Your email address is unverified.": "Ihre E-Mail-Adresse ist nicht verifiziert."
