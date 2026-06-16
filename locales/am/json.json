@@ -181,6 +181,7 @@
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "ሁለት-ግምታዊ ማረጋገጫ ሲያነቁ በመለያ ሲገቡ ደህንነቱ የተጠበቀ ፒን እንዲጠየቁ ያደርጋሉ. ይህ ፒን በስልክዎ ላይ ከ <prep -ደገ> መተግበሪያ ሊመለስ ይችላል.",
     "You don't belong to any teams yet.": "You don't belong to any teams yet.",
     "You left the team \":name": "You left the team \":name",
+    "You left the team \":name\"": "You left the team \":name\"",
     "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "በመግቢያ ጊዜ ደህንነቱ የተጠበቀ፣ የዘፈቀደ ፒን ይጠየቃሉ፣ ይህም በስልክዎ ላይ ካለው TOTP ከሚደገፈው መተግበሪያ ማግኘት ይችላሉ።",
     "You've been invited to join :teamName": "You've been invited to join :teamName",
     "Your email address is unverified.": "የኢሜል አድራሻዎ ያልተረጋገጠ ነው።"
