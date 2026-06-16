@@ -180,7 +180,6 @@
     "Welcome": "خوش آمدید",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "وقتی احرازهویت دو مرحله‌ای را فعال کنید، در هنگام ورود به سیستم از شما یک پین امن خواهش می‌شود. این پین را می‌توانید از یک برنامه پشتیبانی‌شده TOTP در تلفن همراه خود دریافت کنید.",
     "You don't belong to any teams yet.": "شما هنوز عضوی از هیچ تیمی نیستید.",
-    "You left the team \":name": "You left the team \":name",
     "You left the team \":name\"": "You left the team \":name\"",
     "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "در هنگام ورود، یک پین تصادفی و امن از شما درخواست می‌شود که می‌توانید آن را از برنامه پشتیبانی‌کننده TOTP روی گوشی خود دریافت کنید",
     "You've been invited to join :teamName": "شما به تیم :teamName دعوت شده‌اید",

@@ -180,7 +180,6 @@
     "Welcome": "স্বাগতম",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "যেতিয়া আপুনি দুটা-কাৰক প্ৰমাণীকৰণ সামৰ্থবান কৰে, আপুনি প্ৰৱেশৰ সময়ত এটা সুৰক্ষিত পিনৰ বাবে কোৱা হব। এই পিন আপোনাৰ ফোনত এটা TOTP-সমৰ্থিত এপ্লিকেচনৰ পৰা উদ্ধাৰ কৰিব পাৰি।",
     "You don't belong to any teams yet.": "You don't belong to any teams yet.",
-    "You left the team \":name": "You left the team \":name",
     "You left the team \":name\"": "You left the team \":name\"",
     "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "লগইনৰ সময়ত আপুনি এটা সুৰক্ষিত, যাদৃচ্ছিক পিনৰ বাবে কোৱা হ'ব, যি আপুনি আপোনাৰ ফোনত TOTP-সমৰ্থিত এপ্লিকেচনৰ পৰা উদ্ধাৰ কৰিব পাৰিব।",
     "You've been invited to join :teamName": "You've been invited to join :teamName",
