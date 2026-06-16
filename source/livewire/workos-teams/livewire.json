@@ -90,6 +90,6 @@
     "Warning": "Warning",
     "Welcome": "Welcome",
     "You don't belong to any teams yet.": "You don't belong to any teams yet.",
-    "You left the team \":name": "You left the team \":name",
+    "You left the team \":name\"": "You left the team \":name\"",
     "You've been invited to join :teamName": "You've been invited to join :teamName"
 }
