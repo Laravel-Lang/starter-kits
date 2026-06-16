@@ -4,12 +4,12 @@ editLink: false
 
 # ro
 
-##### All missed: 129
+##### All missed: 130
 
 
 ### json
 
-##### Missing: 129
+##### Missing: 130
 
 <table width="100%">
 <tr><th width="50%">
@@ -1162,6 +1162,15 @@ You left the team ":name
 </td><td width="50%">
 
 You left the team ":name
+
+</td></tr>
+<tr><td width="50%">
+
+You left the team ":name"
+
+</td><td width="50%">
+
+You left the team ":name"
 
 </td></tr>
 <tr><td width="50%">
