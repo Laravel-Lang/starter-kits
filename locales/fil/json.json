@@ -180,7 +180,6 @@
     "Welcome": "Maligayang pagdating",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Kapag pinagana mo ang pagpapatunay ng dalawang-factor, sasabihan ka para sa isang ligtas na pin sa panahon ng pag-login. Ang pin na ito ay maaaring makuha mula sa isang application na suportado ng TOTP sa iyong telepono.",
     "You don't belong to any teams yet.": "You don't belong to any teams yet.",
-    "You left the team \":name": "You left the team \":name",
     "You left the team \":name\"": "You left the team \":name\"",
     "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Ipo-prompt ka para sa isang secure, random na pin sa panahon ng pag-login, na maaari mong makuha mula sa application na sinusuportahan ng TOTP sa iyong telepono.",
     "You've been invited to join :teamName": "You've been invited to join :teamName",

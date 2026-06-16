@@ -180,7 +180,6 @@
     "Welcome": "Wolkom",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "As jo ​​twa-faktor-ferifikaasje ynskeakelje, sille jo wurde frege foar in befeilige PIN by oanmelding. Dizze pin kin ophelle wurde fan in totp-stipe applikaasje op jo tillefoan.",
     "You don't belong to any teams yet.": "You don't belong to any teams yet.",
-    "You left the team \":name": "You left the team \":name",
     "You left the team \":name\"": "You left the team \":name\"",
     "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Jo wurde frege om in feilige, willekeurige pin by it oanmelden, dy't jo kinne ophelje fan 'e TOTP-stipe applikaasje op jo tillefoan.",
     "You've been invited to join :teamName": "You've been invited to join :teamName",

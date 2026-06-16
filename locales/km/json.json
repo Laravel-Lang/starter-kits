@@ -180,7 +180,6 @@
     "Welcome": "សូមស្វាគមន៍",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "នៅពេលអ្នកបើកការផ្ទៀងផ្ទាត់ភាពត្រឹមត្រូវពីរកត្តាអ្នកនឹងត្រូវបានជម្រុញឱ្យម្ជុលរងសុវត្ថិភាពអំឡុងពេលចូល។ ម្ជុលនេះអាចទាញយកបានពីកម្មវិធីដែលគាំទ្រសម្រាប់ទូរស័ព្ទរបស់អ្នក។",
     "You don't belong to any teams yet.": "You don't belong to any teams yet.",
-    "You left the team \":name": "You left the team \":name",
     "You left the team \":name\"": "You left the team \":name\"",
     "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "អ្នកនឹងត្រូវបានសួររកលេខសម្ងាត់ចៃដន្យដែលមានសុវត្ថិភាពអំឡុងពេលចូល ដែលអ្នកអាចទាញយកពីកម្មវិធីដែលគាំទ្រ TOTP នៅលើទូរសព្ទរបស់អ្នក។",
     "You've been invited to join :teamName": "You've been invited to join :teamName",

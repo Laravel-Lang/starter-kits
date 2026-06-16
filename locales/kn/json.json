@@ -180,7 +180,6 @@
     "Welcome": "ಸ್ವಾಗತ",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "ನೀವು ಎರಡು ಅಂಶಗಳ ದೃ hentic ೀಕರಣವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿದಾಗ, ಲಾಗಿನ್ ಸಮಯದಲ್ಲಿ ಸುರಕ್ಷಿತ ಪಿನ್‌ಗಾಗಿ ನಿಮ್ಮನ್ನು ಕೇಳಲಾಗುತ್ತದೆ. ಈ ಪಿನ್ ಅನ್ನು ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ TOTP-ಬೆಂಬಲಿತ ಅಪ್ಲಿಕೇಶನ್‌ನಿಂದ ಹಿಂಪಡೆಯಬಹುದು.",
     "You don't belong to any teams yet.": "You don't belong to any teams yet.",
-    "You left the team \":name": "You left the team \":name",
     "You left the team \":name\"": "You left the team \":name\"",
     "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "You've been invited to join :teamName": "You've been invited to join :teamName",
