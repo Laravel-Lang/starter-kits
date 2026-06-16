@@ -122,11 +122,11 @@ Pending team invitations
 </td></tr>
 <tr><td width="50%">
 
-You left the team ":name
+You left the team ":name"
 
 </td><td width="50%">
 
-You left the team ":name
+You left the team ":name"
 
 </td></tr>
 </table>
