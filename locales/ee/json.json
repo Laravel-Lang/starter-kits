@@ -181,6 +181,7 @@
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Ne èwɔ nu eve ƒe ɖaseɖiɖi ŋudɔ la, woabia tso asiwò be nàwɔ pin si le dedie le gege ɖe eme me. Woate ŋu axɔ pin sia tso TOTP-kpekpeɖeŋunadɔdasi si le wò fon dzi la me.",
     "You don't belong to any teams yet.": "You don't belong to any teams yet.",
     "You left the team \":name": "You left the team \":name",
+    "You left the team \":name\"": "You left the team \":name\"",
     "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Woabia tso asiwò be nàzã pin si le dedie, si le vome le gege ɖe eme me, si nàte ŋu axɔ tso dɔwɔnu si TOTP doa alɔe le wò fon dzi.",
     "You've been invited to join :teamName": "You've been invited to join :teamName",
     "Your email address is unverified.": "Womeɖo kpe wò e-mail adrɛs dzi o."

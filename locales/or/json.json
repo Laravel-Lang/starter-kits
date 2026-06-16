@@ -181,6 +181,7 @@
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "ଯେତେବେଳେ ଆପଣ ଦୁଇ-ଫ୍ୟାକ୍ଟର୍ ପ୍ରାମାଣିକିକରଣକୁ ସକ୍ଷମ କରନ୍ତି, ଆପଣଙ୍କୁ ଲଗଇନ୍ ସମୟରେ ଏକ ସୁରକ୍ଷିତ ପିନ୍ ପାଇଁ କୁହାଯିବ | ଏହି ପିନ୍ କୁ ନିଜ ଫୋନରେ TOP- ସମର୍ଥିତ ପ୍ରୟୋଗରୁ ଉଦ୍ଧାର କରାଯାଇପାରିବ |",
     "You don't belong to any teams yet.": "You don't belong to any teams yet.",
     "You left the team \":name": "You left the team \":name",
+    "You left the team \":name\"": "You left the team \":name\"",
     "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "You've been invited to join :teamName": "You've been invited to join :teamName",
     "Your email address is unverified.": "ଆପଣଙ୍କର ଇମେଲ୍ ଠିକଣା ଯାଞ୍ଚ ହୋଇନାହିଁ |"
