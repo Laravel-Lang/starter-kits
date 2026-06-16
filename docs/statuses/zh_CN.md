@@ -4,12 +4,12 @@ editLink: false
 
 # zh_CN
 
-##### All missed: 12
+##### All missed: 13
 
 
 ### json
 
-##### Missing: 12
+##### Missing: 13
 
 <table width="100%">
 <tr><th width="50%">
@@ -127,6 +127,15 @@ You left the team ":name
 </td><td width="50%">
 
 You left the team ":name
+
+</td></tr>
+<tr><td width="50%">
+
+You left the team ":name"
+
+</td><td width="50%">
+
+You left the team ":name"
 
 </td></tr>
 </table>
