@@ -181,6 +181,7 @@
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Kun otat kaksifaktorisen todennuksen käyttöön, sinua pyydetään suojattu PIN-koodi kirjautumisen aikana. Tämä PIN-koodi voidaan hakea puhelimen TOTP-tukemasta sovelluksesta.",
     "You don't belong to any teams yet.": "You don't belong to any teams yet.",
     "You left the team \":name": "You left the team \":name",
+    "You left the team \":name\"": "You left the team \":name\"",
     "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Sinulta kysytään sisäänkirjautumisen yhteydessä suojattua, satunnaista PIN-koodia, jonka voit hakea puhelimesi TOTP-tuetusta sovelluksesta.",
     "You've been invited to join :teamName": "You've been invited to join :teamName",
     "Your email address is unverified.": "Sähköpostiosoitteesi on vahvistamaton."
