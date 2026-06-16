@@ -180,7 +180,6 @@
     "Welcome": "ようこそ",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "二要素認証を有効にすると、ログイン時に認証コードの入力が必要になります。このコードは、スマートフォンの認証アプリで確認できます。",
     "You don't belong to any teams yet.": "どのチームにも所属していません。",
-    "You left the team \":name": "You left the team \":name",
     "You left the team \":name\"": "You left the team \":name\"",
     "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "ログイン時に認証コードの入力が必要になります。このコードは、スマートフォンの認証アプリで確認できます。",
     "You've been invited to join :teamName": ":teamName への参加に招待されています",

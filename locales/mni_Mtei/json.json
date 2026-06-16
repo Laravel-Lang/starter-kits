@@ -180,7 +180,6 @@
     "Welcome": "ꯇꯔꯥꯝꯅ ꯑꯣꯛꯆꯔꯤ",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "ꯅꯍꯥꯛꯅꯥ ꯇꯨ-ꯐꯦꯛꯇꯔ ꯑꯣꯊꯦꯟꯇꯤꯀꯦꯁꯟ ꯏꯅꯦꯕꯜ ꯇꯧꯕꯥ ꯃꯇꯃꯗꯥ, ꯅꯍꯥꯛꯅꯥ ꯂꯣꯒꯏꯟ ꯇꯧꯕꯥ ꯃꯇꯃꯗꯥ ꯁꯦꯛꯌꯨꯑꯣꯔ ꯑꯣꯏꯕꯥ PIN ꯑꯃꯥ ꯄꯤꯅꯕꯥ ꯍꯥꯌꯒꯅꯤ꯫ ꯃꯁꯤꯒꯤ ꯄꯤꯟ ꯑꯁꯤ ꯅꯍꯥꯛꯀꯤ ꯐꯣꯅꯗꯥ ꯂꯩꯕꯥ TOTP-ꯁꯄꯣꯔꯠ ꯑꯦꯞꯂꯤꯀꯦꯁꯟ ꯑꯃꯗꯒꯤ ꯂꯧꯊꯣꯀꯄꯥ ꯌꯥꯏ꯫",
     "You don't belong to any teams yet.": "You don't belong to any teams yet.",
-    "You left the team \":name": "You left the team \":name",
     "You left the team \":name\"": "You left the team \":name\"",
     "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
     "You've been invited to join :teamName": "You've been invited to join :teamName",
