@@ -180,7 +180,7 @@
     "Welcome": "Bonvenon",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Kiam vi ebligas du-faktan aŭtentikigon, oni petos vin sekura pinglo dum ensaluto. Ĉi tiu pinglo povas esti retrovita de TOTP-subtenata aplikaĵo en via telefono.",
     "You don't belong to any teams yet.": "You don't belong to any teams yet.",
-    "You left the team \":name": "You left the team \":name",
+    "You left the team \":name\"": "You left the team \":name\"",
     "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Oni petos vin pri sekura, hazarda pinglo dum ensaluto, kiun vi povas preni de la aplikaĵo subtenata de TOTP en via telefono.",
     "You've been invited to join :teamName": "You've been invited to join :teamName",
     "Your email address is unverified.": "Via retadreso estas nekontrolita."

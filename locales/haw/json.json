@@ -180,7 +180,7 @@
     "Welcome": "Welina",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "I ka wā e hiki ai iāʻoe ke hōʻoia iʻelua, e hoʻopaʻaʻiaʻoe no kahi PIN paʻa i ka wā e hoʻopaʻa inoa ai. Hiki ke kiʻiʻia kēia pin i kahi noi i kākoʻoʻia mai kāu kelepona i kākoʻoʻia ma kāu kelepona.",
     "You don't belong to any teams yet.": "You don't belong to any teams yet.",
-    "You left the team \":name": "You left the team \":name",
+    "You left the team \":name\"": "You left the team \":name\"",
     "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "E koi ʻia ʻoe no kahi pine paʻa a paʻa ʻole i ka wā e komo ai, hiki iā ʻoe ke kiʻi mai ka noi kākoʻo TOTP ma kāu kelepona.",
     "You've been invited to join :teamName": "You've been invited to join :teamName",
     "Your email address is unverified.": "ʻAʻole hōʻoia ʻia kāu leka uila."

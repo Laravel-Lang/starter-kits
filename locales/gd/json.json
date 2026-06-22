@@ -180,7 +180,7 @@
     "Welcome": "Fàilte",
     "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.": "Nuair a bheir thu seachad dearbhadh dà-fhactar, thèid a bhrosnachadh airson prìne tèarainte rè logadh a-steach. Faodar am prìne seo fhaighinn bho iarrtas le taic toit air an fhòn agad.",
     "You don't belong to any teams yet.": "You don't belong to any teams yet.",
-    "You left the team \":name": "You left the team \":name",
+    "You left the team \":name\"": "You left the team \":name\"",
     "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "Thèid iarraidh ort prìne tèarainte, air thuaiream nuair a bhios tu a’ logadh a-steach, as urrainn dhut fhaighinn air ais bhon tagradh le taic TOTP air an fhòn agad.",
     "You've been invited to join :teamName": "You've been invited to join :teamName",
     "Your email address is unverified.": "Tha do sheòladh puist-d gun dearbhadh."
