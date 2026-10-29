@@ -1,10 +1,11 @@
 ---
-
-## editLink: false
+editLink: false
+---
 
 # zh_CN
 
 ##### All missed: 12
+
 
 ### json
 
@@ -131,3 +132,4 @@ You left the team ":name"
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
+
