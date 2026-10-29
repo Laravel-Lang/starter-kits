@@ -1,11 +1,10 @@
 ---
-editLink: false
----
+
+## editLink: false
 
 # mni_Mtei
 
 ##### All missed: 92
-
 
 ### json
 
@@ -852,4 +851,3 @@ You've been invited to join :teamName
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-
