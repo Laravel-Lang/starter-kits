@@ -1,11 +1,10 @@
 ---
-editLink: false
----
+
+## editLink: false
 
 # uz_Latn
 
 ##### All missed: 174
-
 
 ### json
 
@@ -1590,4 +1589,3 @@ Your email address is unverified.
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-
