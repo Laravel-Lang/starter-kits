@@ -1,0 +1,23 @@
+<?php
+
+declare(strict_types=1);
+
+namespace LaravelLang\StarterKits\Plugins;
+
+use LaravelLang\Publisher\Plugins\Plugin;
+
+class Svelte extends Plugin
+{
+    protected ?string $vendor = 'laravel/svelte-starter-kit';
+
+    protected bool $with_project_name = true;
+
+    public function files(): array
+    {
+        return [
+            'svelte/main/svelte.json'         => '{locale}.json',
+            'svelte/teams/svelte.json'        => '{locale}.json',
+            'svelte/workos-teams/svelte.json' => '{locale}.json',
+        ];
+    }
+}
