@@ -4,12 +4,12 @@ editLink: false
 
 # fr
 
-##### All missed: 77
+##### All missed: 74
 
 
 ### json
 
-##### Missing: 77
+##### Missing: 74
 
 <table width="100%">
 <tr><th width="50%">
@@ -122,29 +122,11 @@ Are you sure?
 </td></tr>
 <tr><td width="50%">
 
-Authenticating...
-
-</td><td width="50%">
-
-Authenticating...
-
-</td></tr>
-<tr><td width="50%">
-
 Cancel invitation
 
 </td><td width="50%">
 
 Cancel invitation
-
-</td></tr>
-<tr><td width="50%">
-
-Confirming...
-
-</td><td width="50%">
-
-Confirming...
 
 </td></tr>
 <tr><td width="50%">
@@ -460,15 +442,6 @@ Profile updated.
 </td><td width="50%">
 
 Profile updated.
-
-</td></tr>
-<tr><td width="50%">
-
-Registering...
-
-</td><td width="50%">
-
-Registering...
 
 </td></tr>
 <tr><td width="50%">
