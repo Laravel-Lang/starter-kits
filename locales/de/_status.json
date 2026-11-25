@@ -1,0 +1,10 @@
+{
+    "json": {
+        "Dashboard": "Dashboard",
+        "Name": "Name",
+        "Passkeys": "Passkeys",
+        "Repository": "Repository",
+        "System": "System",
+        "Teams": "Teams"
+    }
+}
